@@ -1,0 +1,83 @@
+{
+  "summary": {
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0
+  },
+  "per_question": [
+    {
+      "user_input": "What is the purpose of this knowledge base?",
+      "retrieved_contexts": [],
+      "response": "I don't know based on the provided policy.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.0
+    },
+    {
+      "user_input": "Summarize the main policy in 3 bullet points.",
+      "retrieved_contexts": [],
+      "response": "I don't know based on the provided policy.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.0
+    },
+    {
+      "user_input": "What are the key definitions used in this document set?",
+      "retrieved_contexts": [],
+      "response": "I don't know based on the provided policy.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.0
+    },
+    {
+      "user_input": "List any exceptions or edge cases mentioned.",
+      "retrieved_contexts": [],
+      "response": "I don't know based on the provided policy.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.0
+    },
+    {
+      "user_input": "What steps are required to follow the process described?",
+      "retrieved_contexts": [],
+      "response": "I don't know based on the provided policy.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.0
+    },
+    {
+      "user_input": "What are the compliance requirements mentioned?",
+      "retrieved_contexts": [],
+      "response": "I don't know based on the provided policy.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.0
+    },
+    {
+      "user_input": "What are the common failure scenarios and their mitigations?",
+      "retrieved_contexts": [],
+      "response": "I don't know based on the provided policy.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.0
+    },
+    {
+      "user_input": "Give a short example that illustrates the rule.",
+      "retrieved_contexts": [],
+      "response": "I don't know based on the provided policy.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.0
+    },
+    {
+      "user_input": "What is explicitly not allowed according to the docs?",
+      "retrieved_contexts": [],
+      "response": "I don't know based on the provided policy.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.0
+    },
+    {
+      "user_input": "Where should audit evidence be stored, if mentioned?",
+      "retrieved_contexts": [],
+      "response": "I don't know based on the provided policy.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.0
+    }
+  ],
+  "metrics_used": [
+    "faithfulness",
+    "answer_relevancy"
+  ],
+  "has_reference": false
+}

@@ -1,0 +1,10 @@
+{"id":"q01","question":"What is the purpose of this knowledge base?"}
+{"id":"q02","question":"Summarize the main policy in 3 bullet points."}
+{"id":"q03","question":"What are the key definitions used in this document set?"}
+{"id":"q04","question":"List any exceptions or edge cases mentioned."}
+{"id":"q05","question":"What steps are required to follow the process described?"}
+{"id":"q06","question":"What are the compliance requirements mentioned?"}
+{"id":"q07","question":"What are the common failure scenarios and their mitigations?"}
+{"id":"q08","question":"Give a short example that illustrates the rule."}
+{"id":"q09","question":"What is explicitly not allowed according to the docs?"}
+{"id":"q10","question":"Where should audit evidence be stored, if mentioned?"}

@@ -1,0 +1,199 @@
+# =============================================================================
+# hr_policy.txt — Synthetic HR Policy Document (Knowledge Base Source)
+# =============================================================================
+#
+# WHY A .txt AND NOT THE REAL PDF?
+# For training/interview purposes, we use a controlled synthetic document so
+# that ground-truth answers are 100% known and verifiable. In production, this
+# would be replaced by your actual HR PDF via a PDF loader (see ingestion.py).
+#
+# This document is intentionally designed to:
+#   - Cover common HR topics (remote work, PTO, discipline, benefits)
+#   - Contain specific, quotable facts (numbers, dates, dollar amounts)
+#   - Have a clear boundary so out-of-scope questions can be detected
+# =============================================================================
+
+ACME CORP — EMPLOYEE HANDBOOK & HR POLICY DOCUMENT
+Version 3.2 | Effective January 1, 2025
+
+============================================================
+SECTION 1: REMOTE WORK POLICY
+============================================================
+
+1.1 Eligibility
+All full-time employees who have completed their 90-day probationary period
+are eligible for remote work arrangements.
+
+1.2 Remote Work Allowance
+Employees may work remotely up to 3 days per week. The remaining days
+must be spent working on-site at a company-approved location.
+
+1.3 Approval Process
+Remote work requires a written agreement between the employee and their
+direct manager. This agreement must be reviewed and renewed annually.
+The agreement must be filed with the HR department.
+
+1.4 Compliance Requirements
+Remote work arrangements must comply with:
+- Data security policies (see Section 8)
+- Tax regulations of the employee's state of residence
+- Ergonomic workspace guidelines published by Occupational Health
+
+1.5 Restrictions
+Customer-facing roles, roles involving classified data, and roles during
+the first 6 months of a new position are not eligible for remote work
+without VP-level approval.
+
+============================================================
+SECTION 2: PAID TIME OFF (PTO) POLICY
+============================================================
+
+2.1 PTO Accrual
+- Years 0–2: 15 days per year
+- Years 3–5: 20 days per year
+- Years 6+: 25 days per year
+PTO is accrued bi-weekly and must be approved in advance by the manager.
+
+2.2 Carryover
+A maximum of 5 unused PTO days may be carried over into the next calendar
+year. Unused days beyond 5 are forfeited on December 31.
+
+2.3 Sick Leave
+Employees receive 10 sick days per year. Sick days do not roll over.
+A doctor's note is required for absences exceeding 3 consecutive days.
+
+2.4 Holidays
+The company observes 11 federal holidays per year. A full holiday calendar
+is published on the company intranet by November 1 of the preceding year.
+
+============================================================
+SECTION 3: DISCIPLINARY PROCESS
+============================================================
+
+3.1 Overview
+ACME Corp follows a progressive disciplinary structure designed to
+support employee improvement while maintaining organizational standards.
+
+3.2 Escalation Steps
+The disciplinary process follows these escalation steps:
+  Step 1 — Verbal Warning: The manager documents the issue and delivers
+           a verbal warning. The conversation is noted in the employee's file.
+  Step 2 — Written Warning: A formal written warning is issued, signed by
+           both the manager and the employee, and filed with HR.
+  Step 3 — Performance Improvement Plan (PIP): A structured 30/60/90-day
+           plan with measurable goals is created in collaboration with HR.
+  Step 4 — Final Written Warning: If the PIP objectives are not met, a
+           final written warning is issued. This is the last step before
+           termination is considered.
+
+3.3 Termination
+Termination may occur after Step 4 or immediately in cases of gross
+misconduct (e.g., theft, harassment, or violation of safety protocols).
+All termination decisions require HR and Legal review.
+
+3.4 Documentation
+Each step must be documented by HR and acknowledged (signed) by the employee.
+Refusal to sign does not prevent the process from advancing.
+
+============================================================
+SECTION 4: PARENTAL LEAVE & FAMILY BENEFITS
+============================================================
+
+4.1 Parental Leave
+All employees (regardless of gender) are eligible for up to 12 weeks of
+paid parental leave at their full base salary upon the birth or adoption
+of a child.
+
+4.2 Benefit Continuation
+Health, dental, and vision insurance benefits continue at the same level
+throughout the entire parental leave period. The company continues its
+portion of all benefit contributions.
+
+4.3 Adoption Assistance
+Employees adopting a child are eligible for a one-time reimbursement of
+up to $5,000 to cover qualified adoption expenses (legal fees, agency fees,
+travel costs). Receipts must be submitted within 90 days of the adoption
+being finalized.
+
+4.4 Return to Work
+Employees must return to work within 2 business days of the end of their
+leave period. Failure to return without prior written notification may
+result in the leave being treated as job abandonment.
+
+============================================================
+SECTION 5: CODE OF CONDUCT
+============================================================
+
+5.1 Workplace Behavior
+All employees are expected to treat colleagues, clients, and partners
+with respect and professionalism. Harassment, discrimination, and
+bullying of any kind are strictly prohibited.
+
+5.2 Conflict of Interest
+Employees must disclose any potential conflicts of interest to their
+manager and HR within 5 business days of becoming aware of the conflict.
+
+5.3 Confidentiality
+All company information, including but not limited to financial data,
+client lists, trade secrets, and personnel records, is confidential.
+Unauthorized disclosure is grounds for disciplinary action up to
+and including termination.
+
+============================================================
+SECTION 6: COMPENSATION & BENEFITS OVERVIEW
+============================================================
+
+6.1 Pay Schedule
+Employees are paid bi-weekly. Pay stubs are available electronically
+via the company HR portal (HRIS).
+
+6.2 Health Insurance
+The company covers 80% of the premium cost for individual health,
+dental, and vision plans. Employees may add dependents at a 60% company
+contribution rate.
+
+6.3 Retirement (401k)
+The company offers a 401(k) plan with a match of up to 4% of the
+employee's annual salary, vesting over a 3-year schedule.
+
+6.4 Professional Development
+Each employee receives a $2,000 annual budget for approved training,
+conferences, or certifications.
+
+============================================================
+SECTION 7: PERFORMANCE REVIEW CYCLE
+============================================================
+
+7.1 Review Frequency
+Performance reviews are conducted semi-annually (June and December).
+
+7.2 Process
+Reviews are initiated by the manager and must include a self-assessment
+from the employee. Final reviews are signed by both parties and filed
+with HR.
+
+7.3 Compensation Adjustments
+Merit-based salary adjustments are determined following the December
+review cycle and take effect on January 1 of the following year.
+
+============================================================
+SECTION 8: DATA SECURITY & ACCEPTABLE USE
+============================================================
+
+8.1 Data Classification
+All company data is classified as one of: Public, Internal, Confidential,
+or Restricted. Handling procedures differ by classification level.
+
+8.2 Device Policy
+Company-issued devices must be used for all work involving Confidential
+or Restricted data. Personal devices are permitted for Internal and
+Public data only.
+
+8.3 Incident Reporting
+Any suspected data breach or security incident must be reported to the
+IT Security team within 1 hour of detection. Failure to report is a
+disciplinary offense.
+
+============================================================
+END OF DOCUMENT
+============================================================

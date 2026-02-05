@@ -1,0 +1,26 @@
+╭─────────────────────────╮
+│ RAGAS Evaluation Report │
+│ Run: 20260201_220736    │
+╰─────────────────────────╯
+╭────────────────────────────────────────────────────── Run Info ──────────────────────────────────────────────────────╮
+│ Dataset rows: 10                                                                                                     │
+│ Reference present: False                                                                                             │
+│ Metrics used: faithfulness, answer_relevancy                                                                         │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+   Overall Metrics (Mean)    
+┏━━━━━━━━━━━━━━━━━━┳━━━━━━━━┓
+┃ Metric           ┃  Score ┃
+┡━━━━━━━━━━━━━━━━━━╇━━━━━━━━┩
+│ answer_relevancy │    nan │
+│ faithfulness     │ 0.0000 │
+└──────────────────┴────────┘
+                      Lowest Faithfulness Questions (Top 5)                      
+┏━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Idx ┃ faithfulness ┃ question                                                 ┃
+┡━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│   0 │       0.0000 │ What is the purpose of this knowledge base?              │
+│   1 │       0.0000 │ Summarize the main policy in 3 bullet points.            │
+│   2 │       0.0000 │ What are the key definitions used in this document set?  │
+│   3 │       0.0000 │ List any exceptions or edge cases mentioned.             │
+│   4 │       0.0000 │ What steps are required to follow the process described? │
+└─────┴──────────────┴──────────────────────────────────────────────────────────┘

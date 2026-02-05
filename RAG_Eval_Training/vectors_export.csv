@@ -1,0 +1,1094 @@
+Chunk_ID,Text (first 200 chars),Vector (first 10 dims),Total Dimensions
+879c49b0-5a95-40ad-852a-cfa4eef37a1d,"HUMAN RESOURCE POLICIES 
+AND PROCEDURE MANUAL 
+(HRPPM) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISED 2018","[np.float64(-0.0248), np.float64(0.0372), np.float64(0.053), np.float64(0.0217), np.float64(-0.0167), np.float64(-0.0077), np.float64(0.0013), np.float64(0.0048), np.float64(0.0168), np.float64(-0.0165)]",1536
+fe8a01dd-1e1d-4a68-9b18-4e2567d2ec55,"INTRODUCTION 
+ 
+This employee handbook summarises the key policies, procedures and practices related to 
+human resource management in GESCI. 
+ 
+The Chief Executive Officer is accountable for leading a","[np.float64(0.0102), np.float64(0.0308), np.float64(0.0743), np.float64(0.0001), np.float64(-0.0315), np.float64(0.0112), np.float64(0.0383), np.float64(0.0251), np.float64(0.011), np.float64(-0.0311)]",1536
+7d07ee72-2600-427e-9a48-84c41188dd46,"systems which support human resource management for GESCI and is available to answer 
+any questions or provide clarification on any content in this manual.  
+ 
+GESCI’s benefits package, including medi","[np.float64(-0.0101), np.float64(0.0338), np.float64(0.0828), np.float64(0.0195), np.float64(-0.0325), np.float64(0.0081), np.float64(-0.0094), np.float64(0.0328), np.float64(0.0135), np.float64(-0.0321)]",1536
+3d74c96c-cf88-42e6-913f-7018d222f4b1,"and effect of the Manual.  I agree that if there is any policy or provision in the Manual that 
+I do not understand, I will seek clarification from the manager and/or senior management. 
+I understand ","[np.float64(-0.0032), np.float64(0.0586), np.float64(0.0655), np.float64(-0.0189), np.float64(-0.0263), np.float64(0.0431), np.float64(0.0154), np.float64(-0.0051), np.float64(-0.0025), np.float64(0.002)]",1536
+23cf3e13-0d7b-477d-aa66-15b3175027e6,"amended, modified or terminated at any time. 
+ 
+Please sign and date this receipt and return it to the Manager: Finance & Operations. 
+ 
+ 
+Date: _______________________________ 
+ 
+ 
+Signature: _______","[np.float64(0.0028), np.float64(0.0637), np.float64(0.0144), np.float64(-0.0097), np.float64(-0.0391), np.float64(0.03), np.float64(-0.0074), np.float64(-0.022), np.float64(0.0079), np.float64(0.0031)]",1536
+cd11096f-f7d9-4104-8f70-f8e1d072e437,"1. SCOPE AND PURPOSE 
+GESCI views its st aff as its most impo rtant asset and resource and the  well-being and 
+appropriate utilization of its staff is of critical importance. 
+This Human Resource Pol","[np.float64(0.0425), np.float64(0.0465), np.float64(0.1065), np.float64(0.0262), np.float64(-0.0125), np.float64(-0.0068), np.float64(-0.0093), np.float64(-0.0058), np.float64(-0.0022), np.float64(-0.0298)]",1536
+68b7e0d3-ac1b-47ce-840c-92cb9bc5780b,"and dismissal of st aff, subject to the general control of the GESCI Board. The Board is 
+responsible for approving human resource policies and the appointment of the CEO. The 
+CEO shall provide and e","[np.float64(0.0234), np.float64(0.032), np.float64(0.0957), np.float64(0.0137), np.float64(-0.0323), np.float64(0.0082), np.float64(0.0017), np.float64(0.0108), np.float64(0.0053), np.float64(-0.0313)]",1536
+6552d23d-9dac-4cc7-9cb6-82c928621920,"Objectives of the Manual 
+The objectives of this Manual are: 
+a)  To document GESCI Human Resource Policies and Procedures and to provide 
+general guidelines with regard to GESCI human resource polici","[np.float64(0.0061), np.float64(0.0645), np.float64(0.0789), np.float64(-0.0102), np.float64(-0.0176), np.float64(-0.0038), np.float64(0.0099), np.float64(0.0225), np.float64(0.0231), np.float64(-0.0228)]",1536
+8a838f1a-ed64-4768-b545-f4f538cbf670,"2. Review of the Manual 
+The Manual is subject to review by GESCI’s management to reflect and to be consistent 
+with GESCI’s requirements and needs and with legal and statutory requirements in Kenya. ","[np.float64(0.0077), np.float64(0.0742), np.float64(0.0917), np.float64(-0.0265), np.float64(-0.0261), np.float64(0.0455), np.float64(-0.0062), np.float64(0.0275), np.float64(0.0023), np.float64(0.0055)]",1536
+7cfbdf98-a8f9-4520-876e-edbcb6bd2907,"4. The Human Resource Function 
+The human resource functions shall be managed, on a day-to-day basis by the manager: 
+Finance and Operations or another person so designated by the CEO. Such a person w","[np.float64(0.0007), np.float64(0.0438), np.float64(0.0473), np.float64(0.0089), np.float64(0.0137), np.float64(-0.0018), np.float64(0.0175), np.float64(0.0208), np.float64(0.0181), np.float64(-0.0312)]",1536
+defb2d2c-a3cd-4e68-9c84-bccd0630c39a," implement and monitor  human resource policies and p rocedures as contained in the 
+Manual; 
+ facilitate the recruitment and hiring of staff; 
+ assist in the establishment of an organization struc","[np.float64(-0.015), np.float64(0.0464), np.float64(0.0863), np.float64(0.0156), np.float64(0.0284), np.float64(-0.0077), np.float64(0.0139), np.float64(0.0363), np.float64(0.0038), np.float64(0.0157)]",1536
+ad1a2e04-ccf3-423f-8d53-71adced0cf93," co-ordinate the preparation of annual leave programme; 
+ advise Management on matters relating to discipline and the procedures to be followed in 
+handling disciplinary cases; 
+ Be the custodian o","[np.float64(0.0412), np.float64(0.0752), np.float64(0.1001), np.float64(-0.0313), np.float64(-0.0029), np.float64(0.0405), np.float64(0.0144), np.float64(0.018), np.float64(-0.0031), np.float64(-0.003)]",1536
+ef6401b1-a39e-4cd4-9faf-37913fac57a7,"6.3. Each staff member shall complete an employee data form that includes and not limited to; 
+personal family details including marriage certificate for the spouse & birth certificate for 
+children, ","[np.float64(0.049), np.float64(0.0441), np.float64(0.0695), np.float64(0.0007), np.float64(-0.0256), np.float64(-0.0126), np.float64(0.0022), np.float64(0.0229), np.float64(-0.016), np.float64(-0.0058)]",1536
+9668047b-b4f2-4396-8bdc-69d9cecda0da,"employment and offer/appointment Letter, Reference checklist and Leave record 
+6.5. The HR Manager shall maintain a record of information on each staff member. Such records 
+shall contain information ","[np.float64(0.0138), np.float64(0.0672), np.float64(0.087), np.float64(0.002), np.float64(-0.0233), np.float64(0.0116), np.float64(0.0257), np.float64(-0.0009), np.float64(0.0034), np.float64(0.0091)]",1536
+15032628-72f5-4f54-9e4d-45b2604106f4,"GESCI will treat all personal/ sensitive personal data as strictly confidential and will never 
+use or process it oth er than for legitimate reasons. Individual members of staff may, on 
+request, revi","[np.float64(0.0128), np.float64(0.0419), np.float64(0.0594), np.float64(-0.0099), np.float64(-0.0095), np.float64(0.004), np.float64(-0.0176), np.float64(0.0395), np.float64(0.0252), np.float64(-0.0603)]",1536
+c800a014-9559-427b-a8e1-4c2832a15918,"2 DUTIES, RIGHTS AND OBLIGATIONS 
+ 
+2.1 Duties, Rights and Obligations of GESCI 
+GESCI is committed to ensuring that all staff members are treated in a fair and equitable 
+manner at all times. It is t","[np.float64(0.0361), np.float64(0.0557), np.float64(0.1105), np.float64(0.0383), np.float64(-0.0107), np.float64(0.0078), np.float64(0.0158), np.float64(0.0197), np.float64(0.0162), np.float64(0.0012)]",1536
+f004bf7c-55c7-475f-b865-c2ce97e324df,"recognition of the int ernational nature of the organization, GESCI will strive to maintain 
+diversity among its staff. 
+It is the int ention of GE SCI to adhere to both the  letter and spi rit of all","[np.float64(0.0406), np.float64(0.0526), np.float64(0.0841), np.float64(0.0341), np.float64(-0.0124), np.float64(0.0052), np.float64(0.0172), np.float64(0.0148), np.float64(0.017), np.float64(-0.0111)]",1536
+f7382625-c8ab-446f-b0f8-d92f434fbd14,"in the performance of their duties. See Health and Safety Policy in Section 8. 
+ 
+2.2 Duties , Rights and Obligations of Staff 
+The nature of GESCI’s work and the continued success of GESCI require st","[np.float64(0.0394), np.float64(0.0576), np.float64(0.0911), np.float64(0.0271), np.float64(0.0122), np.float64(0.0169), np.float64(0.0063), np.float64(0.0169), np.float64(0.0142), np.float64(0.0075)]",1536
+1cb228f7-d3dc-491b-9cd1-73a86a76bc44,"so as to be able to perform their work efficiently and effectively 
+b)  Maintain a high standard of business and professional ethics, demonstrate high level of 
+honesty, transparency, accountability a","[np.float64(0.0166), np.float64(0.0526), np.float64(0.0867), np.float64(0.0271), np.float64(0.0329), np.float64(0.0206), np.float64(-0.0112), np.float64(0.0179), np.float64(0.0138), np.float64(-0.0024)]",1536
+24edbf39-3b90-4823-8bbe-22afd2221417,"g)  Read and understand the Manual and comply with its provisions. 
+ 
+ 
+Disciplinary procedures set out in Section 9 of this Manual may be instituted against a staff 
+member who fails to comply with h","[np.float64(0.0256), np.float64(0.0987), np.float64(0.068), np.float64(-0.0056), np.float64(0.0311), np.float64(0.0309), np.float64(-0.0051), np.float64(0.008), np.float64(0.016), np.float64(0.0095)]",1536
+ff3a25d9-91b7-4c24-bf88-9bb3adff52e1,"set out here. 
+ 
+2.2.1 Prohibited  conduct 
+The following specific instances of conduct are prohibited for all GESCI staff: 
+ 
+i. Discrimination: GESCI does not entertain any form of discrimination wh","[np.float64(0.0435), np.float64(0.0289), np.float64(0.0906), np.float64(0.007), np.float64(-0.0237), np.float64(0.0107), np.float64(0.0124), np.float64(0.0097), np.float64(-0.0081), np.float64(0.0005)]",1536
+beb5ca9c-8f5b-4e93-b3c2-66410a9e995f,"personal integrity. 
+v. Outside employment: GESCI staff members are not allowed to have outside employment 
+over and above their employment with GESCI unless the CEO has expressly authorized 
+such emp","[np.float64(0.0289), np.float64(0.0312), np.float64(0.09), np.float64(0.036), np.float64(0.005), np.float64(-0.0238), np.float64(0.0378), np.float64(0.0101), np.float64(0.0053), np.float64(-0.0032)]",1536
+3bd57576-3b81-4c98-b8b2-cdbeef5abc26,"her/his own personal political interests. All staff members of GESCI should note  that 
+GESCI is non-political and non-partisan. 
+vii. Unprofessional conduct: that would bring the staff member’s profe","[np.float64(-0.0038), np.float64(0.0179), np.float64(0.0814), np.float64(0.007), np.float64(-0.0009), np.float64(-0.007), np.float64(0.0312), np.float64(0.0088), np.float64(0.0066), np.float64(-0.0105)]",1536
+e74c8dbd-10ff-448f-8220-d961c6d9d93a,"in dealing with such other party including partners and/or clients. Receiving benefits might 
+also be seen to compromise their personal judgement or integrity and that of GESCI as an 
+organization. 
+W","[np.float64(0.0063), np.float64(0.0099), np.float64(0.0863), np.float64(0.0333), np.float64(-0.0148), np.float64(0.0006), np.float64(-0.0006), np.float64(0.0248), np.float64(0.0136), np.float64(-0.0197)]",1536
+8ece6065-3bf9-495f-8363-286389c27afd,"scrutiny. 
+GESCI staff is not be allowed to undertake paid consultancies or any other form of paid 
+employment during the course of their employment. This includes evenings, weekends or 
+while on leav","[np.float64(-0.0077), np.float64(0.0801), np.float64(0.0917), np.float64(-0.0144), np.float64(-0.0534), np.float64(0.0271), np.float64(0.0196), np.float64(0.0221), np.float64(0.0166), np.float64(-0.0281)]",1536
+55c4bfc1-d6ce-45d2-89d4-e79521cb33e9,"In cases where payment is made in appreciation of work done by a member of staff, this 
+payment must be declared and revert to GESCI. 
+ 
+a)  Gifts 
+The receipt of gifts, as distinct from hospitality, ","[np.float64(0.0308), np.float64(0.0426), np.float64(0.0728), np.float64(0.0188), np.float64(-0.0169), np.float64(-0.007), np.float64(-0.0049), np.float64(0.0191), np.float64(0.0058), np.float64(-0.0332)]",1536
+1a9e32ad-d3a5-4c30-a092-375fb10d0ea4," Subject to any rules which the CEO may determine, a member of staff may accept and retain 
+gifts of modest value (e.g. diaries, pens, etc.). Any gifts of more significant value should be 
+refused or","[np.float64(0.024), np.float64(0.0534), np.float64(0.0475), np.float64(-0.0132), np.float64(-0.0164), np.float64(0.0052), np.float64(0.0124), np.float64(0.0211), np.float64(0.0088), np.float64(-0.0115)]",1536
+54c2ad4b-8438-40ac-b878-41baeb86ca39,"and family life. 
+ 
+ Particular care should be taken in relation to gifts from a provider of the benefit who stands 
+to derive a personal or commercial benefit from their relationship with GESCI. 
+ 
+","[np.float64(0.0187), np.float64(0.0231), np.float64(0.0557), np.float64(0.02), np.float64(-0.0277), np.float64(0.0072), np.float64(-0.001), np.float64(0.0323), np.float64(-0.0004), np.float64(-0.0241)]",1536
+de2a07c0-3937-47ce-bd8a-bb00e0b7694c,"application of this rule to instances of very small patronage. 
+ 
+ GESCI staff members should not accept special facilities or discounts on private purchases 
+from suppliers with whom they have offic","[np.float64(-0.0106), np.float64(0.0042), np.float64(0.0704), np.float64(-0.0068), np.float64(0.0087), np.float64(0.0312), np.float64(-0.0217), np.float64(0.0359), np.float64(-0.0165), np.float64(-0.0343)]",1536
+3db524c4-009f-4ca5-b10c-4ebfdfff41ed,"b)  Hospitality 
+Hospitality, as used here, is defined as the entertainment of staff members by clients, 
+partners or  other outside organizations or persons in the course of conducting GESCI 
+busines","[np.float64(-0.0058), np.float64(0.0111), np.float64(0.0806), np.float64(0.0288), np.float64(0.0025), np.float64(-0.0201), np.float64(-0.0036), np.float64(0.0165), np.float64(0.0361), np.float64(-0.0012)]",1536
+4169a517-2985-4a7d-9aa2-2004c89f8ca0,"The following general guidelines provide a framework within which decisions in this area can 
+be made or local rules formulated. GESCI may apply these rules on hospitality or make local 
+rules derived","[np.float64(-0.0428), np.float64(0.0127), np.float64(0.0951), np.float64(0.0248), np.float64(-0.0275), np.float64(-0.0129), np.float64(-0.0125), np.float64(-0.0152), np.float64(0.0267), np.float64(0.0046)]",1536
+7c39f0a0-b117-4a89-a05a-bc800cf7558a,"frequency of offers, whether there is an element of reciprocity and the general circumstances 
+in which it is offered (for example, whether it is offered by a company to all its customers 
+or is direc","[np.float64(-0.0186), np.float64(0.0082), np.float64(0.065), np.float64(0.0394), np.float64(0.0084), np.float64(0.0089), np.float64(0.0113), np.float64(0.009), np.float64(0.0541), np.float64(0.0128)]",1536
+e33f3a67-e982-498c-a70f-04bc41b4a624,"c)  Outside employment and activities 
+On occasional bases, GESCI staff members are asked to carry out tasks for which they 
+receive p ayment or other benefits-in-kind on behalf of bodies other than G","[np.float64(0.0172), np.float64(0.0298), np.float64(0.0951), np.float64(0.0148), np.float64(-0.0205), np.float64(0.0156), np.float64(0.0366), np.float64(0.0336), np.float64(0.0277), np.float64(-0.0097)]",1536
+535276e1-51ee-4db9-9fe3-fa2c305733ec," Where because of his or her official position, a GESCI staff member is invited to carry out 
+work on behalf of an outside body, he or she shall notify the CEO in advance and may not 
+seek or retain ","[np.float64(0.0235), np.float64(0.0267), np.float64(0.0453), np.float64(0.0066), np.float64(-0.0382), np.float64(0.0183), np.float64(0.0086), np.float64(0.0216), np.float64(0.0305), np.float64(-0.024)]",1536
+519569a0-c886-4164-87a2-56b983862ef0,"modest payment or benefit in kind if the task, while work related, is not an integral part of 
+his or her official duties and is carried on outside of normal working hours. 
+ The question of whether ","[np.float64(0.0086), np.float64(0.0311), np.float64(0.0447), np.float64(0.0056), np.float64(-0.011), np.float64(-0.0079), np.float64(0.0281), np.float64(0.0194), np.float64(0.0354), np.float64(-0.0107)]",1536
+6148b569-a62b-4f18-b2da-d667269c65a3,"of recognition. 
+ Where a GESCI staff member has any doubts concerning the propriety of accepting any 
+payment or compensation from bodies outside of GESCI, the matter should be referred to a 
+Manage","[np.float64(0.0225), np.float64(0.007), np.float64(0.0734), np.float64(0.0325), np.float64(-0.0555), np.float64(0.0141), np.float64(0.0157), np.float64(-0.0228), np.float64(0.0123), np.float64(-0.0204)]",1536
+a790ac2e-3346-4a13-a081-b125cf0345f2,"Section 9 of this Manual. 
+ 
+2.2.3 Sexual  Harassment Policy 
+GESCI strictly prohibits   sexual   harassment   in   the   workplace.   Examples   of   sexual 
+harassment   include, but   are   not   l","[np.float64(0.012), np.float64(0.0219), np.float64(0.073), np.float64(0.0124), np.float64(-0.04), np.float64(0.0098), np.float64(0.0322), np.float64(-0.026), np.float64(0.0157), np.float64(-0.0158)]",1536
+08828664-4f05-4885-9910-2b2a3b8b59b0,"compensation, assignments or    any    other    term    or    condition    of employment.  In 
+addition, all personnel in a supervisory role at GESCI who either observe   conduct   that   
+appears   t","[np.float64(0.0318), np.float64(0.016), np.float64(0.0636), np.float64(0.0458), np.float64(-0.0417), np.float64(0.0137), np.float64(0.0283), np.float64(-0.0206), np.float64(0.0291), np.float64(-0.026)]",1536
+94617839-89b8-4cc6-b09c-b3428e6188e8,"that may create an intimidating hostile or offensive work environment whether it be in the 
+form of physical, verbal or visual harassment and regardless of whether committed by an 
+individual with sup","[np.float64(0.005), np.float64(0.0085), np.float64(0.0343), np.float64(0.0513), np.float64(-0.0266), np.float64(0.0041), np.float64(0.0196), np.float64(-0.0464), np.float64(0.0103), np.float64(0.0082)]",1536
+295fb079-04b1-4666-98ed-63edfce6f648,"may have occurred is urged and expected to report the relevant facts immediately to their 
+Managers, to the senior management or the CEO or the Board (as the case may be). All","[np.float64(0.0139), np.float64(0.0249), np.float64(0.043), np.float64(0.0283), np.float64(-0.0133), np.float64(0.0289), np.float64(-0.0026), np.float64(-0.0014), np.float64(0.0005), np.float64(0.0205)]",1536
+5a1df29f-e33a-4bd5-9746-fcf2f6731a8c,"such reports will be investigated promptly, with an effort made to keep the source of the 
+report as confidential as possible. 
+It is against GESCI policy for any retaliatory action to be  taken again","[np.float64(0.0135), np.float64(0.0274), np.float64(0.0702), np.float64(0.0091), np.float64(-0.0249), np.float64(0.0213), np.float64(-0.002), np.float64(0.0164), np.float64(0.01), np.float64(-0.0256)]",1536
+79ceef21-992e-4ee2-b2a3-ae35642cbdc5,"technical nature relating in any way wh atsoever to the business of GESCI including, 
+without limit ation, know-how, information that results from research and d evelopment, 
+business p rocesses and i","[np.float64(0.0193), np.float64(0.0334), np.float64(0.0783), np.float64(0.0111), np.float64(0.0155), np.float64(0.0183), np.float64(0.0445), np.float64(0.044), np.float64(-0.0106), np.float64(-0.0178)]",1536
+3e44524e-c1c9-411a-8413-338465a26e74,"their respect for GESCI's corporate values. 
+All staff members are required to protect and maintain the confidentiality of GESCI, partner 
+and client information. Staff must not, except as authorized ","[np.float64(0.0464), np.float64(0.03), np.float64(0.0863), np.float64(0.0197), np.float64(0.009), np.float64(0.0163), np.float64(0.0207), np.float64(0.0417), np.float64(-0.0074), np.float64(-0.0276)]",1536
+0fc6f654-ad4f-49f4-bac6-86082c3a2faf," Confidential Information other than for legitimate purposes of GESCI. 
+ Use or attempt to use any Confidential Information in any manner which may injure 
+ or cause loss either directly or indirec","[np.float64(0.0401), np.float64(0.0452), np.float64(0.0742), np.float64(0.0053), np.float64(-0.0105), np.float64(0.0143), np.float64(0.0409), np.float64(0.0045), np.float64(0.0013), np.float64(-0.0092)]",1536
+174d546c-86d9-4ff2-9189-ce8a4cf5b730,"member’s employment with GE SCI for whatever reason without any time limit, but sh all 
+cease to apply to Confidential Information which is divulged pursuant to a lawful court order 
+or is in the publ","[np.float64(0.0398), np.float64(0.0476), np.float64(0.0494), np.float64(0.0155), np.float64(-0.0128), np.float64(0.0181), np.float64(0.0165), np.float64(0.0022), np.float64(-0.0018), np.float64(-0.0245)]",1536
+cd8f5697-eefe-445e-b8ec-805c0d8368a3,"2.2.5  Statements 
+Staff shall not at any time, either during their employment or at any time after its 
+termination, in relation to GESCI or its partners or clients, make any statement calculated 
+or","[np.float64(0.0663), np.float64(0.054), np.float64(0.0679), np.float64(-0.006), np.float64(-0.0162), np.float64(0.033), np.float64(0.0145), np.float64(-0.0033), np.float64(0.0016), np.float64(-0.0339)]",1536
+37279288-bdc2-4c42-b3c7-bcd163986509,"clients (""the Records""). A staff member shall not, either while they are employed by GESCI 
+or thereafter, use or permit to be used any of the Records other than for the benefit of GESCI. 
+A staff mem","[np.float64(0.0654), np.float64(0.0781), np.float64(0.0642), np.float64(-0.0378), np.float64(-0.005), np.float64(0.0083), np.float64(0.0163), np.float64(-0.0023), np.float64(-0.0038), np.float64(-0.0591)]",1536
+113769d6-31c2-4adc-8bdf-bba882d7a340,"A staff member shall not, without the prior authority of GESCI, remove from GESCI's 
+premises or copy or allow others to copy the contents of any document, e-mail, computer 
+disk, storage device or ot","[np.float64(0.056), np.float64(0.0322), np.float64(0.0622), np.float64(-0.0284), np.float64(-0.0087), np.float64(0.0007), np.float64(0.025), np.float64(0.0135), np.float64(-0.0045), np.float64(-0.0482)]",1536
+ab2dcc4a-222d-4695-ad8b-6e400512dc97,"If, while employed by GESCI, a staff member, whether alone or with any other person, 
+make, p roduce or are responsible for any inv ention, discovery, process, business idea, 
+improvement in procedure","[np.float64(0.0402), np.float64(0.0316), np.float64(0.0577), np.float64(0.0143), np.float64(-0.016), np.float64(-0.0294), np.float64(0.0287), np.float64(0.0233), np.float64(0.0023), np.float64(-0.0444)]",1536
+343ebada-9eb6-4559-8fd4-f9336a098195,"client or capable of being used or adapted for use therein or in connection therewith shall 
+belong to and be  the absolute property of GESCI or such oth er party as GE SCI may 
+nominate for that purp","[np.float64(0.0552), np.float64(0.062), np.float64(0.0605), np.float64(0.0154), np.float64(-0.0187), np.float64(-0.0252), np.float64(-0.0141), np.float64(-0.0015), np.float64(0.0193), np.float64(-0.0366)]",1536
+84ab827d-c0cf-414b-8f57-1c72c2e6c524,"vesting the said letters patent or other similar protection when obtained and all right and title 
+to, and interest in the same, in GE SCI (or its nominee) absolutely and as sole beneficial 
+owner or ","[np.float64(0.046), np.float64(0.0341), np.float64(0.0769), np.float64(0.0045), np.float64(-0.0265), np.float64(-0.0195), np.float64(0.0152), np.float64(0.0029), np.float64(-0.0058), np.float64(-0.0521)]",1536
+6b177bda-7fe7-401e-ae4b-5fc32f51fa2b,"patent in any country for an invention belonging to the staff member. 
+Each staff member will be required to irrevocably appoint GESCI to be their attorney, in the 
+staff member’s n ame and on the  st","[np.float64(0.0467), np.float64(0.0647), np.float64(0.0531), np.float64(0.0071), np.float64(-0.0316), np.float64(-0.0293), np.float64(0.0049), np.float64(0.0046), np.float64(-0.0251), np.float64(-0.0729)]",1536
+ffa328a7-f0a9-4f14-8101-0bf4751e1505,"If, while employed by GESCI, a staff member, whether alone or with any other 
+person, creates any copyright work or design (including, without limitation, electronic 
+teaching, electronic training or ","[np.float64(0.0254), np.float64(0.0215), np.float64(0.079), np.float64(-0.0042), np.float64(-0.0066), np.float64(0.0041), np.float64(-0.0017), np.float64(0.0156), np.float64(-0.0276), np.float64(-0.0379)]",1536
+83feb83e-954c-441e-b74c-9611c8157daf,"GESCI (a “Protected Work""), the st aff member shall promptly disclose to the Chief 
+Executive Officer of GESCI full details thereof  in  writing  and  shall,  if  requested  by  
+GESCI,  hand  over  t","[np.float64(0.0508), np.float64(0.0487), np.float64(0.0658), np.float64(-0.0076), np.float64(0.0037), np.float64(-0.0136), np.float64(-0.0178), np.float64(0.0066), np.float64(-0.0136), np.float64(-0.0601)]",1536
+31d6dd4a-5c47-4364-ac7c-9e9b018ce01d,"in the case of the copyrights and design rights, hereby assign by way of future assignment 
+of copyright and design right respectively), all Rights therein in all countries of the world to 
+GESCI abso","[np.float64(0.0366), np.float64(0.0721), np.float64(0.0528), np.float64(0.0143), np.float64(-0.0284), np.float64(-0.0468), np.float64(-0.0148), np.float64(0.0104), np.float64(-0.0157), np.float64(-0.0516)]",1536
+2df6dbb4-2bcd-4086-a44a-cae07badde2c,"to GESCI (or its nominee) the full benefit of the provisions of this section and, in favour of 
+any third party, a certificate in writing signed by any Director or the CEO of GESCI that any 
+instrumen","[np.float64(0.044), np.float64(0.0447), np.float64(0.0819), np.float64(0.0115), np.float64(-0.015), np.float64(0.0233), np.float64(-0.0136), np.float64(0.0077), np.float64(0.0182), np.float64(-0.0096)]",1536
+686a7f51-dae0-4cca-96a7-f6bf3b880a3a,"communications to all staff. 
+ 
+a)  Official letters: 
+All official letters from GESCI to an external partner shall be signed by or approved by the 
+CEO or another person authorized by the CEO and the","[np.float64(0.0645), np.float64(0.0272), np.float64(0.0857), np.float64(-0.0028), np.float64(-0.0284), np.float64(0.0157), np.float64(-0.0146), np.float64(0.0199), np.float64(0.0179), np.float64(-0.0086)]",1536
+1da4b241-1cf5-41f4-b8ea-1b2e619457a7,"used for personal purposes 
+ 
+b)  Press Queries and media 
+All media queries received at GESCI must be referred to the Communications Manager 
+who sh all consult with the CEO. Staff members may not en","[np.float64(0.074), np.float64(0.0225), np.float64(0.0875), np.float64(-0.002), np.float64(-0.0275), np.float64(-0.0083), np.float64(-0.0239), np.float64(0.0194), np.float64(0.0242), np.float64(-0.0234)]",1536
+a28458dd-4bbd-4f87-b4d3-1c007fa12dbd,"reflect these. It is important that staff members avoid offering personal opinions as these 
+may be misconstrued as official GESCI policy. Under no circumstances may staff 
+members make statements tha","[np.float64(0.0663), np.float64(0.0014), np.float64(0.0642), np.float64(0.0238), np.float64(-0.0189), np.float64(0.0241), np.float64(-0.0199), np.float64(0.0067), np.float64(0.032), np.float64(-0.0014)]",1536
+6022d82f-35c9-45a8-beb2-a445be96b112,"Invitations to speak at or participate in (other than as a delegate to) public events (e.g. 
+conferences, seminars or workshops) must be approved by the CEO before being accepted. 
+All presentations i","[np.float64(0.0364), np.float64(0.0072), np.float64(0.0611), np.float64(0.0151), np.float64(-0.0307), np.float64(0.004), np.float64(-0.051), np.float64(0.0089), np.float64(-0.0211), np.float64(-0.0082)]",1536
+8faf1f68-bb64-44ae-9c07-5a55fa2e4a55,"3 RECRUITMENT AND APPOINTMENT 
+GESCI’s recruitment policy is to recruit staff members of the highest caliber through a 
+competitive selection process based on criteria determined by the needs of GESCI","[np.float64(-0.0087), np.float64(0.0603), np.float64(0.0917), np.float64(-0.0109), np.float64(-0.0367), np.float64(-0.0049), np.float64(0.0018), np.float64(-0.0079), np.float64(0.0056), np.float64(-0.0141)]",1536
+28da82da-e27c-425e-aac3-2063627a2744,"few months up to 5 years subject to termination by expiry of the specified period or for 
+cause in  accordance with the  terms of  the respective employment contracts. Fixed t erm 
+contracts are u til","[np.float64(-0.0461), np.float64(0.0793), np.float64(0.09), np.float64(-0.0233), np.float64(-0.0281), np.float64(0.0144), np.float64(0.0045), np.float64(-0.0002), np.float64(0.0313), np.float64(0.003)]",1536
+fcd37539-3728-41db-a47b-2f9aaab20f04,"to programme funding and organisational needs,   
+ 
+3.2  Classification of posts and staff  
+The CEO and Board may periodically revise the classification system under use. In general, 
+the posts and s","[np.float64(-0.0232), np.float64(0.0436), np.float64(0.0839), np.float64(-0.0264), np.float64(0.0089), np.float64(0.0159), np.float64(-0.0186), np.float64(0.0311), np.float64(-0.0358), np.float64(0.0048)]",1536
+e0291491-a4dc-4650-b99e-402d3c4d9eed,"b)  National (local) Professional category: These posts are subject to local recruitment 
+where global mobility and international experiences are not essential or where specific 
+local experience is r","[np.float64(-0.0193), np.float64(0.049), np.float64(0.0922), np.float64(0.0219), np.float64(0.0334), np.float64(-0.0057), np.float64(-0.0053), np.float64(0.0263), np.float64(-0.0224), np.float64(0.035)]",1536
+db3b9ad2-79ea-49c8-a3cc-bb68b31712cc,"include administrative assistants, receptionists, drivers etc. All support category staff are 
+local recruited.   
+ 
+3.3  Recruitment procedures 
+    3.3.1  Existence of a Vacancy 
+A Vacancy shall occ","[np.float64(-0.0209), np.float64(0.0297), np.float64(0.087), np.float64(0.0055), np.float64(-0.0141), np.float64(0.0078), np.float64(0.015), np.float64(0.0196), np.float64(-0.026), np.float64(0.0425)]",1536
+9aeb03f0-6126-40a9-82d1-ea7fcfb72c24," Job title and reporting relationship 
+ Contractual nature of the job (e.g. international or local, open-ended or fixed-term) 
+ Location (e.g. Headquarter, country based) 
+ Key responsibilities an","[np.float64(-0.0074), np.float64(0.0309), np.float64(0.078), np.float64(0.0136), np.float64(-0.0004), np.float64(0.0132), np.float64(-0.009), np.float64(0.0168), np.float64(0.0161), np.float64(0.052)]",1536
+02a58d6c-4f54-401d-b093-d30c0a12a2ce,"It is GESCI’s policy, subject to the relevant employment laws, to advertise vacancies when 
+they occur in order to reach as many potential applicants as possible and thereby increase 
+or have a broade","[np.float64(-0.013), np.float64(0.0321), np.float64(0.0863), np.float64(0.0002), np.float64(-0.0148), np.float64(-0.0053), np.float64(-0.0124), np.float64(0.0241), np.float64(-0.0119), np.float64(0.0035)]",1536
+57f1d934-85dc-415e-bc7c-f485bc0601e7,"in the vacancy announcement. 
+ 
+International vs. Local advertisement 
+International posts will usually be  advertised internationally while  local posts will be 
+advertised only locally. 
+ 
+Internal ","[np.float64(-0.0438), np.float64(0.0192), np.float64(0.0728), np.float64(0.0485), np.float64(-0.0012), np.float64(-0.0074), np.float64(0.009), np.float64(0.0003), np.float64(-0.0365), np.float64(0.0519)]",1536
+f9c66443-0b4f-47c2-9158-fa8cfe69a266,"To strengthen internal capacity and provide opportunities for advancement, some 
+vacancies, as determined by the CEO or the Board may be advertised exclusively 
+internally i.e. only open to existing G","[np.float64(-0.0172), np.float64(0.028), np.float64(0.1211), np.float64(-0.0053), np.float64(-0.0014), np.float64(0.0129), np.float64(-0.0029), np.float64(0.0477), np.float64(-0.013), np.float64(0.025)]",1536
+3a4f95ba-e431-4084-bae0-dec3e0c161d3,"experience. Short-list will normally be between 5 and 10 candidates. 
+ 
+Step 3: Initial interviews by telephone or other electronic communication medium 
+ 
+Step 4: Face to Face or online interviews fo","[np.float64(-0.012), np.float64(0.0293), np.float64(0.0679), np.float64(-0.0147), np.float64(0.0021), np.float64(-0.0014), np.float64(-0.001), np.float64(0.0197), np.float64(0.0066), np.float64(0.0574)]",1536
+bd36dece-73c1-46bb-89d5-b81632cbebd9,"A reference check may include previous employment verification, conduct and 
+performance at previous employments, reviewing samples of previous work e.g. 
+publications, verification of academic creden","[np.float64(0.0047), np.float64(0.045), np.float64(0.0542), np.float64(0.0237), np.float64(-0.0232), np.float64(0.0334), np.float64(-0.014), np.float64(-0.0061), np.float64(-0.0138), np.float64(0.0261)]",1536
+a05189cb-3826-40a5-803e-73034c124685,"undergo a medical test to confirm fitness for the job. An offer of an employment contract 
+will only be made after a satisfactory medical report from a recognized medical practitioner 
+which confirms ","[np.float64(0.0082), np.float64(0.0299), np.float64(0.0561), np.float64(0.0172), np.float64(-0.0352), np.float64(0.0246), np.float64(0.0113), np.float64(-0.0025), np.float64(0.0087), np.float64(0.0084)]",1536
+f7997eae-978b-4442-810b-7474e858e552,"For all medical examinations, the prospective employee will be required to provide prior 
+written consent to the examination.  
+ 
+3.4  Appointment Procedures 
+ 
+3.4.1 Offer of appointment 
+The offer o","[np.float64(0.0118), np.float64(-0.0057), np.float64(0.0626), np.float64(0.0482), np.float64(-0.0441), np.float64(0.0311), np.float64(0.0033), np.float64(-0.016), np.float64(-0.0137), np.float64(0.0298)]",1536
+79e04827-4816-4052-89cb-9f3bb14ed891,"Acceptance of appointment will be accomplished by returning to the CEO a counter-signed 
+copy of the Letter of Appointment within the specified date as mentioned in the offer letter. 
+ 
+3.4.3  Limitat","[np.float64(0.0391), np.float64(0.0217), np.float64(0.0657), np.float64(0.0132), np.float64(-0.0609), np.float64(0.0084), np.float64(0.0161), np.float64(0.024), np.float64(-0.0233), np.float64(0.0091)]",1536
+3a1031df-2a1a-4386-822a-1fce05a22cb9,"that the spouse is not given any preference by virtue of the relationship to the staff 
+member. In addition , a staff member shall not be assigned to serve in a post which is 
+superior or subordinat e","[np.float64(-0.001), np.float64(0.0631), np.float64(0.0655), np.float64(0.0289), np.float64(-0.0498), np.float64(0.0178), np.float64(0.0341), np.float64(-0.0031), np.float64(0.0214), np.float64(-0.0136)]",1536
+14d3c3fa-f78a-4faf-aa01-e8b954d886a4,"orientation programme will include discussion of the following:  
+ 
+ GESCI Vision and Mission Statement and corporate values 
+ GESCI Structure and Organization goals","[np.float64(-0.0203), np.float64(0.033), np.float64(0.0919), np.float64(-0.0096), np.float64(-0.0219), np.float64(0.0269), np.float64(0.0092), np.float64(0.0149), np.float64(0.035), np.float64(0.0148)]",1536
+6199a04c-c0fb-4ad0-a2a9-d5a8ab689133," Job description and levels of responsibilities in the organization 
+ GESCI areas of operations, type of services provided by GESCI and general environment 
+in which GESCI operates 
+ GESCI’s Human ","[np.float64(-0.0104), np.float64(0.0493), np.float64(0.1188), np.float64(-0.0017), np.float64(-0.0602), np.float64(0.0408), np.float64(0.0167), np.float64(-0.0103), np.float64(0.0575), np.float64(-0.0027)]",1536
+d5fcaba2-f739-402c-9a58-534be5cad186,"with a senior management. Extension may be necessitated if a staff member’s performance 
+is below a set standard or for disciplinary reasons. In this instance, the staff member is 
+usually given a per","[np.float64(0.0238), np.float64(0.049), np.float64(0.0912), np.float64(0.0001), np.float64(-0.0119), np.float64(0.0742), np.float64(0.0172), np.float64(0.0066), np.float64(0.0397), np.float64(0.0414)]",1536
+40d0e318-c2ce-42b1-8834-f90b336596e7,"b)  Provide the staff member feedback on the staff member's suitability and progress based 
+on achievement of the set targets, technical qualifications and professional behaviors. 
+At the end of the f","[np.float64(0.0249), np.float64(0.0319), np.float64(0.0722), np.float64(-0.015), np.float64(-0.0324), np.float64(0.0485), np.float64(0.013), np.float64(-0.0057), np.float64(0.0284), np.float64(0.034)]",1536
+1e35b382-538e-47d6-97e8-22ed06dcf33d,"member. 
+ 
+3.6.3 Decisions on Confirmation of Appointment 
+ 
+Confirmation 
+At the end of the probationary period, a decision to confirm a staff member's appointment 
+shall be made by the  staff member","[np.float64(0.0249), np.float64(0.0023), np.float64(0.0673), np.float64(-0.0195), np.float64(-0.0307), np.float64(0.0216), np.float64(0.0068), np.float64(-0.0127), np.float64(-0.002), np.float64(0.0042)]",1536
+84a09fa9-4a31-4ec9-b2a4-115a87bac465,"Non-Confirmation 
+At any point during or at the end of the probationary period, the staff member’s immediate 
+Manager may recommend to management to end a staff member's employment by seven 
+(7) days’","[np.float64(-0.0025), np.float64(0.0447), np.float64(0.0697), np.float64(0.0163), np.float64(-0.0368), np.float64(0.0201), np.float64(-0.0111), np.float64(-0.029), np.float64(0.038), np.float64(0.0476)]",1536
+8d339c77-f417-473d-b353-1d0a8a7c3fa5,"The staff member shall be provided an opportunity to comment on the recommendation. 
+The recommendation, together with any comments of the staff member, shall be submitted 
+to senior management for a ","[np.float64(0.0323), np.float64(0.0442), np.float64(0.0604), np.float64(-0.0023), np.float64(-0.0014), np.float64(0.0561), np.float64(0.0137), np.float64(-0.0052), np.float64(0.0197), np.float64(0.0347)]",1536
+5ca478d6-ea2b-4707-ba15-0e4b52398d3c,"increase in salary, change of job title, change of lo cation of employment, change to fixed 
+term contract  or full time, promotion, increase in salary upon attainment of an additional 
+relevant quali","[np.float64(-0.0189), np.float64(0.0485), np.float64(0.082), np.float64(0.0065), np.float64(-0.0127), np.float64(0.0225), np.float64(0.0286), np.float64(-0.0184), np.float64(-0.0092), np.float64(0.0275)]",1536
+856f8779-e607-4b04-a759-6ed71c5059a1,"4 REMUNERATION AND BENEFITS 
+ 
+4.1Introduction 
+It is GESCI’s policy to endeavor to provide its staff members’ salaries and other terms and 
+conditions of employment that are competitive and also comp","[np.float64(0.0003), np.float64(0.0299), np.float64(0.1034), np.float64(0.0009), np.float64(-0.0471), np.float64(0.0095), np.float64(0.0279), np.float64(0.021), np.float64(0.0182), np.float64(-0.0298)]",1536
+b37d2a8a-0338-4d88-91e7-c35039e01078,"for the organization. The structure will ensure that the same criteria is used for placing staff and 
+reviewing salaries for existing staff. There are 10 steps in each salary band for each grade.  
+ 
+","[np.float64(-0.0518), np.float64(0.0208), np.float64(0.0991), np.float64(-0.0398), np.float64(0.0084), np.float64(0.0334), np.float64(0.0184), np.float64(-0.0197), np.float64(-0.0402), np.float64(0.0101)]",1536
+5fed96dd-0f5a-41fe-9cf4-c7956592b5e0,"higher) 5 2 
+Process 
+manager/Specialist 
+Advanced university degree (Masters or 
+higher) 2  
+JPO Advanced university degree (Masters or 
+higher) 1  
+Project Officer/ 
+Analyst 
+university degree 5  
+A","[np.float64(-0.0523), np.float64(0.0337), np.float64(0.1177), np.float64(-0.0147), np.float64(-0.0201), np.float64(0.0555), np.float64(0.0455), np.float64(0.0218), np.float64(-0.0041), np.float64(-0.0148)]",1536
+5f6ac535-447c-4b61-9865-ccee07486170,"4.2.1 Salary policy on appointment and promotion 
+For each new appointment to a post, the point of entry on the salary scale shall be specified 
+in the letter of appointment and will normally be on th","[np.float64(-0.0106), np.float64(-0.0025), np.float64(0.0678), np.float64(0.0123), np.float64(-0.0069), np.float64(0.0299), np.float64(0.0012), np.float64(-0.0122), np.float64(-0.0262), np.float64(0.0255)]",1536
+b38b190e-1358-474b-b911-5c97733681e8,"1 step for purposes of determining starting salary. Annual increases based on performance, 
+if required will follow the steps in each grade. Increase to steps 7,8, 9 and 10 wil l require 
+at least 2 y","[np.float64(-0.0143), np.float64(0.0158), np.float64(0.1062), np.float64(-0.0055), np.float64(-0.0502), np.float64(0.0225), np.float64(0.0338), np.float64(0.0137), np.float64(-0.0008), np.float64(-0.0107)]",1536
+107d9f71-01ad-455b-9d7d-988328c546de,"Salaries for all GESCI staff is determined and contracted in Kenyan shillings / US dollars . 
+Payments in a different currency will be at the market prevailing exchange rate at the 
+date of payments. ","[np.float64(-0.0073), np.float64(0.0319), np.float64(0.0802), np.float64(-0.0011), np.float64(-0.0396), np.float64(0.0319), np.float64(0.0183), np.float64(0.0141), np.float64(0.0117), np.float64(-0.034)]",1536
+c9f44305-d907-4371-8342-72bae4ade911,"from time to time. 
+All staff members will receive a payslip each month showing the amount of net and 
+gross remuneration, and the nature and amounts of all deductions. 
+ 
+4.3.1 Salary Advances 
+ 
+Sal","[np.float64(-0.0236), np.float64(0.0595), np.float64(0.0898), np.float64(-0.0256), np.float64(-0.0134), np.float64(0.0029), np.float64(0.0118), np.float64(-0.0073), np.float64(0.014), np.float64(-0.0179)]",1536
+c62c9793-cef9-4186-901a-06b3f1d07a2e," Upon change of official duty station and staff will need funds to secure housing and other 
+expenses to allow them settle in the new duty station quickly, subject to the advance not","[np.float64(0.0264), np.float64(0.0459), np.float64(0.0203), np.float64(0.0295), np.float64(-0.0526), np.float64(-0.0168), np.float64(0.0235), np.float64(0.0214), np.float64(-0.0001), np.float64(-0.0087)]",1536
+f93683ad-bb52-4145-9f66-8104ea75ca7a,"exceeding 50 per cent of the staff one month’s salary  
+ Application for an advance in salary will be considered in cases of serious illness or in 
+legitimate emergencies.  
+ The CEO, in exceptional","[np.float64(0.0042), np.float64(0.0198), np.float64(0.0994), np.float64(0.0136), np.float64(-0.0183), np.float64(0.0162), np.float64(-0.0209), np.float64(-0.0029), np.float64(-0.0056), np.float64(0.0153)]",1536
+b9fbad26-b0de-4ac5-94d0-662b5975ed23,"home working agreement. 
+ 
+4.3.2  Acting - up allowance 
+Acting-up allowances are payable where an employee takes on 100% of the duties and  
+responsibilities of a higher graded post for at least 4 we","[np.float64(-0.0609), np.float64(0.0468), np.float64(0.09), np.float64(0.022), np.float64(-0.0553), np.float64(0.0031), np.float64(0.0117), np.float64(-0.0143), np.float64(0.025), np.float64(-0.0034)]",1536
+689e4b10-9f36-4267-8e7a-df8e11e60a0c," Filling a key post as part of a significant organization or service pressure   
+ Filling posts due to other temporary ex tended leave arra ngements e.g. s econdments, 
+career breaks.   
+  
+Wherever","[np.float64(-0.0409), np.float64(0.029), np.float64(0.0492), np.float64(0.0294), np.float64(-0.0345), np.float64(0.0125), np.float64(-0.0198), np.float64(0.0241), np.float64(-0.0295), np.float64(0.0451)]",1536
+c5155156-8900-4d45-a92b-2c43f603dcd0,"If there is a deputy to the temporarily vacant position, ie. as clearly outlined within their 
+existing job description, then that employee should be first for consideration to the a cting 
+up positio","[np.float64(-0.056), np.float64(0.0038), np.float64(0.061), np.float64(0.0115), np.float64(-0.007), np.float64(0.0355), np.float64(0.0168), np.float64(0.0418), np.float64(-0.0006), np.float64(0.0117)]",1536
+aac3226e-4859-4e52-bf8f-33ee6a59003e,"(b) Employees who are on an existing protected salary and who then undertake acting up 
+which is not higher than their protected salary, will not receive any further additional 
+remuneration.  
+(c) Em","[np.float64(-0.0151), np.float64(0.0658), np.float64(0.0837), np.float64(0.0236), np.float64(-0.04), np.float64(0.0001), np.float64(0.0204), np.float64(0.0021), np.float64(-0.0203), np.float64(0.0022)]",1536
+1c442dbe-fd01-4720-a92f-40973cc788a8,"In cases of temporary transfers to a higher grade for a continuous period of at least four 
+weeks (for any reason other than annual leave), an employee required to carry out the duties 
+and responsibi","[np.float64(-0.0365), np.float64(0.0531), np.float64(0.0767), np.float64(0.0012), np.float64(-0.0402), np.float64(-0.0071), np.float64(0.0155), np.float64(-0.0003), np.float64(-0.0223), np.float64(0.0139)]",1536
+d871811d-5e9d-4611-9f76-9d22c318b6ef,"The Temporary Responsibility Allowance (TRA) i s normally awarded for short periods 
+only, (e.g. to cover a vacancy temporarily), not more than 6 months. However, in some 
+instances (e.g. to cover a l","[np.float64(-0.0196), np.float64(0.0477), np.float64(0.0645), np.float64(0.0102), np.float64(-0.0518), np.float64(-0.0036), np.float64(0.0087), np.float64(0.023), np.float64(-0.0205), np.float64(0.0265)]",1536
+4a2cfb00-c609-414d-a144-974270b93a1b,"his/her salary whilst on the higher grade. When he/she reverts back to his/her substantive 
+post the postholder will do so at the incremental point he/she would have been on had there 
+been no TRA. 
+ ","[np.float64(-0.0369), np.float64(0.0728), np.float64(0.1002), np.float64(-0.0068), np.float64(-0.0304), np.float64(0.0184), np.float64(0.0458), np.float64(-0.005), np.float64(-0.0018), np.float64(0.0116)]",1536
+1bb39005-78a0-412e-81af-10eefd55d39e,"and responsibilities of the higher grade in a more effective and efficient manner because of 
+being in the post for so long he/she should be treated as appointed to the post. 
+When he/she reverts back","[np.float64(-0.0314), np.float64(0.0554), np.float64(0.0732), np.float64(0.0248), np.float64(0.0079), np.float64(-0.0056), np.float64(0.0474), np.float64(0.0188), np.float64(-0.0109), np.float64(0.0273)]",1536
+d7f747a9-432f-41f5-a880-f3f298bc2fc3,"additional increments above the lowest point of the higher scale If i t is agreed that the 
+circumstances are exceptional the maximum salary to be paid will be the fourth point of the 
+scale for the h","[np.float64(-0.015), np.float64(0.0264), np.float64(0.0908), np.float64(-0.0065), np.float64(-0.0126), np.float64(-0.0136), np.float64(0.0209), np.float64(-0.0262), np.float64(-0.0149), np.float64(0.0217)]",1536
+987f796c-7129-4aa9-bdd5-cecbfc9bd60a,"In exceptional cases where an employee assumes the responsibilities of another post of the 
+same or lower grade, whilst maintaining his/her own duties, an award of an ad hoc TRA 
+payment of 1 or 2 inc","[np.float64(-0.0391), np.float64(0.0413), np.float64(0.0821), np.float64(-0.0108), np.float64(-0.0247), np.float64(-0.0038), np.float64(0.0407), np.float64(0.0082), np.float64(-0.0049), np.float64(0.0252)]",1536
+60192088-d90b-4549-8a2c-284d292fa53a,"of the role being undertaken.  
+(b) The payment will be made on a fixed monthly value for the duration of the period for 
+the additional responsibility allowance.      
+ 
+4.4 Benefits 
+ 
+4.4.1Pension ","[np.float64(0.0126), np.float64(0.0482), np.float64(0.0867), np.float64(0.0335), np.float64(-0.0454), np.float64(0.033), np.float64(0.0398), np.float64(0.0254), np.float64(0.0597), np.float64(-0.0107)]",1536
+f45c4128-215d-460f-aa9e-ccb46a5fc539,"In the event that GESCI establishes a Pension Scheme, staff members will be  eligible to 
+join, and during the term of a staff member’s employment remain a member of such Pension 
+Scheme, subject to m","[np.float64(0.0127), np.float64(0.0454), np.float64(0.0862), np.float64(0.0168), np.float64(-0.0073), np.float64(0.0417), np.float64(0.0363), np.float64(0.0624), np.float64(0.0169), np.float64(-0.0376)]",1536
+56ee0069-81b8-402d-a2a9-26cebfb2fd5b,"To enable staff members to access loan facilities, staff members shall be encouraged to join an 
+already existing SACCO or any SACCO of their choice.  Staff members are free to contribute all 
+or part","[np.float64(0.0324), np.float64(0.0363), np.float64(0.0657), np.float64(0.0297), np.float64(-0.0104), np.float64(0.0317), np.float64(0.0118), np.float64(0.0444), np.float64(0.0294), np.float64(-0.0369)]",1536
+9e5c5fe7-e4d0-4463-900b-a57925d48af8,"part or all of the pension allowance. 
+ 
+4.4.2 Health/ Medical Insurance 
+GESCI provides a Health Insurance Scheme (HI Scheme) for all staff provided the staff 
+member meets any prequalification condi","[np.float64(0.0103), np.float64(0.0577), np.float64(0.0747), np.float64(0.0255), np.float64(-0.057), np.float64(0.0044), np.float64(0.0175), np.float64(0.0416), np.float64(0.0035), np.float64(-0.0401)]",1536
+94c5cc5d-770c-4cd2-8cda-051dc726cae4,"clinics and conditions covered (and conditions not covered) when they join GESCI and 
+subsequently every year or wherever there is a change. 
+If a staff member is officially assigned to work in anothe","[np.float64(0.0044), np.float64(0.0426), np.float64(0.0558), np.float64(0.0245), np.float64(-0.0448), np.float64(0.0316), np.float64(0.0159), np.float64(0.0405), np.float64(-0.0024), np.float64(0.0057)]",1536
+b71993d7-a9fb-4f26-a489-e49356d39fab,"may be extended beyond 18 for fulltime unm arried students in a recognized third-level 
+academic institution. The application for reimbursement must be supported by an invoice 
+from the health insuran","[np.float64(-0.0072), np.float64(0.07), np.float64(0.0691), np.float64(0.0031), np.float64(-0.0826), np.float64(0.0147), np.float64(0.0238), np.float64(0.023), np.float64(-0.0054), np.float64(-0.0185)]",1536
+4f441dc7-3735-4366-a9ec-9a08955cb8a5,"members are entitled to join, and during the term of their employment remain a member of, 
+subject to meeting any prequalification conditions of the D&D Scheme. Under the D&D 
+Scheme, GESCI covers the","[np.float64(0.0267), np.float64(0.0656), np.float64(0.0875), np.float64(0.0274), np.float64(-0.0077), np.float64(0.047), np.float64(0.0316), np.float64(0.0567), np.float64(-0.0276), np.float64(-0.0162)]",1536
+5158cc09-0b01-46c5-9125-1b257740f519,"beneficiaries upon his/her death to a maximum of 8 times their annual salary regardless of 
+the cause of death.  
+If a staff member is officially assigned to work in another country i.e. outside Kenya","[np.float64(0.0439), np.float64(0.053), np.float64(0.0777), np.float64(0.033), np.float64(-0.0683), np.float64(0.0408), np.float64(0.0246), np.float64(0.0542), np.float64(0.009), np.float64(-0.0082)]",1536
+9617ca0d-b058-4798-ba1c-dfe5c289be72,"appointment. 
+All of the benefits set out above are subject to the rules and regulations of the 
+relevant s chemes as well as any limits of cover and decisions of the 
+trustees/underwriters of the var","[np.float64(0.0035), np.float64(0.0698), np.float64(0.1032), np.float64(0.0464), np.float64(-0.0648), np.float64(-0.002), np.float64(0.0185), np.float64(0.014), np.float64(-0.0014), np.float64(-0.0086)]",1536
+4c96210f-16c6-4082-8489-18718a276ba1,"recruitment and on termination of employment. 
+However, if the staff member has lived in the duty station area for a period of two years or 
+more prior to appointment, the staff member shall not be el","[np.float64(0.0146), np.float64(0.0602), np.float64(0.082), np.float64(0.0462), np.float64(-0.0542), np.float64(0.0105), np.float64(0.0111), np.float64(0.0115), np.float64(0.012), np.float64(0.0168)]",1536
+4541a577-275c-4f21-9a3f-4ed054313a54,"duty station on appointment or on official change of duty station. 
+Removal and shipment benefits 
+A staff member eligible for relocation benefits shall be eligible for shipment of personal 
+effects a","[np.float64(0.0146), np.float64(0.0408), np.float64(0.086), np.float64(0.0283), np.float64(-0.0577), np.float64(0.0047), np.float64(-0.0054), np.float64(0.0071), np.float64(0.0125), np.float64(-0.0123)]",1536
+7fc9b912-f685-454c-94f0-6630e5a7afb3,"shipment benefits stated below, subject to normal GESCI procurement procedures prevailing 
+from time to time and the submission to GESCI of such vouchers (receipts & invoices) or 
+other evidence of th","[np.float64(-0.0216), np.float64(0.0245), np.float64(0.0821), np.float64(-0.0196), np.float64(-0.0287), np.float64(-0.0024), np.float64(0.0335), np.float64(0.001), np.float64(0.0378), np.float64(-0.0222)]",1536
+3605e82c-3ba9-4e97-8ea9-ad99b21bc6dd,"Limitations:  Removal and shipment benefits will only be available upon termination if 
+utilized within 3 (three) months of termination of the employment and provided that the staff 
+member’s new empl","[np.float64(0.0342), np.float64(0.06), np.float64(0.0777), np.float64(0.0608), np.float64(-0.0703), np.float64(0.0188), np.float64(-0.0265), np.float64(0.0174), np.float64(0.0236), np.float64(0.005)]",1536
+c91a032b-6188-4af0-b56d-f6094a622ac8,"shall be eligible to have their household goods and personal effects transported by most 
+economical means subject to the maximum allowances covered by GESCI as follows: 
+(a) Staff members without dep","[np.float64(0.0473), np.float64(0.053), np.float64(0.0784), np.float64(0.0315), np.float64(-0.0709), np.float64(-0.0082), np.float64(0.0032), np.float64(0.0201), np.float64(0.032), np.float64(-0.0048)]",1536
+fe770638-15a4-4fa6-8d0e-9a66aa70c93b,"to a maximum of two events in any one year . Immediate family member in this case shall 
+mean only one spouse or domestic partner, children or parents of the staff member. 
+ 
+4.4.6 Limitations in the ","[np.float64(0.0246), np.float64(0.0697), np.float64(0.0783), np.float64(0.0353), np.float64(-0.0776), np.float64(0.0188), np.float64(0.0011), np.float64(0.0055), np.float64(0.0075), np.float64(0.0218)]",1536
+5e4d8aaf-7cb3-4035-8002-0f77d496b774,"completing two year of service or within one year following the date of his or her 
+return from travel on home leave or family visit, shall not be entitled to payment of 
+return travel expenses for hi","[np.float64(0.0093), np.float64(0.0426), np.float64(0.0707), np.float64(-0.0044), np.float64(-0.0694), np.float64(0.0279), np.float64(0.0301), np.float64(0.0322), np.float64(0.0273), np.float64(0.0456)]",1536
+b7ef8bde-b9d4-47da-b60c-d4ef2444193c,"and the spouse who separates first is entitled to return travel expenses, his or her 
+entitlement shall not cease until two years after the date of separation of the other","[np.float64(-0.0037), np.float64(0.0491), np.float64(0.0319), np.float64(0.0202), np.float64(-0.0604), np.float64(0.0038), np.float64(0.0224), np.float64(0.0192), np.float64(0.0536), np.float64(0.0275)]",1536
+1fb5e233-f778-47b6-99d2-c91355114734,spouse.,"[np.float64(0.0031), np.float64(0.0102), np.float64(-0.0547), np.float64(0.0128), np.float64(-0.0604), np.float64(-0.027), np.float64(0.0174), np.float64(0.0013), np.float64(-0.0111), np.float64(-0.0297)]",1536
+e45f6188-3e81-42e3-b67d-5ca3d213348c,"5. ATTENDANCE AND LEAVE 
+GESCI is a small organization whose work is predominantly advisory and knowledge-based 
+to meet its development objectives. Staff members of GESCI are expected to work togethe","[np.float64(0.0145), np.float64(0.0873), np.float64(0.0854), np.float64(-0.0047), np.float64(-0.0109), np.float64(0.0169), np.float64(0.0402), np.float64(0.0511), np.float64(0.0108), np.float64(0.0061)]",1536
+ca0d4c5f-ba26-4770-adab-68f309b5c5b4,"proven impact of GESCI’s work. 
+ 
+5.1   Hours of Work 
+Staff members are required to work the normal working hours which are 9.00 am to 5:30 
+pm Monday to Friday, with one hour for lunch. GESCI reserv","[np.float64(-0.0042), np.float64(0.0754), np.float64(0.1024), np.float64(-0.0082), np.float64(-0.0137), np.float64(0.006), np.float64(0.0653), np.float64(0.0351), np.float64(0.0419), np.float64(-0.0177)]",1536
+d04a6af6-f40f-4500-b47f-e8a5901cb9f1,"programme/project teams will need to be cleared by the CEO to ensure they do not 
+jeopardize group activities or other organizational considerations. Any approved flexible 
+working hours are not a rig","[np.float64(0.0116), np.float64(0.0809), np.float64(0.101), np.float64(0.0068), np.float64(0.0127), np.float64(0.0342), np.float64(0.0108), np.float64(0.0159), np.float64(0.005), np.float64(0.0374)]",1536
+bfb67128-ef7b-4d6a-b493-590bffff432c,"termination. 
+ 
+5.2 Policy on Annual Leave 
+5.2.1 Annual leave entitlement 
+Annual leave entitlement for each staff member is set out in their contract of employment. 
+The standard entitlement for ful","[np.float64(-0.0031), np.float64(0.0893), np.float64(0.0914), np.float64(-0.0037), np.float64(-0.0447), np.float64(0.0179), np.float64(-0.0041), np.float64(-0.0027), np.float64(0.05), np.float64(0.0059)]",1536
+206bafaa-3f97-4470-b160-4d9eb368b9e6,"public holidays or weekends, a line manager can recommend an appropriate 
+acknowledgement of this additional work through time off for that staff member. Such 
+provision should be taken at periods con","[np.float64(0.0058), np.float64(0.061), np.float64(0.0916), np.float64(-0.0035), np.float64(0.0016), np.float64(-0.006), np.float64(-0.0009), np.float64(0.0248), np.float64(0.0301), np.float64(-0.01)]",1536
+93b5b1a0-98dd-446f-b66e-3cab6e755d09,"In addition to annual leave, GESCI grants Company Holidays. Company Holidays are days 
+when the GESCI offices are closed. Company Holidays apply to all staff, whether office- 
+based or not. However, t","[np.float64(0.0031), np.float64(0.06), np.float64(0.0992), np.float64(-0.02), np.float64(-0.0105), np.float64(0.0063), np.float64(0.0195), np.float64(0.0145), np.float64(0.0276), np.float64(-0.0162)]",1536
+b4e31b91-8f1f-4c4f-9776-6e90cd73c08a,"• Easter: 1 working day at the Easter weekend, being the Thursday before Easter. Including 
+public holidays, this means that the GESCI offices are closed from Thursday to Monday 
+inclusive. 
+• In case","[np.float64(-0.0124), np.float64(0.0619), np.float64(0.1159), np.float64(-0.0268), np.float64(-0.0109), np.float64(0.0204), np.float64(0.017), np.float64(0.0315), np.float64(0.0359), np.float64(-0.0107)]",1536
+a2678600-79d3-4d4a-8717-4c4449b7d38b," Leave is taken during the year and not accumulated or carried forward. 
+ Preliminary approval for leave must be sought from the line Manager in consultation with 
+the Manager: Finance and Operation","[np.float64(0.0033), np.float64(0.0863), np.float64(0.0867), np.float64(-0.0006), np.float64(-0.0304), np.float64(0.0119), np.float64(0.0168), np.float64(-0.0005), np.float64(0.0199), np.float64(0.0454)]",1536
+67324240-8edf-42c0-83e9-f1e94efad657,"restriction on the number of days that may be taken at once by the staff member. Where 
+the annual leave entitlement is divided into different parts to be taken at different intervals 
+(e.g. due to wo","[np.float64(0.0274), np.float64(0.0822), np.float64(0.1023), np.float64(-0.0114), np.float64(-0.0059), np.float64(0.0314), np.float64(0.0009), np.float64(-0.0091), np.float64(0.0174), np.float64(0.0172)]",1536
+c3513785-ed80-4442-98b4-9bbd727e424c,"Annual leave entitlements and time taken form part of the staff member’s HR records. 
+The HR Manager maintains an annual leave record for each staff member and this is the 
+official record of the staf","[np.float64(0.0411), np.float64(0.084), np.float64(0.0654), np.float64(-0.003), np.float64(0.0145), np.float64(0.0109), np.float64(0.0036), np.float64(-0.0131), np.float64(0.0263), np.float64(0.0039)]",1536
+ddee5e79-bb75-4263-86ff-bb9b5b4c0abc,"After the end of each calendar year, the HR Manager will provide each staff member with 
+a copy of their annual leave record. Both the staff member and their line Manager are 
+required to sign this re","[np.float64(0.0324), np.float64(0.0805), np.float64(0.099), np.float64(-0.007), np.float64(-0.0177), np.float64(0.0318), np.float64(0.0207), np.float64(-0.0003), np.float64(0.0351), np.float64(0.0247)]",1536
+2e95878c-3b38-4b65-8070-dbfb51f5e007,"• Where payment in lieu of notice is approved and given, GESCI shall pay any outstanding 
+accrued but unused leave entitlement. 
+Accrued Annual leave shall not be automatically used to serve for notic","[np.float64(-0.0195), np.float64(0.0655), np.float64(0.0707), np.float64(0.0058), np.float64(-0.0378), np.float64(0.012), np.float64(0.0079), np.float64(0.0153), np.float64(0.0353), np.float64(0.0274)]",1536
+4a61489d-f0ee-44ee-8795-47b7f32cbcab,"• In the event that annual leave already taken by the Staff member exceeds the entitlement 
+at the date of termination, the excess leave taken shall be deducted from the Staff member’s 
+final net sala","[np.float64(0.0236), np.float64(0.0646), np.float64(0.0827), np.float64(0.0204), np.float64(-0.0393), np.float64(0.0215), np.float64(-0.0045), np.float64(0.0288), np.float64(0.019), np.float64(0.0078)]",1536
+751204ad-bd4a-462f-b1aa-d8066062d7da,"parents, brothers and sisters, grand-parents and parents-in- law. 
+ 
+5.3.2   Sick Leave 
+Staff members who are unable to perform their duties by reason of illness or injury 
+or whose attendance at wor","[np.float64(-0.0028), np.float64(0.066), np.float64(0.0923), np.float64(0.0015), np.float64(-0.0543), np.float64(0.0214), np.float64(0.01), np.float64(-0.006), np.float64(0.0007), np.float64(0.0073)]",1536
+443629d1-e4be-4bde-9dc6-6316c7029431,"a) Minimum of 7 days at full pay and 7 days at half pay; and, 
+   b) Maximum of three months on full pay and three months on half pay regardless of length of 
+service; 
+GESCI reserves the right to ter","[np.float64(-0.0188), np.float64(0.0823), np.float64(0.0854), np.float64(0.0036), np.float64(-0.0567), np.float64(0.0317), np.float64(0.0183), np.float64(0.0096), np.float64(0.0107), np.float64(0.0039)]",1536
+4f71574a-18bd-415f-bd0e-dc8b2957bb75,"performance of his or her duties by illness or injury provided that the staff member 
+does not take more than three consecutive days of uncertified sick leave. Part or all 
+of this entitlement may be ","[np.float64(0.0083), np.float64(0.0553), np.float64(0.0504), np.float64(0.0186), np.float64(-0.0138), np.float64(0.0122), np.float64(-0.0119), np.float64(0.0051), np.float64(-0.0094), np.float64(0.0275)]",1536
+549011af-daa5-4bfa-8500-0f940816058a,"When these condition s are not met, the absence shall be treated as unauthorized 
+absence. 
+ 
+Obligations of staff members 
+a) Staff members shall inform their immediate Manager as soon as possible of","[np.float64(0.0102), np.float64(0.0781), np.float64(0.0749), np.float64(0.0151), np.float64(-0.0152), np.float64(0.051), np.float64(0.023), np.float64(0.0056), np.float64(0.0079), np.float64(0.0342)]",1536
+68a63c52-3c55-4228-a6dc-44106b08f5d8,"undergo a medical examination by a medical practitioner designated by GESCI. When, in 
+the opinion  of the d esignated medical practitioner, a m edical condition impairs a st aff 
+member’s ability to ","[np.float64(0.0273), np.float64(0.0694), np.float64(0.0789), np.float64(0.0377), np.float64(-0.0361), np.float64(0.0397), np.float64(-0.0055), np.float64(0.0106), np.float64(-0.0052), np.float64(0.012)]",1536
+5f931160-2d61-45ee-8035-eec46b258c20,"attendance at the workplace on the advice of a qualified medical practitioner which 
+advice shall include the amount of time off required. If so, the staff member shall 
+receive full salary and other ","[np.float64(0.0224), np.float64(0.0732), np.float64(0.0757), np.float64(0.0097), np.float64(-0.0084), np.float64(0.0357), np.float64(-0.0182), np.float64(-0.0025), np.float64(-0.0124), np.float64(0.0358)]",1536
+ecd2df83-a026-4b80-a663-8fb155caf927,"purposes of certifying fitness for the job in line with the inherent requirements for the job. 
+In the event that a staff member is found to be unfit for the job, GESCI reserves the right 
+in its sole","[np.float64(0.0086), np.float64(0.0908), np.float64(0.0831), np.float64(0.005), np.float64(-0.001), np.float64(0.0046), np.float64(0.0106), np.float64(0.0089), np.float64(0.0158), np.float64(0.0188)]",1536
+971c5f4c-dec4-4a68-a12b-ed1efb5f6202,"5.3.3 Parental Leave 
+ 
+Maternity Leave 
+A female staff member shall be entitled to maternity leave for a total period of sixteen 
+(16) weeks subject to the following: 
+a) The pre-delivery leave  shal","[np.float64(0.0243), np.float64(0.0695), np.float64(0.0832), np.float64(-0.005), np.float64(-0.0488), np.float64(-0.0009), np.float64(0.0255), np.float64(-0.0081), np.float64(0.0054), np.float64(0.0076)]",1536
+d24c3c88-e7e5-4081-9535-376cd833b314,"between sixteen weeks and the actual period of pre-delivery leave, subject to a 
+minimum of ten weeks; However, if owing to a miscalculation on the part of the 
+medical practitioner or midwife, the pr","[np.float64(0.0045), np.float64(0.0659), np.float64(0.0939), np.float64(-0.0081), np.float64(-0.0645), np.float64(0.0024), np.float64(0.0143), np.float64(-0.0128), np.float64(-0.0017), np.float64(0.0061)]",1536
+94bdab5b-ef15-4ae1-9f41-51ee1a37edd9,"maternit y leave extendin g beyond the date on which her appointment ends. 
+ 
+At the end of the maternity leave period, a staff member who is nursing shall also be 
+entitled to paid leave of one hour ","[np.float64(0.0212), np.float64(0.0535), np.float64(0.0994), np.float64(-0.0051), np.float64(-0.0612), np.float64(0.0285), np.float64(0.0115), np.float64(0.0064), np.float64(-0.0131), np.float64(0.0051)]",1536
+91ea6cb7-309e-4f94-8479-27a3a79c569c,"The leave may be taken either continuously or in separate periods during the year following 
+the birth of the child, provided that it is completed during that year and within the duration 
+of the cont","[np.float64(0.0093), np.float64(0.0525), np.float64(0.0949), np.float64(-0.007), np.float64(-0.0468), np.float64(0.0134), np.float64(0.0325), np.float64(0.0211), np.float64(0.033), np.float64(0.0019)]",1536
+32cd665e-35a2-4126-b9da-41b1d87559d4,"ways in which they can be supported. In this regard, GESCI will encourage staff to pursue 
+private studies and will grant study leave with or without pay depending on the case. Staff","[np.float64(0.0134), np.float64(0.0408), np.float64(0.0925), np.float64(0.0044), np.float64(-0.0159), np.float64(0.0103), np.float64(0.0149), np.float64(0.036), np.float64(0.0259), np.float64(-0.0125)]",1536
+23fb477f-27bc-4aad-9a58-51d880a836d1,"wishing to apply for study leave must  produce evidence of examination registration and 
+examination schedule to the line manager before approval. All study leave requests will be 
+approved by the Lin","[np.float64(0.02), np.float64(0.0428), np.float64(0.0567), np.float64(-0.0305), np.float64(-0.0449), np.float64(0.037), np.float64(-0.0187), np.float64(-0.0298), np.float64(0.0064), np.float64(0.0183)]",1536
+645b59df-b364-45e0-9c6d-ab2cd4d040d8,"benefit during periods of special leave without pay exceeding one month. Continuity 
+of service shall not be considered broken by periods of special leave. 
+ 
+5.3.5 Leave of absence for External Servi","[np.float64(-0.02), np.float64(0.0427), np.float64(0.0991), np.float64(0.0237), np.float64(-0.0519), np.float64(0.0512), np.float64(-0.0059), np.float64(-0.0024), np.float64(0.017), np.float64(0.0181)]",1536
+9699fcee-d95c-4773-8b12-e5dfbc6aaf8d,"In other exceptional circumstances, where the leave of absence for external service is to 
+last for less than one year or where the external service has been requested by GESCI 
+and the external emplo","[np.float64(-0.0267), np.float64(0.0432), np.float64(0.078), np.float64(0.0066), np.float64(-0.0352), np.float64(0.0216), np.float64(-0.0084), np.float64(0.0198), np.float64(0.0077), np.float64(0.0141)]",1536
+3e5d7e75-fbcc-4f5d-a6bd-eb0784b64b33,"6  GESCI TRAVEL POLICY 
+ 
+6.1 Statement of Policy 
+The nature of GESCI’s mission and organization means that its staff members may be 
+asked to travel in the normal course of operations for meetings, ","[np.float64(0.0077), np.float64(0.0423), np.float64(0.0813), np.float64(-0.0181), np.float64(-0.0447), np.float64(0.0004), np.float64(-0.0002), np.float64(0.0059), np.float64(0.0469), np.float64(-0.0146)]",1536
+69345d07-5123-4303-8474-1b58c09e3642,"staff members may be authorized to travel on oral orders, but such oral authorization shall 
+require written confirmation. A staff member shall be responsible for ascertaining that he 
+or she has the ","[np.float64(0.039), np.float64(0.0514), np.float64(0.0552), np.float64(-0.0276), np.float64(-0.0282), np.float64(0.0071), np.float64(0.0169), np.float64(-0.0037), np.float64(0.0208), np.float64(0.0269)]",1536
+7254e602-052e-4766-a06e-574675f0f262,"to the senior manager and/or the CEO for approval. In the preparation of costed t ravel 
+proposals, project or programme managers should consult the Finance and Administration 
+team for cost estimates","[np.float64(0.0272), np.float64(0.0084), np.float64(0.0691), np.float64(-0.0579), np.float64(-0.0305), np.float64(0.0086), np.float64(0.0021), np.float64(0.0002), np.float64(0.0322), np.float64(0.0246)]",1536
+fdaae6b7-95f6-4b46-8b2b-d33aeeec942c,"f) Reason for travel 
+ 
+If the proposed travel dates / location / purpose / expected costs change th en the travel 
+proposal must be upd ated and major changes approved again. The final costed travel ","[np.float64(0.0069), np.float64(0.0191), np.float64(0.0697), np.float64(-0.0241), np.float64(-0.061), np.float64(0.0045), np.float64(-0.0177), np.float64(-0.0272), np.float64(0.0113), np.float64(0.0429)]",1536
+02f5ae58-3e8d-4444-a344-e85852ac77da,"Advanced funds 
+In cases where a staff member requires a travel advance and have been approved for same, 
+the staff member shall account for the advance within seven (7) days, following the date of 
+r","[np.float64(-0.0158), np.float64(0.0347), np.float64(0.0737), np.float64(-0.0433), np.float64(-0.0193), np.float64(0.0092), np.float64(-0.004), np.float64(-0.0055), np.float64(0.0428), np.float64(0.0388)]",1536
+e514436f-43eb-4532-88e5-52a269f089ad,"through the payroll system. 
+ 
+ 
+6.2.2 Flights 
+ 
+All tickets for official travel of staff members shall be purchased by GESCI in advance of 
+the actual travel. A staff member may be authorized to pur","[np.float64(0.0081), np.float64(0.0202), np.float64(0.0853), np.float64(-0.0349), np.float64(-0.0431), np.float64(-0.0086), np.float64(0.0068), np.float64(0.0342), np.float64(0.0243), np.float64(0.0089)]",1536
+79a7f9c2-0323-47f4-8887-16ea55e72c80,"It is the responsibility of the traveler to ensure that they have all the correct documentation 
+prior to travel, including valid passport, tickets, visas, accommodation booking references 
+etc. 
+ 
+6.","[np.float64(-0.0122), np.float64(0.0245), np.float64(0.0823), np.float64(-0.015), np.float64(-0.0544), np.float64(-0.002), np.float64(0.0297), np.float64(0.0273), np.float64(0.0526), np.float64(-0.0076)]",1536
+1565f1ad-7ad3-4163-a96f-7b98ed733d45,"the staff member’s home airport and the arrival time back.  Where travel does not require a 
+flight, the Finance and Administration need some other evidence of the trip.   The Finance 
+and Administrat","[np.float64(0.0217), np.float64(-0.0002), np.float64(0.0497), np.float64(-0.0119), np.float64(-0.0109), np.float64(-0.0028), np.float64(0.0351), np.float64(0.0214), np.float64(0.0634), np.float64(0.0466)]",1536
+92ce2c37-7a67-45e7-a65d-2b679dbb1795,"at home at 7 PM or later on the last day of the trip entitles the traveler to a full day meals 
+per diem. 
+Start/end time of trip must be shown on the per diem calculation sheet for first and last day","[np.float64(0.0164), np.float64(-0.0011), np.float64(0.0799), np.float64(-0.0304), np.float64(-0.0564), np.float64(-0.0008), np.float64(0.0196), np.float64(0.0283), np.float64(0.0645), np.float64(-0.0258)]",1536
+25f39dd4-8aab-4f04-9382-c3f477f90392,"Lodging or hotel expenses are covered at cost subject to the maximum provided for in 
+the per diem rate in the town or city where the staff member is staying on business. This 
+means that the portion ","[np.float64(0.0085), np.float64(0.001), np.float64(0.0399), np.float64(-0.0033), np.float64(-0.0643), np.float64(-0.0329), np.float64(0.0096), np.float64(-0.0168), np.float64(0.0409), np.float64(-0.0248)]",1536
+77177a62-390e-4393-a482-bfefc2e921c7,"accommodation is not available within the maximum provided for in the per diem rate, a 
+special approval must be obtained in advance for the higher costs. Any difference between 
+actual accommodation ","[np.float64(0.0237), np.float64(0.0135), np.float64(0.1004), np.float64(-0.0094), np.float64(-0.0736), np.float64(0.0259), np.float64(0.0026), np.float64(0.0025), np.float64(0.0473), np.float64(0.0015)]",1536
+a293bff2-8bef-4cd3-9dd9-a5781dd66309,"diem or part of the per diem may is taxable. Tax on per diem does not apply for expatriates 
+working for GESCI as long as they enjoy the tax exemption status in Kenya . All staff 
+members are responsi","[np.float64(0.012), np.float64(0.0126), np.float64(0.0746), np.float64(0.0166), np.float64(-0.0609), np.float64(0.0463), np.float64(-0.0071), np.float64(0.0378), np.float64(0.0411), np.float64(-0.0277)]",1536
+20dc7629-7d3b-4b62-9454-89fa9a510c08,"In exceptional circumstances where it was not possible to obtain a receipt, a staff member 
+may issue a “self-receipt” clearly detailing the expenses incurred, when and where the 
+expenses were incurr","[np.float64(0.0142), np.float64(0.038), np.float64(0.0557), np.float64(-0.0315), np.float64(-0.034), np.float64(-0.0018), np.float64(0.0098), np.float64(0.0178), np.float64(0.0331), np.float64(-0.0105)]",1536
+a2005dd9-1259-445e-b430-8de4935b4d89,"Administration Office. 
+ 
+Specific expenses not reimbursable 
+ Sundry expenses covering personal effects such as razors, soap, toothpaste, souvenirs, 
+health club facilities etc. are not reimbursable","[np.float64(0.0074), np.float64(0.0293), np.float64(0.088), np.float64(-0.0137), np.float64(-0.0624), np.float64(0.0218), np.float64(0.0249), np.float64(0.0329), np.float64(0.0203), np.float64(-0.0008)]",1536
+c7dd5c66-e96d-4d94-9c3d-52b8a660615f,"salary payment unless otherwise agreed by a Senior Manager. 
+ 
+Employee Responsibility 
+Each employee is solely responsible for the timely reconciliation of his or her expense report 
+providing full d","[np.float64(-0.0117), np.float64(0.0585), np.float64(0.0791), np.float64(-0.026), np.float64(-0.0553), np.float64(0.0095), np.float64(0.028), np.float64(-0.0047), np.float64(0.0248), np.float64(-0.0108)]",1536
+247e9dd0-6f0d-4c1a-8fda-29f18ec6d3db,"approval of the expenses. 
+ 
+Receipt Substantiation 
+In order for the foundation to remain in compliance with travel policy and reporting 
+requirements, receipts must be submitted for expenses includi","[np.float64(0.0007), np.float64(0.0098), np.float64(0.0825), np.float64(-0.0118), np.float64(-0.0538), np.float64(-0.0026), np.float64(-0.0041), np.float64(-0.0016), np.float64(0.0376), np.float64(0.0094)]",1536
+5934c0c4-b05c-4611-a3c7-56a4c945f1e0,"supplier of the service/goods to obtain a certified copy of the missing receipt.  
+ 
+Payment of Per Diem, Travel advance and OPE 
+All payments and reimbursement will be processed through Electronic Fu","[np.float64(0.0191), np.float64(0.0242), np.float64(0.0949), np.float64(-0.0155), np.float64(-0.0714), np.float64(0.0038), np.float64(0.0175), np.float64(0.0174), np.float64(0.0178), np.float64(-0.0136)]",1536
+87d8a6f4-cd9a-4889-bfd2-3854a50b5f52,"6.3 Other related policies and issues 
+ 
+6.3.1 Safety, health and welfare while travelling 
+This is covered under Section 8 of the Manual. 
+ 
+6.3.2 Extended Stays 
+Staff may, subject to prior written ","[np.float64(-0.0052), np.float64(0.0433), np.float64(0.1024), np.float64(-0.0064), np.float64(-0.1056), np.float64(0.0329), np.float64(0.0201), np.float64(0.0132), np.float64(0.0312), np.float64(-0.0026)]",1536
+50d380c6-c1bc-4611-85c8-1ccbba6f1545,"GESCI provides travel insurance for all staff in all offices on authorized GESCI business. 
+All staff should ensure that they have received a copy or proof of travel insurance from the 
+Finance and Ad","[np.float64(0.0146), np.float64(0.0427), np.float64(0.0708), np.float64(-0.0033), np.float64(-0.0598), np.float64(0.0161), np.float64(0.026), np.float64(0.038), np.float64(0.0267), np.float64(-0.0339)]",1536
+5501d914-0cf7-407f-aeb1-83abf7503e04,"7 PERFORMANCE MANAGEMENT AND STAFF 
+DEVELOPMENT 
+GESCI recognizes that it’s most important asset is its staff members who are expected 
+to exhibit the highest standards of competence, efficiency and i","[np.float64(0.0088), np.float64(0.079), np.float64(0.0839), np.float64(0.0046), np.float64(-0.0108), np.float64(0.0038), np.float64(0.0112), np.float64(-0.0052), np.float64(0.0328), np.float64(-0.0253)]",1536
+bf65733d-d34c-481e-9073-6e5431c454de,"The best way to consistently track exceptional performance is through an appraisal process 
+that will be done regularly, one -on-one, and also through discussions on how the staff is 
+expected to exec","[np.float64(0.0248), np.float64(0.0398), np.float64(0.0794), np.float64(0.0103), np.float64(0.0228), np.float64(0.0071), np.float64(-0.0109), np.float64(-0.014), np.float64(0.0093), np.float64(0.034)]",1536
+5f4aed6f-8f58-4c45-80fb-63a45c304edd,"accessible when it is time to hand out new assignments. 
+3. Identifying promotion candidates 
+Hiring from within GESCI will keep organizational memory strong, allowing for continuity 
+of management st","[np.float64(0.0181), np.float64(0.0296), np.float64(0.0775), np.float64(0.021), np.float64(0.0393), np.float64(0.0034), np.float64(-0.0154), np.float64(0.0248), np.float64(-0.006), np.float64(0.0124)]",1536
+b3223fc1-f3be-499f-ad87-af72c36e826c,"staff feedback about their performance o n a regular basis thus opening up lines of 
+communication, enabling a good working relationship and encouraging a spirit of 
+collaboration. Both the manager an","[np.float64(-0.0116), np.float64(0.0654), np.float64(0.0948), np.float64(0.0081), np.float64(0.0272), np.float64(0.0222), np.float64(0.0148), np.float64(0.037), np.float64(0.0408), np.float64(0.0533)]",1536
+04d8a36e-7650-44f8-a58b-10a5b74d7c16,"management solutions and even management philosophies change as businesses adapt to 
+changes in the marketplace. The give and take of a formalized performance review system 
+allows employees to feel c","[np.float64(0.0181), np.float64(0.0625), np.float64(0.0586), np.float64(0.0236), np.float64(0.0468), np.float64(0.0115), np.float64(0.0237), np.float64(0.0023), np.float64(0.0241), np.float64(0.0216)]",1536
+1467d2cb-7c45-4525-b469-8f4700a0773c,"They will receive positive reinforcement for a job well done and corrections when necessary 
+to correct bad work habits.  It is important for employees to know where they stand in their 
+workplace.   ","[np.float64(-0.0043), np.float64(0.0574), np.float64(0.0835), np.float64(0.0441), np.float64(-0.0146), np.float64(-0.0076), np.float64(-0.0109), np.float64(-0.0275), np.float64(0.0448), np.float64(0.0172)]",1536
+5930655e-e1bd-4b10-ae99-6b1c1ac7f9f9,"Performance appraisals will be used as a tool for measuring employee capabilities, skills 
+and fitness. Evaluating the skills and talent that a staff brings to GESCI will assists managers 
+and staff i","[np.float64(0.0252), np.float64(0.0703), np.float64(0.0869), np.float64(-0.0174), np.float64(-0.005), np.float64(0.008), np.float64(0.0126), np.float64(0.0035), np.float64(0.0489), np.float64(-0.0357)]",1536
+e07a9bbb-f137-47ec-ab44-d6cfc2240623,"contributions and successes.  
+9. Identifying and recognising exceptional performance  
+GESCI will use performance appraisals as the key way to identify and recognize exceptional 
+workplace performanc","[np.float64(0.0275), np.float64(0.0348), np.float64(0.0831), np.float64(0.0355), np.float64(0.0155), np.float64(-0.0153), np.float64(-0.0357), np.float64(0.0146), np.float64(0.0103), np.float64(0.0004)]",1536
+82b40e18-0aaa-458e-9b14-f3e7403b858f,"Criteria for the recognition of exceptional performance 
+  
+i   EXCEEDS JOB EXPECTATIONS - Consistently exemplary performance, including in   
+    demanding situations or circumstances.   
+a. Staff me","[np.float64(0.0229), np.float64(0.007), np.float64(0.0306), np.float64(0.0388), np.float64(0.0666), np.float64(0.0296), np.float64(-0.0141), np.float64(0.0104), np.float64(0.017), np.float64(0.0348)]",1536
+212e8b11-1ed8-4325-bdbc-9d6f313b9692,"c. Staff members decisions and recommendations are sound and are frequently related to the 
+highest priority and most complex aspect of the position's responsibilities. 
+d. Staff member demonstrates a","[np.float64(0.0264), np.float64(0.0288), np.float64(0.0322), np.float64(0.0347), np.float64(0.0379), np.float64(0.0433), np.float64(0.0117), np.float64(0.0116), np.float64(0.0063), np.float64(0.0085)]",1536
+6f6caa89-6795-47ab-bfa6-57ac37e0e366,"aspects of the position which are seldom perceived by others and initiates, plans for, and 
+accomplishes many innovative and valuable objectives for the unit/GESCI. 
+  
+The Chief Executive Officer res","[np.float64(0.0161), np.float64(0.0206), np.float64(0.1161), np.float64(0.0194), np.float64(-0.0097), np.float64(0.0264), np.float64(-0.003), np.float64(0.0314), np.float64(-0.0062), np.float64(0.0145)]",1536
+12be1834-6046-4934-b6d6-052024e615b0,"Performed as p er job d escription and/or set goals, Professional Competence, Qu ality of 
+Work, Quantity of Work, Work Relations, Work-place behaviour, Communication Skills 
+and Supervisory Skills if","[np.float64(0.0196), np.float64(0.0573), np.float64(0.0926), np.float64(-0.0146), np.float64(0.0005), np.float64(0.0333), np.float64(0.0236), np.float64(0.004), np.float64(0.0407), np.float64(0.0377)]",1536
+63180f79-657e-4f49-8f5f-5613ea9dd62d,"d)  If during the review period the staff member has reported to more than one Manager for 
+a period of three months or more, the Manager may request the other Manager(s) to provide 
+supplemental writ","[np.float64(0.0424), np.float64(0.0909), np.float64(0.0544), np.float64(-0.0104), np.float64(0.0304), np.float64(0.0579), np.float64(-0.0117), np.float64(-0.0364), np.float64(0.0483), np.float64(0.0421)]",1536
+f2058efa-5412-4424-adfa-742a190b6891,"evaluation or a supplemental evaluation, the Manager shall continue the evaluation 
+process noting any reasons given by the staff member for the refusal, if any. In this case, the 
+evaluation report s","[np.float64(0.0381), np.float64(0.063), np.float64(0.0536), np.float64(-0.0236), np.float64(-0.0001), np.float64(0.0853), np.float64(0.0076), np.float64(-0.0111), np.float64(0.0221), np.float64(0.0314)]",1536
+e49f7f9c-6159-48f5-b66e-a4a200f8a860,"A time table will be prepared by the CEO in consultation with the HR Manager for 
+the completion of annual performance reports.","[np.float64(-0.0017), np.float64(0.0325), np.float64(0.091), np.float64(-0.0113), np.float64(-0.01), np.float64(0.0315), np.float64(-0.0002), np.float64(0.0053), np.float64(0.0155), np.float64(-0.0084)]",1536
+26d8da2b-92f6-42c9-a1eb-03d315ec2419,"7.2 Managing unsatisfactory performance 
+If a Manager determines that a staff member's performance (which includes professional and 
+work-place behaviour) is not satisfactory, the immediate Manager in","[np.float64(0.0132), np.float64(0.0665), np.float64(0.0857), np.float64(0.0253), np.float64(-0.0034), np.float64(0.0738), np.float64(0.0144), np.float64(-0.011), np.float64(0.0344), np.float64(0.0489)]",1536
+d03cbb2b-9700-4635-86b2-046b7ba8e953,"are believed to be health-related. 
+b)  Consider reassigning the staff member to another position or assignment to a lower level position 
+provided that the staff member has been given a reasonable op","[np.float64(0.0183), np.float64(0.0435), np.float64(0.0679), np.float64(0.0474), np.float64(0.0111), np.float64(0.0516), np.float64(-0.0148), np.float64(0.0088), np.float64(0.0496), np.float64(0.0312)]",1536
+a9d6a758-0624-4745-b94e-b6614bc4c10c,"with more responsibility and authority. Promotion has an added cost/value. In the case of 
+GESCI, promotion and advancement are synonymous although advancement could have 
+wider connotations. 
+ 
+For G","[np.float64(0.0163), np.float64(0.025), np.float64(0.0966), np.float64(0.0055), np.float64(0.0157), np.float64(0.0286), np.float64(0.0379), np.float64(-0.002), np.float64(0.0145), np.float64(-0.0231)]",1536
+d74cad84-1ad1-4a07-ad60-a0147cd4f845,"appraisal reports. An internal competitive process may also be required. 
+ 
+The effective date for promotions described above is the first day of the month following 
+the promotion decision. Salary in","[np.float64(0.0135), np.float64(0.0432), np.float64(0.0793), np.float64(-0.0215), np.float64(0.0095), np.float64(0.0266), np.float64(0.0195), np.float64(-0.0178), np.float64(0.0041), np.float64(-0.0162)]",1536
+0c45dceb-f116-4c35-9b64-034abd88317f,"7.4 Professional Development 
+GESCI encourages staff members to pursue on-going professional development activities 
+for self-advancement and for the good of GESCI. The CEO shall from to time provide ","[np.float64(0.0052), np.float64(0.021), np.float64(0.0968), np.float64(0.0293), np.float64(-0.0062), np.float64(0.0229), np.float64(0.0389), np.float64(0.0597), np.float64(0.0241), np.float64(0.0127)]",1536
+940020be-6134-436e-a2cb-36f4da8c308d,"8 SAFETY, HEALTH AND WELFARE AT WORK 
+As a Nairobi-headquartered organization, GESCI follows the guidelines of and complies 
+with the  Occupational Safety and H ealth A ct of  Kenya (2007) (the OSHA).","[np.float64(0.0107), np.float64(0.0417), np.float64(0.0947), np.float64(0.0373), np.float64(-0.0468), np.float64(0.0286), np.float64(0.0016), np.float64(0.0064), np.float64(0.0076), np.float64(-0.0107)]",1536
+d5e16a9b-d903-450c-9571-1d79e72cdc8d,"Statement. 
+ 
+If there are any safety, health and welfare at work issues that Staff feel are not addressed in 
+this document, they should be brought to the  attention of management. No st aff member 
+","[np.float64(0.0327), np.float64(0.0315), np.float64(0.0451), np.float64(0.0402), np.float64(-0.0381), np.float64(0.0296), np.float64(-0.0175), np.float64(-0.0246), np.float64(0.0155), np.float64(-0.0127)]",1536
+c193a0b0-0e20-4778-a9cd-6084c914a68d,"This statement sets out the GESCI health & safety policy and the means through which 
+that policy is to be implemented. Our objective is to provide a safe and healthy place of 
+work for all staff memb","[np.float64(0.0041), np.float64(0.0418), np.float64(0.0609), np.float64(0.0297), np.float64(-0.0307), np.float64(0.0187), np.float64(0.0053), np.float64(-0.0073), np.float64(0.0196), np.float64(-0.0256)]",1536
+5817f78f-806a-4f48-9f90-ca32b75a1d47," To prevent as far as is reasonably possible, any improper conduct or behaviour 
+likely to put the Safety, Health & Welfare of staff members at risk 
+ To consult with staff on all Health & Safety ma","[np.float64(0.0236), np.float64(0.0457), np.float64(0.0571), np.float64(0.0397), np.float64(0.0002), np.float64(0.0152), np.float64(-0.0284), np.float64(-0.0091), np.float64(-0.0003), np.float64(0.044)]",1536
+4526dd08-7b36-4146-ac49-493f7a53e5c4," To provide a safe system of work practices. 
+ To provide appropriate information and training to staff on a regular basis. 
+ To make Health & Safety a key issue. 
+ 
+GESCI Responsibilities: 
+The re","[np.float64(0.0113), np.float64(0.0647), np.float64(0.0797), np.float64(0.0171), np.float64(-0.0204), np.float64(0.0242), np.float64(0.0298), np.float64(0.0115), np.float64(0.0075), np.float64(-0.0044)]",1536
+05a3c929-9017-4ff1-97e1-29d36a25cafe,"ensure the safety and health at work of every staff member; 
+d) the maintenance of any workplace under GESCI’s control, in a  condition that is s afe and 
+without risks to health and the provision and","[np.float64(0.0181), np.float64(0.0578), np.float64(0.084), np.float64(0.0203), np.float64(0.0044), np.float64(0.0054), np.float64(0.0198), np.float64(0.0009), np.float64(0.0079), np.float64(0.0086)]",1536
+fd4f6e7a-2f56-44fc-82e1-ef2812552787,"health measures. 
+ 
+Staff member Responsibilities: 
+As a valued staff member of GESCI, each staff member has a responsibility to themselves 
+and to fellow staff members to carry out their work in a sa","[np.float64(0.0316), np.float64(0.0659), np.float64(0.0804), np.float64(0.015), np.float64(-0.0156), np.float64(0.0164), np.float64(0.0128), np.float64(0.0082), np.float64(0.0265), np.float64(-0.0052)]",1536
+25ddbc96-199e-4829-af11-77daf2fba6d2,"of Health & Safety. 
+ Read the company Health & Safety statement and obey all mandatory signs and 
+safety and health procedures, requirements and instructions for the staff member’s 
+own and other em","[np.float64(0.0409), np.float64(0.068), np.float64(0.0442), np.float64(0.0197), np.float64(-0.0033), np.float64(0.0105), np.float64(-0.0041), np.float64(0.0086), np.float64(-0.01), np.float64(-0.0126)]",1536
+fd36dd34-0ee3-4b72-89f1-e3ff5ec18d3b,purpose of preventing risks to the staff member’s safety and health,"[np.float64(0.0112), np.float64(0.0357), np.float64(0.0367), np.float64(0.0508), np.float64(-0.027), np.float64(0.0037), np.float64(-0.0038), np.float64(0.0023), np.float64(-0.0009), np.float64(0.0081)]",1536
+8d66a980-980c-4b8e-abc2-f6e83287599a,"Risk Assessment / Hazard Analysis 
+A hazard is anything at work that might cause harm, e.g. electricity, hot su rfaces, lifting 
+heavy loads, slippery floors, and poorly lit stairways etc. Staff must ","[np.float64(0.017), np.float64(0.0856), np.float64(0.0764), np.float64(0.0167), np.float64(-0.0171), np.float64(-0.005), np.float64(-0.0113), np.float64(-0.0002), np.float64(0.0282), np.float64(0.0124)]",1536
+6c035436-9f25-4e57-b125-ad3534ff4423,"welfare at work. Staff will be involved in the identification of hazards and trained in dealing 
+with the hazards identified. This Safety Statement will be included in induction training 
+and staff wi","[np.float64(0.0111), np.float64(0.0637), np.float64(0.0394), np.float64(0.0208), np.float64(-0.0203), np.float64(0.0181), np.float64(-0.011), np.float64(0.0024), np.float64(0.0057), np.float64(0.0212)]",1536
+fb75b4bf-4287-4b6f-938e-e271cfc8ef23,"the premises must also be reported. 
+Under the OSHA, employers are obliged to report certain o ccurrences to the  area 
+occupational safety and health officer as follows: 
+1)  Where an accident in a  ","[np.float64(-0.0112), np.float64(0.0285), np.float64(0.0471), np.float64(0.0302), np.float64(-0.0171), np.float64(0.0212), np.float64(0.0147), np.float64(-0.0206), np.float64(0.0016), np.float64(0.0148)]",1536
+7200b36d-dbd6-4470-80d6-fbc496c1697d,"shall send to the area occupational safety and health officer, a written notice of the accident 
+in the prescribed form within seven days of the occurrence of the accident. 
+ 
+Members of staff will be","[np.float64(0.0033), np.float64(0.062), np.float64(0.0767), np.float64(0.0081), np.float64(-0.0478), np.float64(0.023), np.float64(0.0076), np.float64(-0.0174), np.float64(0.0126), np.float64(-0.0141)]",1536
+a70c5248-7f33-42af-a649-68ac7b0c7514,"Smoking, Alcohol and Drugs: 
+It is not permissible to attend work under the influence of intoxicating liquor or drugs. 
+The smoking of tobacco products is prohibited in the GESCI offices. Smoking can ","[np.float64(0.0107), np.float64(0.0363), np.float64(0.0579), np.float64(0.0109), np.float64(-0.0143), np.float64(0.0271), np.float64(-0.0275), np.float64(-0.0158), np.float64(-0.0175), np.float64(0.0231)]",1536
+5b693728-bf99-49b1-874a-9be6b0bdd0d0,"with under the Company’s disciplinary p rocedure. Visitors, contractors and temporary 
+members of staff are expected to abide by the terms of this policy. 
+ 
+Advice and Guidelines for VDU users 
+As pa","[np.float64(-0.0156), np.float64(0.0541), np.float64(0.0591), np.float64(0.0096), np.float64(0.005), np.float64(-0.0066), np.float64(-0.0178), np.float64(-0.0189), np.float64(-0.0036), np.float64(0.0346)]",1536
+4012657c-08d3-455a-b1f7-2d1f88f503a2,"Staff members working continuously on-screen should alternate tasks so that at least 10 
+minutes during each 60 minutes of work is spent doing off-screen type of work. This work 
+is to be undertaken a","[np.float64(-0.0104), np.float64(0.0974), np.float64(0.0765), np.float64(-0.0122), np.float64(-0.0142), np.float64(-0.0021), np.float64(0.0512), np.float64(0.013), np.float64(0.0251), np.float64(0.0307)]",1536
+ae1f4e22-026d-4b34-a295-8c1d845febee,"GESCI’s policy to minimise the need for manual handling of loads and so therefore should 
+be avoided as far as is reasonably practicable. 
+Staff members must check the weight of the load before attemp","[np.float64(0.0241), np.float64(0.0498), np.float64(0.0537), np.float64(-0.0224), np.float64(0.0135), np.float64(0.0204), np.float64(-0.0161), np.float64(0.0094), np.float64(-0.0009), np.float64(0.0269)]",1536
+3198f893-9d97-486e-a35e-db0e1a19f2cd,"and the back straight. 
+ 
+8.4 Safety, Health & Welfare at GESCI Offices 
+GESCI staff may be based at GESCI offices in Nairobi. These offices are rented and 
+are shared with other organizations so GESC","[np.float64(0.0212), np.float64(0.0664), np.float64(0.1011), np.float64(0.025), np.float64(-0.0455), np.float64(0.0347), np.float64(-0.0084), np.float64(0.0144), np.float64(0.0109), np.float64(-0.0133)]",1536
+17a905e4-0a4d-4960-9846-5b36ead8a8f1,"• Participate in any safety and health training offered by GESCI (staff based   
+        at Nairobi office) 
+ 
+ 
+8.4.2 Fire Procedures 
+Each office should have a fire alarm, readily accessible fire ex","[np.float64(-0.0133), np.float64(0.0615), np.float64(0.0987), np.float64(0.0055), np.float64(-0.0581), np.float64(0.0205), np.float64(-0.0175), np.float64(0.0352), np.float64(0.0321), np.float64(0.0019)]",1536
+454b390d-da05-4775-947d-226baa203cc9,"If a staff member discovers a fire the staff member should: 
+ Activate the fire alarm. 
+ Not under any circumstances, expose themselves to danger. 
+ Leave the building by the nearest fire exit and ","[np.float64(0.0159), np.float64(0.0463), np.float64(0.0273), np.float64(-0.0252), np.float64(-0.0214), np.float64(-0.0052), np.float64(-0.0263), np.float64(0.0086), np.float64(0.0232), np.float64(0.0102)]",1536
+f913f581-eff1-4ae5-b2d8-65e05df06b29,"followed in the event of a real fire. 
+ 
+8.4.3 Staff Security 
+Each office should have restricted access to prevent unauthorised persons from entering the 
+office. This restricted access should not im","[np.float64(0.016), np.float64(0.0754), np.float64(0.0702), np.float64(0.0158), np.float64(-0.0111), np.float64(0.0231), np.float64(-0.0234), np.float64(0.0257), np.float64(0.0191), np.float64(-0.0038)]",1536
+6dd082e9-be26-413e-bfd6-7ad5645645a2,"8.6 Working from Home 
+If a staff member works from home whether at the request of GESCI or of the staff member 
+with GESCI’s consent then their home is regarded as a location of work which comes with","[np.float64(0.0077), np.float64(0.0748), np.float64(0.097), np.float64(0.0143), np.float64(-0.0135), np.float64(0.0074), np.float64(0.0086), np.float64(-0.0094), np.float64(0.0329), np.float64(0.0014)]",1536
+500892c7-ec99-4a92-a43d-e6be4d095c7b,"satisfaction in order for the home-working arrangement to continue. 
+ 
+8.7 Travelling on GESCI business 
+Given the nature of GESCI’s business, global travel is a regular activity for many 
+GESCI staff","[np.float64(0.0055), np.float64(0.0599), np.float64(0.1131), np.float64(0.011), np.float64(-0.0244), np.float64(0.0021), np.float64(0.0459), np.float64(0.0275), np.float64(0.0404), np.float64(0.0114)]",1536
+ca91f7d0-f26a-40a5-b318-320577365e39,"encouraged to regularly check their government’s travel advisories or the government of 
+Kenya’s travel advisories on the relevant website. In all cases where travel to a particular 
+country or region","[np.float64(0.0388), np.float64(0.0246), np.float64(0.0673), np.float64(0.0288), np.float64(-0.0612), np.float64(0.0569), np.float64(0.0085), np.float64(0.0388), np.float64(0.026), np.float64(0.0528)]",1536
+227ffef1-5f8d-4163-9918-b6797c860c2a,"Staff members travelling on GESCI business should always take advice beforehand on 
+the pot ential health risk associated with the trip.   Websites such as the World Health 
+Organization’s Internation","[np.float64(-0.0038), np.float64(0.0398), np.float64(0.0684), np.float64(0.0201), np.float64(-0.0935), np.float64(-0.0012), np.float64(0.0221), np.float64(0.0517), np.float64(0.0115), np.float64(0.0138)]",1536
+4361c4ce-dd7e-44b1-9d6c-8cdccd93c102,"8.7.3 Personal safety and security 
+Staff members should take all necessary m easures to ensure their personal safety and 
+security while travelling. All incidents must be reported to GESCI. 
+It is th","[np.float64(0.0113), np.float64(0.049), np.float64(0.0805), np.float64(0.0038), np.float64(-0.0707), np.float64(0.0219), np.float64(0.0283), np.float64(0.0258), np.float64(0.0377), np.float64(0.0048)]",1536
+1cb097a3-bdc4-4143-b737-e6509bf88161,"Staff members may contact the HR Manager or the Finance and Administration Manager 
+for any questions related to GESCI’s travel insurance policy. 
+ 
+8.7.5 Contingency planning 
+For travel to particula","[np.float64(0.0035), np.float64(0.0439), np.float64(0.0887), np.float64(-0.0014), np.float64(-0.0583), np.float64(0.0178), np.float64(0.0085), np.float64(0.0287), np.float64(0.0232), np.float64(-0.0146)]",1536
+4896e860-5021-4c13-9909-f2c3ec1e1c3b,"9 GRIEVANCE, DISCIPLINARY AND 
+ DISMISSAL POLICY 
+ 
+By accepting employment with GESCI, staff agrees to work in a responsible, disciplined, 
+harmonious and productive manner. Staff will be expected to","[np.float64(0.0149), np.float64(0.0631), np.float64(0.0653), np.float64(0.0324), np.float64(0.0013), np.float64(0.0091), np.float64(0.0072), np.float64(-0.0009), np.float64(0.0007), np.float64(0.0117)]",1536
+f8817d2f-37c7-46ff-8dcd-5c3748a8a0aa,"but to give mechanisms to ensure minimum standards of behavior are observed in accordance 
+with GESCI values. It is the intention of GESCI that disciplinary action shall have the aim of 
+correcting or","[np.float64(0.0205), np.float64(0.0889), np.float64(0.0939), np.float64(0.0166), np.float64(0.0032), np.float64(0.0327), np.float64(0.0021), np.float64(-0.0032), np.float64(0.0046), np.float64(-0.0001)]",1536
+c658e613-f5a5-4c1a-8642-950a1438d5b7,"administrative issuances or to observe the standards of conduct expected of a staff member 
+of an international organization m ay be perceived as misconduct and may lead to the 
+institution of a disci","[np.float64(0.0314), np.float64(0.0721), np.float64(0.0709), np.float64(0.0263), np.float64(-0.0112), np.float64(0.0333), np.float64(0.0201), np.float64(-0.0157), np.float64(0.0221), np.float64(0.0021)]",1536
+5c2d5833-070d-4174-a49a-d1afedfc8e4e,"who feels he/she has not received fair and equitable treatment may, without fear of reprisal, 
+bring his/h er complaint to the attention of the staff member’s immediate Manager or a 
+Senior Manager or","[np.float64(0.0199), np.float64(0.0421), np.float64(0.0794), np.float64(0.0437), np.float64(0.0023), np.float64(0.0167), np.float64(-0.0237), np.float64(0.0037), np.float64(0.0205), np.float64(0.0361)]",1536
+9e8a6aee-50f3-4ccc-bebe-42fb0a3a5ea1,"problem orally with their immediate Manager.  The Manager should m ake a reasonable 
+effort to resolve the issue expeditiously and in any event within 30 days of the issue being 
+reported.","[np.float64(-0.0318), np.float64(0.0578), np.float64(0.0318), np.float64(0.0395), np.float64(-0.0195), np.float64(0.0338), np.float64(0.0291), np.float64(-0.0156), np.float64(0.0256), np.float64(0.0294)]",1536
+cfba58a5-e8b9-4c2b-950c-f1b9e15c0dde,"If the staff member feels that the situation has not been satisfactorily resolved by his/her 
+Manager, if the complaint involves the staff member’s Manager, or if the staff member does 
+not feel comfo","[np.float64(-0.0185), np.float64(0.0558), np.float64(0.0694), np.float64(0.0165), np.float64(0.0266), np.float64(0.0107), np.float64(0.0168), np.float64(-0.0486), np.float64(0.0549), np.float64(0.0239)]",1536
+b3955680-e196-4b91-a10f-c82439d2bae7,"Where the resolution provided by the HR Manager is unsatisfactory, the staff member may 
+submit a written complaint to any of GESCI’s other Senior Managers or the CEO within 
+30 days of the HR Manager","[np.float64(-0.0086), np.float64(0.0363), np.float64(0.1039), np.float64(0.0166), np.float64(-0.0061), np.float64(0.0151), np.float64(0.0016), np.float64(-0.027), np.float64(0.028), np.float64(0.0033)]",1536
+e85f460c-f75e-4f0c-9ff0-c8627b78df59,"to the CEO. The written complaint should be specific, identifying the policy or practice 
+alleged to have been violated and the individual who is alleged to have violated that policy 
+or practice. GES","[np.float64(0.0353), np.float64(0.0124), np.float64(0.075), np.float64(0.0309), np.float64(-0.0123), np.float64(0.0362), np.float64(-0.0251), np.float64(-0.0031), np.float64(0.0232), np.float64(0.0284)]",1536
+b6942ff4-11ef-4bac-83f2-9daae58da029,"and given a chance to explain their side of the story. 
+ 
+9.2 Disciplinary measures 
+Disciplinary measures may be imposed whenever there is a finding of misconduct. Upon a 
+finding of misconduct, disc","[np.float64(0.0183), np.float64(0.0441), np.float64(0.0672), np.float64(0.0126), np.float64(-0.0091), np.float64(0.0474), np.float64(-0.0034), np.float64(-0.0183), np.float64(0.0105), np.float64(0.0078)]",1536
+1f4c3d02-af1b-4dd5-a6fa-05dbf5552ca3," Verbal or written warning; 
+ Deferment, for a specified period, of eligibility for salary increment or considerations  
+               for promotion; 
+ •     Suspension from duty without pay for a ","[np.float64(-0.0203), np.float64(0.0556), np.float64(0.0801), np.float64(0.0184), np.float64(-0.0293), np.float64(0.0388), np.float64(-0.0363), np.float64(-0.011), np.float64(0.0133), np.float64(0.0187)]",1536
+a6ac2e91-0602-4ec7-9f04-a4413de5c55f,"• In compensation for a loss to GESCI, deductions from the staff member’s salary for  
+              a specified period of time. 
+• Dismissal or termination of appointment. 
+ 
+Staff who have had forma","[np.float64(-0.0009), np.float64(0.0605), np.float64(0.0907), np.float64(0.0146), np.float64(-0.0597), np.float64(0.0405), np.float64(-0.0211), np.float64(0.0093), np.float64(0.0094), np.float64(0.0248)]",1536
+84a2dd37-c180-4fc3-afde-c126e1defd95,"Investigations will normally start with an initial or preliminary inquiry to determine if there 
+is m erit in the allegations of mis conduct and sufficient evidence to  proceed with a full 
+investigat","[np.float64(0.0309), np.float64(0.028), np.float64(0.0541), np.float64(0.0289), np.float64(-0.0047), np.float64(0.0337), np.float64(-0.0105), np.float64(-0.0012), np.float64(0.0138), np.float64(0.0571)]",1536
+23f3222a-2150-47f6-af61-33317d4d9376,"her case and to be represented by a colleague if so desired. Depending on the level of the 
+staff m ember being investigated, the CEO or  the Board will constitute a Disciplinary 
+Committee. 
+If any w","[np.float64(0.0722), np.float64(0.0203), np.float64(0.0364), np.float64(0.0305), np.float64(0.0223), np.float64(0.0393), np.float64(-0.0364), np.float64(0.0109), np.float64(-0.0089), np.float64(0.0194)]",1536
+2a46e30b-a2b2-4190-88cf-711dff0ba094,"be taken. A staff member who wishes to appeal against an administrative decision shall 
+address her/his petition to the CEO within 7 days of receiving notification of the decision. 
+Staff members also","[np.float64(0.036), np.float64(0.0108), np.float64(0.0443), np.float64(0.0234), np.float64(0.0015), np.float64(0.0367), np.float64(-0.0335), np.float64(0.002), np.float64(0.0025), np.float64(-0.0012)]",1536
+dfe66941-84ae-4a11-bfa2-ff588503a54d,"of the Board shall be final. The Board shall from time to time specify the procedures 
+governing the right of the CEO to appeal a Board disciplinary decision where the CEO 
+is the aggrieved party. 
+ 
+","[np.float64(0.0342), np.float64(0.0218), np.float64(0.0522), np.float64(0.0179), np.float64(0.0217), np.float64(0.0695), np.float64(-0.0211), np.float64(0.0205), np.float64(0.0095), np.float64(0.0592)]",1536
+b882e34a-4fa7-4f72-91f4-07bb7ab8c167,"opportunity for staff to reassess and strategize to improve. 
+ 
+For the specific case of a staff member's standard of work or behaviour falling below an 
+acceptable level, the immediate Manager will i","[np.float64(-0.0081), np.float64(0.0815), np.float64(0.0593), np.float64(-0.0089), np.float64(-0.0055), np.float64(0.0553), np.float64(0.007), np.float64(-0.0276), np.float64(0.0151), np.float64(0.0759)]",1536
+c5ef8de9-9371-4920-88b5-d13724d3a838,"habitual), slackness and ordinary indiscretion. 
+ 
+Verbal warning is the first stage of the formal disciplinary action. Normally the Manager is 
+to conduct a formal disciplinary interview and if neces","[np.float64(0.0104), np.float64(0.0633), np.float64(0.0284), np.float64(-0.0112), np.float64(-0.0188), np.float64(0.0706), np.float64(-0.0072), np.float64(-0.029), np.float64(0.001), np.float64(0.0657)]",1536
+52e7228a-a70a-422e-9490-3bca44f85792,"can bring a colleague to the meeting if he/she so wishes. This meeting will be recorded 
+and a letter will be sent to the staff member concerned about the offence. This will be 
+signed by the staff me","[np.float64(-0.0023), np.float64(0.0489), np.float64(0.0624), np.float64(-0.0143), np.float64(-0.0216), np.float64(0.0414), np.float64(-0.0317), np.float64(-0.0414), np.float64(0.0142), np.float64(0.0424)]",1536
+4ea8e2f0-f2e3-4606-9f9c-4a9ccc94d6e6,"issuance of a final warning to be signed by the HR Manager and/or a suspension. The staff 
+member will be notified of the alleged offence and invited to a disciplinary interview on a","[np.float64(0.0034), np.float64(0.0365), np.float64(0.0396), np.float64(-0.0179), np.float64(-0.036), np.float64(0.0163), np.float64(-0.0218), np.float64(-0.017), np.float64(0.0325), np.float64(0.0321)]",1536
+05e18f02-17f2-4e6c-93b9-8b2dd57c898b,"specified date, to which he/she may bring a colleague of his/her choice. At the interview, 
+the staff member, who may be accompanied by a colleague of his/her choice, will be clearly 
+warned that if t","[np.float64(-0.0001), np.float64(0.0399), np.float64(0.0799), np.float64(-0.0101), np.float64(-0.03), np.float64(0.0327), np.float64(-0.0219), np.float64(0.0046), np.float64(-0.0159), np.float64(0.048)]",1536
+bcb93b3e-0799-41ba-8b1d-73a91449d48e,"9.3.5   Suspension 
+The CEO may suspend any staff member with due cause, subject to the institution 
+thereafter of appropriate disciplinary steps as under: 
+ 
+a)  In the case of staff still on probati","[np.float64(0.0167), np.float64(0.0316), np.float64(0.0568), np.float64(0.0134), np.float64(-0.0219), np.float64(0.0621), np.float64(-0.0355), np.float64(0.0297), np.float64(0.0143), np.float64(-0.0048)]",1536
+e6e64e0c-8a59-4e51-9b91-90b8a7fbfaf5,"deems fit. 
+ 
+Depending on the situation, there are two types of suspension: 
+a)  Suspension with pay: A staff member may be suspended with pay to  facilitate an 
+investigation. In certain instances, ","[np.float64(0.0058), np.float64(0.0406), np.float64(0.0606), np.float64(-0.0031), np.float64(-0.0013), np.float64(0.047), np.float64(-0.0257), np.float64(-0.0144), np.float64(0.0305), np.float64(0.0084)]",1536
+f37127e5-2879-484c-97de-73eaffa5b2e2,"disciplinary measure shall be administered up to and including termination. Notice of any 
+disciplinary measure taken shall be promptly communicated to the staff member and in 
+any case no later than ","[np.float64(0.021), np.float64(0.0451), np.float64(0.0448), np.float64(0.0134), np.float64(-0.015), np.float64(0.0775), np.float64(-0.0232), np.float64(-0.0013), np.float64(0.0212), np.float64(0.0168)]",1536
+fa05b59d-aabd-42f6-b973-b980a05f6b51,"of international staff, the staff member may not undertake home travel or leave the duty 
+station without the prior written consent of the CEO. 
+ 
+b)  Suspension without pay: is a disciplinary measure","[np.float64(0.0298), np.float64(0.0496), np.float64(0.069), np.float64(0.0101), np.float64(-0.0416), np.float64(0.0435), np.float64(-0.0143), np.float64(-0.0051), np.float64(0.032), np.float64(0.0107)]",1536
+efc2292c-70f9-4753-82c0-1a8be8482b7d,"A staff member may be placed on administrative leave, subject to conditions specified by 
+the CEO, at any time after an allegation of misconduct and pending the initiation of an 
+investigation. Admini","[np.float64(0.0443), np.float64(-0.0023), np.float64(0.0515), np.float64(0.0305), np.float64(-0.0116), np.float64(0.0624), np.float64(-0.0142), np.float64(-0.0378), np.float64(0.0052), np.float64(0.0085)]",1536
+a157af47-7717-4bb1-8ff3-5aec72862476,"with partial pay or without pay.  
+ 
+Placement on adminis trative leave shall be without prejudice to the rights of the staff 
+member and shall not constitute a disciplinary measure. If administrative","[np.float64(0.0123), np.float64(0.0189), np.float64(0.05), np.float64(0.0085), np.float64(-0.011), np.float64(0.0271), np.float64(-0.0202), np.float64(-0.0522), np.float64(0.0246), np.float64(-0.0025)]",1536
+636bf61e-d024-4822-923a-ea1fcf71bd42,"offence, embezzlement or misappropriation of GESCI’s funds or any other grounds for 
+summary dismissal under the relevant Kenyan labour law, she/he will be liable to “instant” 
+or summary dismissal. D","[np.float64(-0.0004), np.float64(0.0436), np.float64(0.0494), np.float64(0.0053), np.float64(-0.0212), np.float64(0.0257), np.float64(-0.004), np.float64(0.0133), np.float64(0.0019), np.float64(-0.0071)]",1536
+2ba8ff34-7d14-4f34-93d4-4cc6ab960930,"Code of Conduct  
+Staff are expected to adhere to the following principles listed below when working with 
+GESCI. 
+a) Staff are expected to respect all rules and regulations of the organization 
+b) St","[np.float64(0.0242), np.float64(0.0642), np.float64(0.0574), np.float64(0.025), np.float64(0.0027), np.float64(0.0078), np.float64(-0.0056), np.float64(0.0208), np.float64(-0.0152), np.float64(0.035)]",1536
+21fdabe0-4969-43f1-85a2-3a69ff63eb70,"presidential levels should tender their resignation from the date of the intraparty 
+nominations 
+f) GESCI staff must make our non-partisan role clear to the government, political parties 
+and the pub","[np.float64(0.0318), np.float64(0.0627), np.float64(0.0633), np.float64(0.0086), np.float64(-0.0021), np.float64(0.0001), np.float64(-0.0016), np.float64(0.0332), np.float64(0.0061), np.float64(0.0068)]",1536
+73875560-24bf-4fa8-8ba8-9ef909cc03dd,"k) Staff are responsible to ensure that any loss or damage to organizational property is 
+reported immediately to their line Managers or Manager: Finance & Operations 
+ 
+ OFFENCES  
+These shall be gro","[np.float64(-0.0024), np.float64(0.1108), np.float64(0.0953), np.float64(-0.0082), np.float64(0.0181), np.float64(0.0401), np.float64(-0.0065), np.float64(-0.0357), np.float64(-0.0053), np.float64(0.0278)]",1536
+d666473e-f4d1-4a6e-9de5-128c00c46548,"d) Failure to account for cash advances within the required period 
+e) Failure to comply with any or all of GESCI’s code of conduct. 
+ 
+II. Misconduct 
+The following offences, among others, shall be c","[np.float64(0.0088), np.float64(0.069), np.float64(0.1159), np.float64(0.0235), np.float64(0.0093), np.float64(0.0022), np.float64(0.0207), np.float64(-0.0147), np.float64(0.0114), np.float64(0.0184)]",1536
+c6d21963-7dc9-448b-9933-b7bc64bd62ff,"be heard. 
+a) Repeated commitment of misdemeanors 
+b) Absence from work without permission or lawful reason for three consecutive days. 
+c) Misuse of organization property or resources 
+d) Deliberate ","[np.float64(-0.0045), np.float64(0.0432), np.float64(0.1012), np.float64(0.0383), np.float64(-0.0139), np.float64(0.0318), np.float64(-0.0218), np.float64(-0.0167), np.float64(-0.0256), np.float64(0.0089)]",1536
+4b849637-9c4c-485c-afd2-4af0ba81324c,"g) Unauthorized disclosure of any confidential or classified information  
+h) Pecuniary embarrassment or involvement in financial scandals that is likely to lead to 
+bankruptcy.  
+i) Consumption of al","[np.float64(0.0227), np.float64(0.0474), np.float64(0.1078), np.float64(0.0339), np.float64(-0.0057), np.float64(0.0191), np.float64(0.0187), np.float64(-0.005), np.float64(-0.0025), np.float64(0.0027)]",1536
+e16d9e8d-6437-43ad-ba97-54afeca73d5a,"ii)  A serious infringement of health and safety rules (such negligence that may likely to 
+cause injury to people or damage to equipment) 
+iii) Supplies false or misleading information when applying ","[np.float64(-0.0114), np.float64(0.0631), np.float64(0.1015), np.float64(0.0194), np.float64(-0.0063), np.float64(0.0191), np.float64(0.0155), np.float64(-0.0234), np.float64(0.0017), np.float64(0.0198)]",1536
+0cf08e46-a98d-4089-86b3-2b1f55c1a78b,"vii) Is convicted of a criminal offence (other than a minor offence or an offence connoting 
+no moral turpitude). 
+viii) Is guilty of a grave misconduct bringing her/his office and that of GESCI as em","[np.float64(0.0231), np.float64(0.0194), np.float64(0.0999), np.float64(0.0223), np.float64(0.0078), np.float64(0.0301), np.float64(0.0358), np.float64(-0.0079), np.float64(0.0103), np.float64(-0.0192)]",1536
+f9ebf523-ed2e-4d45-aa29-a21add855e96,"gift for services rendered in the course of her/his duties as a GESCI staff member. 
+xii) Fails to disclose, when  required  to  do  so  any  personal  interest  in  any  business  or 
+transaction of ","[np.float64(0.0133), np.float64(0.0239), np.float64(0.0735), np.float64(0.0182), np.float64(-0.0066), np.float64(-0.0022), np.float64(0.0023), np.float64(-0.0019), np.float64(0.0075), np.float64(-0.0154)]",1536
+347b97e0-6ca7-47b4-b133-f12f8d204f04,"xv) Receives bribes or any other form of personal payment for services rendered in the name 
+of GESCI. 
+xvi) Possesses, uses or is under the influence of illegal drugs at any time while conducting 
+GE","[np.float64(0.0049), np.float64(0.0415), np.float64(0.057), np.float64(0.0176), np.float64(-0.0268), np.float64(0.0192), np.float64(0.0113), np.float64(0.029), np.float64(0.0176), np.float64(-0.0054)]",1536
+c84dbeed-381f-4584-8fc1-3c91c6c58cef,"Staff members who are subject to summary dismissal shall not be entitled to pay in lieu 
+of notice nor shall they be entitled to severance pay. 
+ 
+9.5 Exculpation of Disciplinary Blemish 
+If a staff m","[np.float64(0.0292), np.float64(0.0555), np.float64(0.0746), np.float64(0.0185), np.float64(-0.0415), np.float64(0.0271), np.float64(0.004), np.float64(0.0072), np.float64(0.0143), np.float64(0.005)]",1536
+6988275b-4141-4b70-ae45-1a01c9543b4f,"any complaint of retaliation will be investigated and considered gross misconduct. Any 
+questions related to GESCI policies and procedures should be directed to the HR Manager. 
+Unwarranted malicious ","[np.float64(0.0153), np.float64(0.0568), np.float64(0.0834), np.float64(0.02), np.float64(-0.0165), np.float64(0.0232), np.float64(0.0017), np.float64(-0.0155), np.float64(0.0076), np.float64(-0.0175)]",1536
+ab41efd5-d05f-452c-b18c-83e25254f539,"allegations. The information provided must present sufficient detail or supporting 
+evidence which amounts to a prima-fascia case for an initial investigation so that the matter 
+can be pursued respon","[np.float64(0.0244), np.float64(0.0017), np.float64(0.0674), np.float64(0.0318), np.float64(0.0068), np.float64(0.0212), np.float64(-0.0046), np.float64(-0.0199), np.float64(0.0087), np.float64(0.0225)]",1536
+d38262f4-b065-4fc3-bc92-9550e992f931,"10 SEPARATION FROM SERVICE 
+Any of the following shall constitute separation from service, subject to the employment 
+Act of the Republic of Kenya: 
+i. Resignation; 
+ii. Expiration of appointment/cont","[np.float64(0.0093), np.float64(0.0553), np.float64(0.0859), np.float64(0.0155), np.float64(-0.0232), np.float64(0.0318), np.float64(-0.0226), np.float64(0.0433), np.float64(0.036), np.float64(0.0418)]",1536
+d6a60852-b0a8-4115-a2fe-7cb0cbe5d810,"the st aff m ember wh ere issu es of gross misconduct are concerned. Once accepted, a 
+resignation may not be withdrawn by the staff member without the expressed agreement 
+of the CEO. 
+ 
+10.2Expiry o","[np.float64(0.015), np.float64(0.0844), np.float64(0.0892), np.float64(0.007), np.float64(-0.0512), np.float64(0.0285), np.float64(-0.0227), np.float64(-0.0042), np.float64(0.0204), np.float64(0.0282)]",1536
+8bf3408d-1fee-4e07-a067-1e266a506293,"acceptable to the Manager responsible for the position, to make himself or herself 
+available to perform official duties for a total of 20 working days in any one year. 
+ 
+10.5Termination of appointme","[np.float64(-0.0049), np.float64(0.0871), np.float64(0.1128), np.float64(-0.006), np.float64(-0.0284), np.float64(0.0002), np.float64(0.0151), np.float64(0.0139), np.float64(0.0167), np.float64(0.011)]",1536
+194f9a79-3f76-4eda-b8de-4bca54a9a162,"c)  If the staff member is, for reasons of health, incapacitated for further service; 
+d)  Disciplinary reasons in accordance with section 9 (summary dismissal); 
+e)  If facts anterior to the appointm","[np.float64(0.0092), np.float64(0.0747), np.float64(0.0998), np.float64(-0.0067), np.float64(0.0183), np.float64(0.0594), np.float64(0.008), np.float64(0.038), np.float64(0.0031), np.float64(0.0012)]",1536
+dcca1ec1-dd8b-46c9-9d7e-9e0b59310b7a,"unit being abolished; or 
+c)  Types or levels of positions being changed or reduced in number. 
+ 
+Decision on redundancy 
+A decision that a staff member's employment is redundant will be made by the C","[np.float64(0.0132), np.float64(0.0474), np.float64(0.1209), np.float64(-0.0061), np.float64(0.0266), np.float64(0.0487), np.float64(0.0105), np.float64(0.0368), np.float64(0.015), np.float64(0.0119)]",1536
+73fbb62a-2ec6-4c41-b528-ae6d465ef5d2,"payments as set out further below. 
+• The performance (including professional and wo rk-place behavior) of staff 
+members; 
+• The seniority in time, skill, ability and reliability of each staff member","[np.float64(0.0232), np.float64(0.0347), np.float64(0.0906), np.float64(0.0067), np.float64(-0.0097), np.float64(0.0277), np.float64(0.015), np.float64(0.016), np.float64(0.0125), np.float64(0.0056)]",1536
+f1436df3-5071-40a3-b530-b8441dad7ee3,"entitled to payments equal to all outstanding salary, pro rata salary for any accrued but 
+not taken leave d ays and s everance pay at the  rate of at fifteen d ays’ pay for each 
+completed year of se","[np.float64(-0.0132), np.float64(0.0315), np.float64(0.0526), np.float64(0.0175), np.float64(-0.0321), np.float64(0.0165), np.float64(0.006), np.float64(-0.0158), np.float64(-0.0134), np.float64(0.0059)]",1536
+6999cecd-3da1-4627-8e4d-c305dd774b2a,"10.5.2Termination for unsatisfactory performance or service 
+A decision to separate a staff member for unsatisfactory performance may be made 
+by a Senior M anager, on the b asis of a recommendation f","[np.float64(0.0112), np.float64(0.0738), np.float64(0.0695), np.float64(0.0036), np.float64(-0.0207), np.float64(0.0316), np.float64(-0.0075), np.float64(0.0041), np.float64(0.053), np.float64(0.02)]",1536
+bd865846-8eee-4eb9-83f7-4104f23bd461,"to severance  payments.  However, the staff member will receive payments for any 
+accrued unused leave and accrued pay for time already worked. 
+ 
+10.5.3Termination for ill health or disability 
+The e","[np.float64(-0.0008), np.float64(0.0642), np.float64(0.0663), np.float64(0.01), np.float64(-0.0535), np.float64(0.0211), np.float64(0.0037), np.float64(0.0189), np.float64(0.0276), np.float64(0.0014)]",1536
+fb798c6d-2408-4ea5-844d-f377b0956f87,"provide a payment equal to one month salary to the staff member. 
+ 
+Severance pay 
+A staff member separated as a consequence of illness or disability is not entitled to 
+severance payments. However, t","[np.float64(0.0175), np.float64(0.0685), np.float64(0.0732), np.float64(0.0151), np.float64(-0.0446), np.float64(0.0268), np.float64(-0.0061), np.float64(0.0167), np.float64(0.0301), np.float64(-0.0174)]",1536
+f6b17ee4-d071-4d35-b0fc-f57338648fca,"In the event of the death of a staff member of GESCI occurring while in the service of 
+the organization, the Manager: Finance & Operations shall report the death promptly to 
+the CEO who will use the","[np.float64(0.0037), np.float64(0.0567), np.float64(0.045), np.float64(0.0159), np.float64(-0.0374), np.float64(0.019), np.float64(-0.0053), np.float64(0.0352), np.float64(0.0336), np.float64(-0.0081)]",1536
+6159a670-0274-4702-8dc6-263e29562a04,"to the family of  the deceased with regard to funeral and bu rial arrangements. Any  
+terminal benefits including gratuity will be paid to the estate of the deceased or to her/his 
+legal next of kin. ","[np.float64(0.0412), np.float64(0.07), np.float64(0.0514), np.float64(0.0037), np.float64(-0.046), np.float64(0.0057), np.float64(-0.007), np.float64(0.0249), np.float64(0.02), np.float64(-0.0015)]",1536
+c5574d37-c0e6-4f96-a195-4ed2a774ba5a,"given to the staff member during the course of his/her employment with GESCI and 
+all property in his/h er possession, including, without limitation, mailing lists and 
+company records, office keys, p","[np.float64(0.0233), np.float64(0.0651), np.float64(0.0416), np.float64(-0.0299), np.float64(0.0094), np.float64(-0.0087), np.float64(0.0008), np.float64(0.0126), np.float64(0.008), np.float64(-0.0126)]",1536
+706c41fb-e6bf-45dd-93cd-e5088bdef6b3,"at the discretion of GESCI may keep the equipment at no cost. 
+ 
+Departure Clearance Procedures: 
+Staff leaving GESCI shall be required to hand over all property that may be in their 
+possession and c","[np.float64(0.0433), np.float64(0.0685), np.float64(0.0814), np.float64(-0.036), np.float64(-0.0461), np.float64(0.0262), np.float64(0.0052), np.float64(0.042), np.float64(0.0424), np.float64(-0.0109)]",1536
+7efac085-9a50-4bef-98d9-be01119fbde0,"interview. This will enable the Chief Executive Officer to get their views on GESCI’s 
+organization, management and operations. This will be a chance for them to share their 
+views on any aspects that","[np.float64(0.0509), np.float64(0.0156), np.float64(0.0429), np.float64(-0.0446), np.float64(-0.0385), np.float64(0.0028), np.float64(0.021), np.float64(0.0574), np.float64(0.0337), np.float64(0.0122)]",1536
+2d34c394-3a58-440a-8cb3-aeb480e90a32,"When a staff member is separated from service, the date on which entitlement to salary, 
+allowances and benefits shall cease shall be determined according to the following 
+provisions: 
+i. In the case","[np.float64(0.029), np.float64(0.055), np.float64(0.1006), np.float64(0.0003), np.float64(-0.0398), np.float64(0.0156), np.float64(-0.0115), np.float64(0.0157), np.float64(0.0211), np.float64(0.0394)]",1536
+1c26a300-5dfa-4e2d-8ca3-fb200f2ba8f6,"ii. In the case of abandonment of post, the date shall be the date of the decision by the 
+line manager to the senior management  to terminate the appointment or the expiry 
+date specified in the lett","[np.float64(-0.0014), np.float64(0.042), np.float64(0.093), np.float64(-0.0192), np.float64(0.0058), np.float64(0.0128), np.float64(-0.0091), np.float64(-0.0081), np.float64(0.0344), np.float64(0.0503)]",1536
+72faea03-af59-4f88-8bc4-d3d26b42f1f5,"shall cease shall be the date of death.  
+ 
+Commutation of accrued annual leave 
+If, upon separation from service a staff member has accrued annual leave, he or she shall 
+be paid a sum of money in co","[np.float64(0.0289), np.float64(0.0541), np.float64(0.0791), np.float64(0.0176), np.float64(-0.0169), np.float64(0.0041), np.float64(0.0007), np.float64(0.0161), np.float64(0.0631), np.float64(0.0124)]",1536
+96cfd8bc-a0fa-4647-b3cc-ff6ca657cb88,"11. INFORMATION AND COMMUNICATION 
+TECHNOLOGY POLICIES 
+ 
+11.1Use of Company Computer 
+ 
+Computers, computer files, e-mail, voice-mail, facsimile machines, software and Internet 
+access (“The Company ","[np.float64(0.0316), np.float64(0.0312), np.float64(0.0438), np.float64(0.0213), np.float64(0.0063), np.float64(-0.048), np.float64(-0.0207), np.float64(0.0053), np.float64(0.0027), np.float64(0.0072)]",1536
+4240bb09-3d1f-4414-a270-a844c7e69434,"Phone Systems in ways that are disruptive, offensive to others, or harmful to morale. 
+An employee leaving the organization should either return all equipment provided to the 
+staff member by GESCI or","[np.float64(0.015), np.float64(0.0751), np.float64(0.0621), np.float64(-0.0047), np.float64(-0.0116), np.float64(-0.0226), np.float64(0.0006), np.float64(0.0074), np.float64(0.0189), np.float64(-0.0152)]",1536
+6f5a85d0-b59e-4ad5-9bbe-57670ff5a825,"is not lost, disclosed, modi fied without authorization or accessed by thi rd parties. 
+Sensitive data should be stored securely or destroyed after use to prevent recovery by 
+unauthorized persons. 
+ ","[np.float64(0.0298), np.float64(0.0648), np.float64(0.049), np.float64(-0.0147), np.float64(0.0279), np.float64(-0.0057), np.float64(-0.0168), np.float64(0.0299), np.float64(-0.0066), np.float64(-0.0456)]",1536
+db777322-cd58-44f5-aaa7-12385acfd4a6,"successful claim from GESCI’s insurers. 
+ 
+Laptops should always be placed in a secure location overnight or when left for a long 
+period of time. Extra care should be taken by staff member when trave","[np.float64(0.0157), np.float64(0.0236), np.float64(0.0374), np.float64(-0.0065), np.float64(-0.0164), np.float64(-0.0159), np.float64(-0.0039), np.float64(0.0005), np.float64(0.025), np.float64(-0.0308)]",1536
+d88f2c54-cdc6-41d2-a218-694b5ca94a7a,"Care should be taken when moving equipment, as they contain sensitive components. 
+Correct carrying cases, briefcases or other cases should be used. Laptops should never 
+be left unattended in a car o","[np.float64(0.0439), np.float64(0.0372), np.float64(0.0675), np.float64(-0.001), np.float64(0.0067), np.float64(-0.0042), np.float64(-0.0165), np.float64(0.036), np.float64(0.0184), np.float64(-0.0143)]",1536
+918d8bbd-c57a-4e83-b4f9-bd946f2c0876,"IT policies. Failure to comply with these polices may pose a serious risk to business 
+protection and may result in disciplinary action or dismissal. Management reserves the 
+right to update and amend","[np.float64(0.0036), np.float64(0.0518), np.float64(0.0793), np.float64(-0.0136), np.float64(0.0137), np.float64(-0.0085), np.float64(-0.0234), np.float64(0.0175), np.float64(-0.0262), np.float64(0.0048)]",1536
+c937984e-0376-401c-a0c8-af26a116e85e,"according to the software license agreement. 
+ 
+11.2.5Password protection 
+GESCI IT systems are password protected. Passwords are principle means of 
+identifying a user and in the interest of data sec","[np.float64(0.015), np.float64(0.0746), np.float64(0.0746), np.float64(-0.0022), np.float64(0.0005), np.float64(-0.009), np.float64(-0.0123), np.float64(0.0484), np.float64(-0.0144), np.float64(-0.0365)]",1536
+6584ebe2-7b40-4aad-930b-cb72561d851f,"if not managed properly. Therefore, before a staff member uses any removable media 
+(i.e. flash drives or other devices attaching to computers etc.), email attachments from 
+outside the firm and/or fi","[np.float64(0.0076), np.float64(0.038), np.float64(0.0194), np.float64(-0.0166), np.float64(-0.0047), np.float64(-0.0526), np.float64(-0.0112), np.float64(0.0283), np.float64(0.0385), np.float64(-0.0013)]",1536
+a247dd20-5182-4fb7-a096-6ea3d0baf7fa,"11.2.7Electronic Mail (e-mail) 
+All emails systems and communications made on the system remains the sole property 
+of GESCI and consequently should generally only be used for business related purpose","[np.float64(0.0437), np.float64(0.0575), np.float64(0.0645), np.float64(0.0125), np.float64(0.0059), np.float64(0.0071), np.float64(-0.0226), np.float64(0.0233), np.float64(0.0182), np.float64(0.0092)]",1536
+8a1510b4-b04a-4c2d-8324-d16ef30514fd,"within GESCI or elsewhere. 
+ 
+Staff members should also be wary about who is addressed in e-mails and should consider 
+the appropriate audience before messages are s ent out to “everyone in  GESCI” or","[np.float64(0.037), np.float64(0.0312), np.float64(0.0612), np.float64(0.0022), np.float64(0.0208), np.float64(-0.0333), np.float64(-0.0312), np.float64(0.0409), np.float64(0.0116), np.float64(-0.0084)]",1536
+6625581c-81d9-4b26-802c-b918e0c7070a,"particular, staff may not: 
+●   Access, download, store or forward offensive information such as pornographic material    
+     from any sites on the internet 
+ Access, downlo ad, or sto re illegal, ","[np.float64(0.042), np.float64(0.041), np.float64(0.079), np.float64(0.0004), np.float64(-0.0182), np.float64(-0.0137), np.float64(0.0012), np.float64(0.0134), np.float64(0.0222), np.float64(0.019)]",1536
+f0cbf769-0744-4c96-b6ed-a8f38bb01a0a,"offence. 
+ 
+11.3GESCI Telephone Policy 
+ 
+11.3.1  Standard GESCI Telephone System 
+Skype, ZOOM, WhatsApp as well as other apps can and should be use for  voice calls. 
+Calls should be  PC based or thr","[np.float64(-0.0026), np.float64(0.0413), np.float64(0.083), np.float64(-0.0153), np.float64(-0.0421), np.float64(-0.0526), np.float64(0.0037), np.float64(-0.007), np.float64(0.0221), np.float64(-0.0304)]",1536
+67ca3d09-8bd4-4fca-a1d0-3a6cb207cb05,"The office telephone in N airobi is p rimarily for local calls.  It m ay only be used for 
+international calls if the rates are cheaper. Calls from mobile phones are expensive and 
+should only be used","[np.float64(0.0111), np.float64(0.0189), np.float64(0.0713), np.float64(-0.0201), np.float64(-0.0077), np.float64(-0.0076), np.float64(0.0001), np.float64(0.0251), np.float64(0.0465), np.float64(-0.0475)]",1536
+bb654a77-44db-4a50-a40e-8dcbe2eaad11,"that the GESCI Skype account is actively monitored. 
+ 
+11.3.3Provision of a Mobile Phone 
+GESCI may provide a company mobile phone with Wi-Fi and Skype functionalities to 
+certain employees.  It is at","[np.float64(0.0224), np.float64(0.0439), np.float64(0.0667), np.float64(-0.0104), np.float64(-0.0033), np.float64(-0.0219), np.float64(0.0291), np.float64(0.0195), np.float64(0.0807), np.float64(-0.0403)]",1536
+2f79241f-66cd-430d-a7e3-e58e701d4a9b,"11.3.4Use of the GESCI mobile Phone 
+The mobile Phone is provided for business purposes. As such, all staff members assigned 
+a mobile phone will be required to certify the monthly itemized bills and ","[np.float64(0.0161), np.float64(0.0689), np.float64(0.0839), np.float64(-0.0129), np.float64(-0.0501), np.float64(-0.0255), np.float64(0.0203), np.float64(0.0194), np.float64(0.0697), np.float64(-0.0458)]",1536

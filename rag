@@ -1,0 +1,86 @@
+#pipeline_adapter.py
+# rag/pipeline_adapter.py
+from __future__ import annotations
+
+from dataclasses import dataclass
+from typing import Any, Dict, List, Optional
+
+
+@dataclass
+class RAGResult:
+    answer: str
+    contexts: List[str]              # plain text contexts used for generation
+    context_metadatas: Optional[List[Dict[str, Any]]] = None  # optional
+
+
+class RAGAdapter:
+    """
+    Minimal adapter that eval code can call.
+    - retrieve(query) -> list[str] contexts (+ optional metadatas)
+    - generate(query) -> RAGResult (answer + contexts actually used)
+    """
+
+    def __init__(self, rag_app: Any):
+        self.rag_app = rag_app
+
+    def retrieve(self, query: str, k: int = 4) -> tuple[List[str], Optional[List[Dict[str, Any]]]]:
+        # TODO(you): wire to your existing retriever call
+        # Common patterns:
+        #   docs = self.rag_app.retriever.get_relevant_documents(query)
+        #   docs = self.rag_app.get_relevant_documents(query)
+        #   docs = self.rag_app.retrieve(query, k=k)
+        docs = self.rag_app.retrieve(query, k=k)  # <-- change if needed
+
+        texts: List[str] = []
+        metas: List[Dict[str, Any]] = []
+        for d in docs:
+            # LangChain Document => d.page_content + d.metadata
+            text = getattr(d, "page_content", None) or str(d)
+            meta = getattr(d, "metadata", None) or {}
+            texts.append(text)
+            metas.append(meta)
+
+        return texts, metas
+
+    def generate(self, query: str, k: int = 4) -> RAGResult:
+        # TODO(you): wire to your existing "invoke" / "run" / "__call__" pipeline
+        #
+        # Typical LangChain RAG chain returns dict like:
+        #   {"answer": "...", "context": [Document,...]} or {"result": "..."}
+        #
+        # We'll do: retrieve -> then call your chain with those docs (or let your chain retrieve itself).
+        contexts, metas = self.retrieve(query, k=k)
+
+        # Option A: your existing pipeline generates from query only (does its own retrieval)
+        out = self.rag_app.invoke(query)  # <-- change if needed
+
+        # Normalize output
+        if isinstance(out, str):
+            answer = out
+        elif isinstance(out, dict):
+            answer = out.get("answer") or out.get("result") or out.get("output_text") or str(out)
+        else:
+            answer = str(out)
+
+        return RAGResult(answer=answer, contexts=contexts, context_metadatas=metas)
+
+
+def build_rag_pipeline(**kwargs) -> RAGAdapter:
+    """
+    This is the *only* function eval runner needs to import.
+    It should create/obtain your existing RAG app/chain and wrap it in RAGAdapter.
+    """
+    # IMPORTANT: do NOT rename your existing pipeline. Just import it.
+    # TODO(you): replace "get_rag_app" with whatever your rag/rag_pipeline.py exposes today.
+    from rag import rag_pipeline
+
+    # Example options you might already have:
+    # rag_app = rag_pipeline.create_chain(**kwargs)
+    # rag_app = rag_pipeline.get_chain(**kwargs)
+    # rag_app = rag_pipeline.RAGPipeline(**kwargs)
+    # rag_app = rag_pipeline.app
+    #
+    # Pick the one that already exists.
+    rag_app = rag_pipeline.get_rag_app(**kwargs)  # <-- change this line to match your file
+
+    return RAGAdapter(rag_app)

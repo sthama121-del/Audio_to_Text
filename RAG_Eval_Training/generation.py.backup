@@ -1,0 +1,143 @@
+# =============================================================================
+# generation.py — LLM-Powered Answer Generation (Anthropic Claude)
+# =============================================================================
+#
+# RESPONSIBILITY: Take a question + retrieved context → produce a grounded answer.
+#
+# DESIGN DECISION: We use the Anthropic SDK directly (not langchain-anthropic)
+# for maximum transparency. In a training context, you want to SEE every API
+# call, not have it abstracted away. LangChain wrappers are great for
+# production chaining but obscure the mechanics interviewers want to see.
+#
+# INTERVIEW GOTCHA: "Why not use LangChain's ChatClaude wrapper?"
+# Answer: For learning. In production, LangChain's wrapper adds streaming,
+# retry logic, and chain composition. But for interviews, demonstrating you
+# understand the raw API call is more impressive than knowing the wrapper.
+# =============================================================================
+
+import anthropic
+
+import config
+
+
+# ---------------------------------------------------------------------------
+# 1. System Prompt Engineering
+# ---------------------------------------------------------------------------
+# INTERVIEW GOTCHA: "How do you prevent hallucination in RAG?"
+# Answer: It's a PROMPT ENGINEERING problem, not just a retrieval one.
+# The system prompt must EXPLICITLY instruct the model to:
+#   a) Use ONLY the provided context
+#   b) Admit when it doesn't know (the "I don't know" escape hatch)
+#   c) Never fabricate information
+#
+# This is the #1 interview differentiator. Many candidates build the
+# retrieval pipeline perfectly but forget to constrain the LLM's output.
+
+SYSTEM_PROMPT = """You are a helpful HR Policy Assistant for GESCI.
+Your role is to answer employee questions accurately based SOLELY on the 
+provided company policy context.
+
+CRITICAL RULES:
+1. Answer ONLY using information from the provided context below.
+2. If the answer to the question is NOT in the provided context, respond 
+   with: "I don't have information about that in the current HR policy 
+   documents. Please contact HR directly for assistance."
+3. Do NOT fabricate, infer, or guess any information that is not explicitly 
+   stated in the context.
+4. Be clear, concise, and professional in your responses.
+5. If the context contains partial information, share what you know.
+   Only use the disclaimer from Rule 2 when you could NOT answer the core
+   question at all. Do NOT append "please contact HR" footers to answers
+   that already substantively address the question.
+
+You are designed to be honest about the boundaries of your knowledge."""
+
+
+# ---------------------------------------------------------------------------
+# 2. Answer Generation
+# ---------------------------------------------------------------------------
+def generate_answer(question: str, context: str) -> str:
+    """
+    Sends the question + context to Claude and returns the generated answer.
+
+    Args:
+        question: The user's natural language question.
+        context: The formatted, retrieved chunks (from retrieval.format_context).
+
+    Returns:
+        The LLM's generated answer as a string.
+
+    INTERVIEW GOTCHA: "What happens if the context is empty?"
+    Answer: If retrieval returned nothing, we still call the LLM but with
+    an empty context. The system prompt's Rule #2 handles this — the model
+    will produce an "I don't know" response. This is BETTER than short-
+    circuiting before the LLM call, because:
+      a) It keeps the pipeline uniform (easier to test & monitor)
+      b) The evaluation metrics can still score an empty-context response
+      c) It avoids a hard-coded "I don't know" that bypasses the LLM entirely
+
+    INTERVIEW GOTCHA: "How do you handle token limits?"
+    Answer: Claude Sonnet has a 200K token input context window.
+    Our retrieved context (3 chunks × ~200 tokens each = ~600 tokens)
+    is far under the limit. But in production with larger K or longer docs,
+    you'd need to:
+      a) Truncate context to fit the budget (less ideal — loses info)
+      b) Use a summarization step to compress context first (better)
+      c) Monitor token usage via the API response metadata
+    """
+    # Initialize the Anthropic client
+    # INTERVIEW GOTCHA: "Should the client be created per call?"
+    # Answer: The Anthropic client is lightweight and stateless.
+    # Creating it per call is fine. For high-throughput, use a module-level
+    # singleton or an async client with connection pooling.
+    client = anthropic.Anthropic(api_key=config.ANTHROPIC_API_KEY)
+
+    # Build the user message with the context injected
+    # SCENARIO COVERAGE: The context is placed BEFORE the question.
+    # Why? The LLM's attention mechanism works better when the reference
+    # material is "fresh" (close to where it needs to generate).
+    # Placing context AFTER the question means the model has to "look back"
+    # further — less effective for long contexts.
+    user_message = f"""Here is the relevant HR policy context:
+
+---
+{context}
+---
+
+Based on the context above, please answer the following question:
+
+Question: {question}
+
+Answer:"""
+
+    try:
+        response = client.messages.create(
+            model=config.GENERATION_MODEL,
+            max_tokens=1024,  # Generous for HR answers; trim for cost in prod
+            messages=[
+                {"role": "user", "content": user_message}
+            ],
+            system=SYSTEM_PROMPT,
+        )
+
+        # Extract the text content from the response
+        # Claude responses can contain multiple content blocks;
+        # for text-only, we grab the first text block.
+        answer = response.content[0].text.strip()
+
+        print(f"[generation] ✓ Answer generated ({len(answer)} chars)")
+        print(f"[generation]   Tokens used — Input: {response.usage.input_tokens}, "
+              f"Output: {response.usage.output_tokens}")
+
+        return answer
+
+    except anthropic.AuthenticationError:
+        raise EnvironmentError(
+            "Anthropic API key is invalid. Check your .env file."
+        )
+    except anthropic.RateLimitError:
+        raise RuntimeError(
+            "Anthropic API rate limit hit. Wait and retry, or upgrade your plan."
+        )
+    except anthropic.APIError as e:
+        raise RuntimeError(f"Anthropic API error: {e}")

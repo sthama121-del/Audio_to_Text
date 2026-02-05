@@ -1,0 +1,605 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2709
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww37900\viewh19680\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 (.venv) Sri@iMac RAG_Eval_Training % python main.py \
+/Users/Sri/Documents/Audio_to_Text/RAG_Eval_Training/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020\
+  warnings.warn(\
+[config] \uc0\u10003  All required environment variables are set.\
+/Users/Sri/Documents/Audio_to_Text/RAG_Eval_Training/main.py:39: LangChainDeprecationWarning: The class `Chroma` was deprecated in LangChain 0.2.9 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-chroma package and should be used instead. To use it run `pip install -U :class:`~langchain-chroma` and import as `from :class:`~langchain_chroma import Chroma``.\
+  vector_store = Chroma(\
+[pipeline] \uc0\u10003  Loaded vector store (287 chunks) from disk\
+\
+============================================================\
+ PHASE 1: RETRIEVAL + GENERATION\
+============================================================\
+\
+[pipeline] Processing question 1/10...\
+[pipeline] Q: What are the standard working hours at GESCI?...\
+[pipeline] Retrieval scores:\
+[pipeline]   Chunk 1: score=0.7115 | "proven impact of GESCI\'92s work.    5.1   Hours of Work  Staff..."\
+[pipeline]   Chunk 2: score=0.5947 | "In addition to annual leave, GESCI grants Company Holidays. ..."\
+[pipeline]   Chunk 3: score=0.5698 | "and the back straight.    8.4 Safety, Health & Welfare at GE..."\
+[pipeline]   Chunk 4: score=0.5621 | "Salaries for all GESCI staff is determined and contracted in..."\
+[pipeline]   Chunk 5: score=0.5621 | "It is GESCI\'92s policy, subject to the relevant employment law..."\
+[generation] \uc0\u10003  Answer generated (618 chars)\
+[generation]   Tokens used \'97 Input: 1197, Output: 147\
+\
+[pipeline] Processing question 2/10...\
+[pipeline] Q: How much annual leave is a full-time GESCI employee entitled to?...\
+[pipeline] Retrieval scores:\
+[pipeline]   Chunk 1: score=0.6573 | "termination.    5.2 Policy on Annual Leave  5.2.1 Annual lea..."\
+[pipeline]   Chunk 2: score=0.6467 | "\'95 In the event that annual leave already taken by the Staff ..."\
+[pipeline]   Chunk 3: score=0.6463 | "\'95 Where payment in lieu of notice is approved and given, GES..."\
+[pipeline]   Chunk 4: score=0.6427 | "parents, brothers and sisters, grand-parents and parents-in-..."\
+[pipeline]   Chunk 5: score=0.6410 | "a) Minimum of 7 days at full pay and 7 days at half pay; and..."\
+[generation] \uc0\u10003  Answer generated (400 chars)\
+[generation]   Tokens used \'97 Input: 1129, Output: 99\
+\
+[pipeline] Processing question 3/10...\
+[pipeline] Q: What is the probationary period for new GESCI staff?...\
+[pipeline] Retrieval scores:\
+[pipeline]   Chunk 1: score=0.6976 | "\uc0\u61623  Job description and levels of responsibilities in the orga..."\
+[pipeline]   Chunk 2: score=0.5883 | "3 RECRUITMENT AND APPOINTMENT  GESCI\'92s recruitment policy is..."\
+[pipeline]   Chunk 3: score=0.5829 | "that the spouse is not given any preference by virtue of the..."\
+[pipeline]   Chunk 4: score=0.5812 | "set out here.    2.2.1 Prohibited  conduct  The following sp..."\
+[pipeline]   Chunk 5: score=0.5600 | "proven impact of GESCI\'92s work.    5.1   Hours of Work  Staff..."\
+[generation] \uc0\u10003  Answer generated (600 chars)\
+[generation]   Tokens used \'97 Input: 1239, Output: 120\
+\
+[pipeline] Processing question 4/10...\
+[pipeline] Q: Under what specific conditions can a salary advance be given to a GESCI employee...\
+[pipeline] Retrieval scores:\
+[pipeline]   Chunk 1: score=0.5852 | "\uc0\u61623  Where because of his or her official position, a GESCI sta..."\
+[pipeline]   Chunk 2: score=0.5836 | "1 step for purposes of determining starting salary. Annual i..."\
+[pipeline]   Chunk 3: score=0.5751 | "4 REMUNERATION AND BENEFITS    4.1Introduction  It is GESCI\'92..."\
+[pipeline]   Chunk 4: score=0.5735 | "exceeding 50 per cent of the staff one month\'92s salary   \uc0\u61623  Ap..."\
+[pipeline]   Chunk 5: score=0.5725 | "Salaries for all GESCI staff is determined and contracted in..."\
+[generation] \uc0\u10003  Answer generated (1015 chars)\
+[generation]   Tokens used \'97 Input: 1183, Output: 209\
+\
+[pipeline] Processing question 5/10...\
+[pipeline] Q: What are the eligibility rules and limitations for relocation benefits at GESCI?...\
+[pipeline] Retrieval scores:\
+[pipeline]   Chunk 1: score=0.6227 | "appointment.  All of the benefits set out above are subject ..."\
+[pipeline]   Chunk 2: score=0.5768 | "duty station on appointment or on official change of duty st..."\
+[pipeline]   Chunk 3: score=0.5646 | "shall be eligible to have their household goods and personal..."\
+[pipeline]   Chunk 4: score=0.5489 | "part or all of the pension allowance.    4.4.2 Health/ Medic..."\
+[pipeline]   Chunk 5: score=0.5473 | "clinics and conditions covered (and conditions not covered) ..."\
+[generation] \uc0\u10003  Answer generated (507 chars)\
+[generation]   Tokens used \'97 Input: 1175, Output: 110\
+\
+[pipeline] Processing question 6/10...\
+[pipeline] Q: What are the maternity leave entitlements for a female GESCI staff member, and w...\
+[pipeline] Retrieval scores:\
+[pipeline]   Chunk 1: score=0.6294 | "parents, brothers and sisters, grand-parents and parents-in-..."\
+[pipeline]   Chunk 2: score=0.6139 | "\'95 In the event that annual leave already taken by the Staff ..."\
+[pipeline]   Chunk 3: score=0.6100 | "a) Minimum of 7 days at full pay and 7 days at half pay; and..."\
+[pipeline]   Chunk 4: score=0.6027 | "\'95 Where payment in lieu of notice is approved and given, GES..."\
+[pipeline]   Chunk 5: score=0.5974 | "The leave may be taken either continuously or in separate pe..."\
+[generation] \uc0\u10003  Answer generated (691 chars)\
+[generation]   Tokens used \'97 Input: 1168, Output: 138\
+\
+[pipeline] Processing question 7/10...\
+[pipeline] Q: If a GESCI employee is found guilty of gross misconduct after being suspended, w...\
+[pipeline] Retrieval scores:\
+[pipeline]   Chunk 1: score=0.6755 | "offence, embezzlement or misappropriation of GESCI\'92s funds o..."\
+[pipeline]   Chunk 2: score=0.6374 | "Staff members who are subject to summary dismissal shall not..."\
+[pipeline]   Chunk 3: score=0.6347 | "\'95 In compensation for a loss to GESCI, deductions from the s..."\
+[pipeline]   Chunk 4: score=0.6316 | "xv) Receives bribes or any other form of personal payment fo..."\
+[pipeline]   Chunk 5: score=0.6263 | "and given a chance to explain their side of the story.    9...."\
+[generation] \uc0\u10003  Answer generated (1254 chars)\
+[generation]   Tokens used \'97 Input: 1209, Output: 259\
+\
+[pipeline] Processing question 8/10...\
+[pipeline] Q: An employee wants to take on a paid consultancy on the side while still working ...\
+[pipeline] Retrieval scores:\
+[pipeline]   Chunk 1: score=0.6221 | "c)  Outside employment and activities  On occasional bases, ..."\
+[pipeline]   Chunk 2: score=0.6174 | "\uc0\u61623  Where because of his or her official position, a GESCI sta..."\
+[pipeline]   Chunk 3: score=0.6078 | "scrutiny.  GESCI staff is not be allowed to undertake paid c..."\
+[pipeline]   Chunk 4: score=0.5688 | "her/his own personal political interests. All staff members ..."\
+[pipeline]   Chunk 5: score=0.5684 | "in dealing with such other party including partners and/or c..."\
+[generation] \uc0\u10003  Answer generated (1084 chars)\
+[generation]   Tokens used \'97 Input: 1027, Output: 214\
+\
+[pipeline] Processing question 9/10...\
+[pipeline] Q: Does GESCI offer a stock option or equity participation plan for its employees?...\
+[pipeline] Retrieval scores:\
+[pipeline]   Chunk 1: score=0.5601 | "In the event that GESCI establishes a Pension Scheme, staff ..."\
+[pipeline]   Chunk 2: score=0.5520 | "recognition of the int ernational nature of the organization..."\
+[pipeline]   Chunk 3: score=0.5353 | "2 DUTIES, RIGHTS AND OBLIGATIONS    2.1 Duties, Rights and O..."\
+[pipeline]   Chunk 4: score=0.5273 | "proven impact of GESCI\'92s work.    5.1   Hours of Work  Staff..."\
+[pipeline]   Chunk 5: score=0.5243 | "4 REMUNERATION AND BENEFITS    4.1Introduction  It is GESCI\'92..."\
+[generation] \uc0\u10003  Answer generated (340 chars)\
+[generation]   Tokens used \'97 Input: 1184, Output: 64\
+\
+[pipeline] Processing question 10/10...\
+[pipeline] Q: What is GESCI's policy on remote work or working from home arrangements?...\
+[pipeline] Retrieval scores:\
+[pipeline]   Chunk 1: score=0.6647 | "8.6 Working from Home  If a staff member works from home whe..."\
+[pipeline]   Chunk 2: score=0.6219 | "proven impact of GESCI\'92s work.    5.1   Hours of Work  Staff..."\
+[pipeline]   Chunk 3: score=0.6080 | "satisfaction in order for the home-working arrangement to co..."\
+[pipeline]   Chunk 4: score=0.5624 | "ways in which they can be supported. In this regard, GESCI w..."\
+[pipeline]   Chunk 5: score=0.5605 | "recognition of the int ernational nature of the organization..."\
+[generation] \uc0\u10003  Answer generated (1338 chars)\
+[generation]   Tokens used \'97 Input: 1046, Output: 282\
+\uc0\u9556 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9559 \
+\uc0\u9553  QUESTION & ANSWER PAIRS (with Retrieved Context)                                                                   \u9553 \
+\uc0\u9562 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9565 \
+\
+\uc0\u9472 \u9472  Question 1 \u9472 \u9472 \
+Q: What are the standard working hours at GESCI?\
+\
+Retrieved Context (5 chunk(s)):\
+    Chunk 1: proven impact of GESCI\'92s work. \
+ \
+5.1   Hours of Work \
+Staff members are required to work the normal working hours which are 9.00 am to 5:30 \
+pm Monda...\
+    Chunk 2: In addition to annual leave, GESCI grants Company Holidays. Company Holidays are days \
+when the GESCI offices are closed. Company Holidays apply to al...\
+    Chunk 3: and the back straight. \
+ \
+8.4 Safety, Health & Welfare at GESCI Offices \
+GESCI staff may be based at GESCI offices in Nairobi. These offices are rente...\
+    Chunk 4: Salaries for all GESCI staff is determined and contracted in Kenyan shillings / US dollars . \
+Payments in a different currency will be at the market p...\
+    Chunk 5: It is GESCI\'92s policy, subject to the relevant employment laws, to advertise vacancies when \
+they occur in order to reach as many potential applicants ...\
+\
+A: Based on the HR policy documents, the standard working hours at GESCI are:\
+\
+- **9:00 AM to 5:30 PM, Monday to Friday**\
+- **One hour for lunch**\
+- **Total of 40 hours per week**\
+\
+The policy also notes that:\
+- GESCI reserves the right to alter these working hours from time to time\
+- Staff may be required to work additional hours and undertake travel outside normal working hours without additional \
+remuneration, given the nature of GESCI's work\
+- Flexible working hours can be agreed between staff and line managers, taking into account both individual and \
+organizational needs (such arrangements require CEO approval)\
+\uc0\u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \
+\
+\uc0\u9472 \u9472  Question 2 \u9472 \u9472 \
+Q: How much annual leave is a full-time GESCI employee entitled to?\
+\
+Retrieved Context (5 chunk(s)):\
+    Chunk 1: termination. \
+ \
+5.2 Policy on Annual Leave \
+5.2.1 Annual leave entitlement \
+Annual leave entitlement for each staff member is set out in their contrac...\
+    Chunk 2: \'95 In the event that annual leave already taken by the Staff member exceeds the entitlement \
+at the date of termination, the excess leave taken shall b...\
+    Chunk 3: \'95 Where payment in lieu of notice is approved and given, GESCI shall pay any outstanding \
+accrued but unused leave entitlement. \
+Accrued Annual leave ...\
+    Chunk 4: parents, brothers and sisters, grand-parents and parents-in- law. \
+ \
+5.3.2   Sick Leave \
+Staff members who are unable to perform their duties by reaso...\
+    Chunk 5: a) Minimum of 7 days at full pay and 7 days at half pay; and, \
+   b) Maximum of three months on full pay and three months on half pay regardless of le...\
+\
+A: Based on the HR policy context provided, a full-time GESCI employee is entitled to **24 days of annual leave per \
+annum**.\
+\
+Additional details from the policy:\
+- Annual leave accrues at the rate of 2 days per month\
+- For employees with less than one year of service, the entitlement is calculated proportionally based on length of \
+service\
+- The annual leave year runs from January 1st to December 31st\
+\uc0\u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \
+\
+\uc0\u9472 \u9472  Question 3 \u9472 \u9472 \
+Q: What is the probationary period for new GESCI staff?\
+\
+Retrieved Context (5 chunk(s)):\
+    Chunk 1: \uc0\u61623  Job description and levels of responsibilities in the organization \
+\uc0\u61623  GESCI areas of operations, type of services provided by GESCI and general envi...\
+    Chunk 2: 3 RECRUITMENT AND APPOINTMENT \
+GESCI\'92s recruitment policy is to recruit staff members of the highest caliber through a \
+competitive selection process ...\
+    Chunk 3: that the spouse is not given any preference by virtue of the relationship to the staff \
+member. In addition , a staff member shall not be assigned to ...\
+    Chunk 4: set out here. \
+ \
+2.2.1 Prohibited  conduct \
+The following specific instances of conduct are prohibited for all GESCI staff: \
+ \
+i. Discrimination: GESC...\
+    Chunk 5: proven impact of GESCI\'92s work. \
+ \
+5.1   Hours of Work \
+Staff members are required to work the normal working hours which are 9.00 am to 5:30 \
+pm Monda...\
+\
+A: Based on the HR policy context provided, the probationary period for new GESCI staff is **six months** for all \
+staff contracts exceeding 12 months.\
+\
+Additionally, the probation period may be extended for a further period (to a maximum of six months) with the \
+agreement of the staff member. Such extensions are made by the staff member's Manager in consultation with senior \
+management and may be necessary if a staff member's performance requires additional evaluation time.\
+\
+A formal probationary evaluation is conducted by the staff member's Manager together with a senior management \
+representative.\
+\uc0\u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \
+\
+\uc0\u9472 \u9472  Question 4 \u9472 \u9472 \
+Q: Under what specific conditions can a salary advance be given to a GESCI employee, and what is the maximum amount?\
+\
+Retrieved Context (5 chunk(s)):\
+    Chunk 1: \uc0\u61623  Where because of his or her official position, a GESCI staff member is invited to carry out \
+work on behalf of an outside body, he or she shall noti...\
+    Chunk 2: 1 step for purposes of determining starting salary. Annual increases based on performance, \
+if required will follow the steps in each grade. Increase ...\
+    Chunk 3: 4 REMUNERATION AND BENEFITS \
+ \
+4.1Introduction \
+It is GESCI\'92s policy to endeavor to provide its staff members\'92 salaries and other terms and \
+condition...\
+    Chunk 4: exceeding 50 per cent of the staff one month\'92s salary  \
+\uc0\u61623  Application for an advance in salary will be considered in cases of serious illness or in \
+l...\
+    Chunk 5: Salaries for all GESCI staff is determined and contracted in Kenyan shillings / US dollars . \
+Payments in a different currency will be at the market p...\
+\
+A: Based on the HR policy documents, here are the specific conditions under which a salary advance can be given to a \
+GESCI employee:\
+\
+**Conditions for Salary Advance:**\
+1. Cases of serious illness\
+2. Legitimate emergencies\
+3. In exceptional and compelling circumstances (requires detailed written justification and CEO authorization)\
+\
+**Maximum Amount:**\
+- A salary advance shall not exceed **one month's net earnings**\
+\
+**Important Additional Details:**\
+- The advance shall be recoverable from the staff member's next salary earnings\
+- All salary advances extending beyond one month may attract benefit tax for staff liable to taxation in their duty \
+station or if on a home working agreement\
+- The final authority to accept or reject an application is vested with the CEO\
+\
+Note: The context mentions that applications cannot exceed 50% of one month's salary in one section, but later clearly\
+states the maximum is one month's net earnings. Please contact HR directly if you need clarification on this specific \
+detail.\
+\uc0\u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \
+\
+\uc0\u9472 \u9472  Question 5 \u9472 \u9472 \
+Q: What are the eligibility rules and limitations for relocation benefits at GESCI?\
+\
+Retrieved Context (5 chunk(s)):\
+    Chunk 1: appointment. \
+All of the benefits set out above are subject to the rules and regulations of the \
+relevant s chemes as well as any limits of cover and ...\
+    Chunk 2: duty station on appointment or on official change of duty station. \
+Removal and shipment benefits \
+A staff member eligible for relocation benefits sha...\
+    Chunk 3: shall be eligible to have their household goods and personal effects transported by most \
+economical means subject to the maximum allowances covered b...\
+    Chunk 4: part or all of the pension allowance. \
+ \
+4.4.2 Health/ Medical Insurance \
+GESCI provides a Health Insurance Scheme (HI Scheme) for all staff provided ...\
+    Chunk 5: clinics and conditions covered (and conditions not covered) when they join GESCI and \
+subsequently every year or wherever there is a change. \
+If a sta...\
+\
+A: Based on the ACME Corp HR policy documents provided, I don't have information about ACME Corp's relocation benefits\
+in the current HR policy documents. \
+\
+The context provided appears to contain information about GESCI (not ACME Corp) policies. Since I can only answer \
+questions about ACME Corp policies based on the provided context, and no ACME Corp relocation policy information is \
+included, please contact HR directly for assistance with ACME Corp's relocation benefits eligibility rules and \
+limitations.\
+\uc0\u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \
+\
+\uc0\u9472 \u9472  Question 6 \u9472 \u9472 \
+Q: What are the maternity leave entitlements for a female GESCI staff member, and what are the rules around pay and \
+additional leave?\
+\
+Retrieved Context (5 chunk(s)):\
+    Chunk 1: parents, brothers and sisters, grand-parents and parents-in- law. \
+ \
+5.3.2   Sick Leave \
+Staff members who are unable to perform their duties by reaso...\
+    Chunk 2: \'95 In the event that annual leave already taken by the Staff member exceeds the entitlement \
+at the date of termination, the excess leave taken shall b...\
+    Chunk 3: a) Minimum of 7 days at full pay and 7 days at half pay; and, \
+   b) Maximum of three months on full pay and three months on half pay regardless of le...\
+    Chunk 4: \'95 Where payment in lieu of notice is approved and given, GESCI shall pay any outstanding \
+accrued but unused leave entitlement. \
+Accrued Annual leave ...\
+    Chunk 5: The leave may be taken either continuously or in separate periods during the year following \
+the birth of the child, provided that it is completed dur...\
+\
+A: I don't have information about that in the current HR policy documents. Please contact HR directly for assistance.\
+\
+While the provided context mentions various types of leave including compassionate leave, sick leave, and study leave,\
+it does not contain specific information about maternity leave entitlements, pay rates, or duration for female GESCI \
+staff members. There is a brief reference to leave following the birth of a child in Chunk 5, but this appears to be \
+incomplete and doesn't provide the full maternity leave policy details you're asking about.\
+\
+For accurate information about maternity leave entitlements and associated rules, please reach out to the HR \
+department directly.\
+\uc0\u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \
+\
+\uc0\u9472 \u9472  Question 7 \u9472 \u9472 \
+Q: If a GESCI employee is found guilty of gross misconduct after being suspended, what are their rights during the \
+process and what financial consequences do they face upon dismissal?\
+\
+Retrieved Context (5 chunk(s)):\
+    Chunk 1: offence, embezzlement or misappropriation of GESCI\'92s funds or any other grounds for \
+summary dismissal under the relevant Kenyan labour law, she/he wi...\
+    Chunk 2: Staff members who are subject to summary dismissal shall not be entitled to pay in lieu \
+of notice nor shall they be entitled to severance pay. \
+ \
+9.5...\
+    Chunk 3: \'95 In compensation for a loss to GESCI, deductions from the staff member\'92s salary for  \
+              a specified period of time. \
+\'95 Dismissal or termi...\
+    Chunk 4: xv) Receives bribes or any other form of personal payment for services rendered in the name \
+of GESCI. \
+xvi) Possesses, uses or is under the influence...\
+    Chunk 5: and given a chance to explain their side of the story. \
+ \
+9.2 Disciplinary measures \
+Disciplinary measures may be imposed whenever there is a finding ...\
+\
+A: Based on the provided HR policy context, here is what I can tell you about rights and financial consequences for a \
+GESCI employee found guilty of gross misconduct:\
+\
+## Rights During the Process:\
+\
+1. **Suspension with Full Pay**: In cases of serious offences (which would include gross misconduct), staff members \
+shall be suspended with full pay until the investigation is completed.\
+\
+2. **Investigation and Explanation**: The procedures allow for full investigation of an offence, and no action will be\
+taken until the investigation is completed. Staff members must be given a chance to explain their side of the story.\
+\
+3. **Similar Procedure**: The procedure for gross misconduct charges shall be similar to the standard disciplinary \
+procedure (though ending in summary dismissal rather than a warning).\
+\
+## Financial Consequences Upon Summary Dismissal:\
+\
+Staff members who are subject to summary dismissal face the following financial consequences:\
+\
+1. **No Pay in Lieu of Notice**: They are not entitled to pay in lieu of notice.\
+\
+2. **No Severance Pay**: They are not entitled to severance pay.\
+\
+These are the specific rights and financial consequences explicitly mentioned in the provided policy documents \
+regarding gross misconduct cases at GESCI.\
+\uc0\u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \
+\
+\uc0\u9472 \u9472  Question 8 \u9472 \u9472 \
+Q: An employee wants to take on a paid consultancy on the side while still working at GESCI. What does the policy say \
+about this, and what could happen if they do it without permission?\
+\
+Retrieved Context (5 chunk(s)):\
+    Chunk 1: c)  Outside employment and activities \
+On occasional bases, GESCI staff members are asked to carry out tasks for which they \
+receive p ayment or other...\
+    Chunk 2: \uc0\u61623  Where because of his or her official position, a GESCI staff member is invited to carry out \
+work on behalf of an outside body, he or she shall noti...\
+    Chunk 3: scrutiny. \
+GESCI staff is not be allowed to undertake paid consultancies or any other form of paid \
+employment during the course of their employment. ...\
+    Chunk 4: her/his own personal political interests. All staff members of GESCI should note  that \
+GESCI is non-political and non-partisan. \
+vii. Unprofessional ...\
+    Chunk 5: in dealing with such other party including partners and/or clients. Receiving benefits might \
+also be seen to compromise their personal judgement or i...\
+\
+A: Based on the HR policy context provided, here is what the policy says about taking on paid consultancy work:\
+\
+**The policy is very clear and strict on this matter:**\
+\
+GESCI staff members are **NOT allowed to undertake paid consultancies or any other form of paid employment** during \
+the course of their employment with GESCI. This prohibition explicitly includes:\
+- Evenings\
+- Weekends\
+- While on leave\
+\
+This is a blanket restriction with no exceptions mentioned in the provided policy context.\
+\
+**Regarding consequences:**\
+\
+I don't have information about the specific disciplinary actions or consequences that would result from undertaking \
+paid consultancy without permission in the current HR policy documents provided. The context mentions that such \
+activities could be considered "unprofessional conduct that would bring the staff member's professional ethics, image \
+or integrity or GESCI's reputation into question," but the exact penalties are not detailed in these excerpts.\
+\
+**For complete information about potential consequences, please contact HR directly for assistance.**\
+\uc0\u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \
+\
+\uc0\u9472 \u9472  Question 9 \u9472 \u9472 \
+Q: Does GESCI offer a stock option or equity participation plan for its employees?\
+\
+Retrieved Context (5 chunk(s)):\
+    Chunk 1: In the event that GESCI establishes a Pension Scheme, staff members will be  eligible to \
+join, and during the term of a staff member\'92s employment rem...\
+    Chunk 2: recognition of the int ernational nature of the organization, GESCI will strive to maintain \
+diversity among its staff. \
+It is the int ention of GE SC...\
+    Chunk 3: 2 DUTIES, RIGHTS AND OBLIGATIONS \
+ \
+2.1 Duties, Rights and Obligations of GESCI \
+GESCI is committed to ensuring that all staff members are treated in ...\
+    Chunk 4: proven impact of GESCI\'92s work. \
+ \
+5.1   Hours of Work \
+Staff members are required to work the normal working hours which are 9.00 am to 5:30 \
+pm Monda...\
+    Chunk 5: 4 REMUNERATION AND BENEFITS \
+ \
+4.1Introduction \
+It is GESCI\'92s policy to endeavor to provide its staff members\'92 salaries and other terms and \
+condition...\
+\
+A: I don't have information about that in the current HR policy documents. Please contact HR directly for assistance.\
+\
+The provided context discusses GESCI's remuneration and benefits including potential pension schemes, salary \
+structure, and general employment policies, but there is no mention of stock options or equity participation plans.\
+\uc0\u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \
+\
+\uc0\u9472 \u9472  Question 10 \u9472 \u9472 \
+Q: What is GESCI's policy on remote work or working from home arrangements?\
+\
+Retrieved Context (5 chunk(s)):\
+    Chunk 1: 8.6 Working from Home \
+If a staff member works from home whether at the request of GESCI or of the staff member \
+with GESCI\'92s consent then their home ...\
+    Chunk 2: proven impact of GESCI\'92s work. \
+ \
+5.1   Hours of Work \
+Staff members are required to work the normal working hours which are 9.00 am to 5:30 \
+pm Monda...\
+    Chunk 3: satisfaction in order for the home-working arrangement to continue. \
+ \
+8.7 Travelling on GESCI business \
+Given the nature of GESCI\'92s business, global ...\
+    Chunk 4: ways in which they can be supported. In this regard, GESCI will encourage staff to pursue \
+private studies and will grant study leave with or without ...\
+    Chunk 5: recognition of the int ernational nature of the organization, GESCI will strive to maintain \
+diversity among its staff. \
+It is the int ention of GE SC...\
+\
+A: Based on the HR policy documents, here is GESCI's policy on working from home:\
+\
+**Working from Home Policy:**\
+\
+When a staff member works from home\'97either at GESCI's request or with GESCI's consent\'97their home is regarded as a \
+location of work that falls under the scope of OSHA (Occupational Safety and Health Act).\
+\
+**Key Requirements:**\
+\
+1. **Health and Safety Compliance**: All health and safety policies that apply to office-based staff also apply to \
+home-workers.\
+\
+2. **Inspection Rights**: GESCI reserves the right to inspect any home-working environment. Authorized occupational \
+safety and health officers are legally entitled to visit home-based offices.\
+\
+3. **Resolution of Issues**: If any health and safety issues arise in the home-working environment, these must be \
+resolved to GESCI's satisfaction for the home-working arrangement to continue.\
+\
+4. **Flexible Hours**: The policy mentions that flexible working hours can be arranged between staff and line \
+managers, taking into account both individual and organizational needs. Such arrangements within teams must be cleared\
+by the CEO.\
+\
+**Note**: The provided policy excerpts cover the health and safety aspects of working from home but do not include \
+details about eligibility criteria, application processes, or specific conditions for approval of home-working \
+arrangements.\
+\uc0\u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \
+\
+============================================================\
+ PHASE 2: RAGAS EVALUATION\
+============================================================\
+[evaluation] \uc0\u10003  Prepared evaluation dataset with 10 samples\
+\
+[evaluation] Running RAGAS evaluation (this calls the LLM judge)...\
+[evaluation] Metrics: Faithfulness, Answer Relevance, Context Precision, Context Recall\
+Evaluating:   0%|                                                                              | 0/40 [00:00<?, ?it/s]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.\
+LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.\
+LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.\
+LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.\
+Evaluating:   2%|\uc0\u9608 \u9611                                                                  | 1/40 [02:05<1:21:27, 125.33s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.\
+LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.\
+LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.\
+LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.\
+Evaluating:  42%|\uc0\u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9614                                        | 17/40 [04:37<05:29, 14.34s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.\
+LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.\
+Evaluating: 100%|\uc0\u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 | 40/40 [05:36<00:00,  8.41s/it]\
+[evaluation] \uc0\u9888  faithfulness: not found in results.scores. Defaulting to 0.0. (list indices must be integers or slices, not str)\
+[evaluation] \uc0\u9888  answer_relevancy: not found in results.scores. Defaulting to 0.0. (list indices must be integers or slices, not str)\
+[evaluation] \uc0\u9888  context_precision: not found in results.scores. Defaulting to 0.0. (list indices must be integers or slices, not str)\
+[evaluation] \uc0\u9888  context_recall: not found in results.scores. Defaulting to 0.0. (list indices must be integers or slices, not str)\
+[evaluation] \uc0\u10003  Evaluation complete.\
+\
+[evaluation] Running per-sample breakdown...\
+Evaluating:   0%|                                                                              | 0/40 [00:00<?, ?it/s]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.\
+LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.\
+LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.\
+LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.\
+Evaluating:   2%|\uc0\u9608 \u9611                                                                  | 1/40 [02:20<1:31:14, 140.38s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.\
+LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.\
+LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.\
+LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.\
+Evaluating:  42%|\uc0\u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9614                                        | 17/40 [04:53<05:46, 15.07s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.\
+LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.\
+Evaluating: 100%|\uc0\u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 \u9608 | 40/40 [05:54<00:00,  8.86s/it]\
+\
+============================================================\
+ PHASE 3: EVALUATION REPORT\
+============================================================\
+\
+\
+\uc0\u9556 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9559 \
+\uc0\u9553  RAG TRIAD \'97 AGGREGATE EVALUATION SCORES                                                                            \u9553 \
+\uc0\u9562 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9565 \
+                                                  Evaluation Results                                                  \
+\uc0\u9581 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9516 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9516 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9516 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9582 \
+\uc0\u9474  Metric                         \u9474     Score     \u9474      Rating     \u9474  What It Measures                                  \u9474 \
+\uc0\u9500 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9508 \
+\uc0\u9474  Faithfulness                   \u9474     0.000     \u9474       Poor      \u9474  Answer is grounded in retrieved context (no       \u9474 \
+\uc0\u9474                                 \u9474               \u9474                 \u9474  hallucinations)                                   \u9474 \
+\uc0\u9500 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9508 \
+\uc0\u9474  Answer Relevance               \u9474     0.000     \u9474       Poor      \u9474  Answer actually addresses the user's question     \u9474 \
+\uc0\u9500 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9508 \
+\uc0\u9474  Context Precision              \u9474     0.000     \u9474       Poor      \u9474  Retrieved chunks are relevant to the question     \u9474 \
+\uc0\u9500 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9508 \
+\uc0\u9474  Context Recall                 \u9474     0.000     \u9474       Poor      \u9474  All necessary chunks were retrieved               \u9474 \
+\uc0\u9584 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9524 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9524 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9524 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9583 \
+\
+  Overall Average: 0.000 (Poor)\
+\
+\uc0\u9556 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9559 \
+\uc0\u9553  PER-QUESTION SCORE BREAKDOWN                                                                                       \u9553 \
+\uc0\u9562 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9565 \
+\uc0\u9581 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9516 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9516 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9516 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9516 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9516 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9582 \
+\uc0\u9474   #   \u9474  Question                                      \u9474   Faith.   \u9474    Rel.    \u9474    Prec.   \u9474    Rec.    \u9474 \
+\uc0\u9500 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9508 \
+\uc0\u9474   1   \u9474  What are the standard working hours at ...    \u9474    0.00    \u9474    0.00    \u9474    0.00    \u9474    0.00    \u9474 \
+\uc0\u9500 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9508 \
+\uc0\u9474   2   \u9474  How much annual leave is a full-time GE...    \u9474    0.00    \u9474    0.00    \u9474    0.00    \u9474    0.00    \u9474 \
+\uc0\u9500 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9508 \
+\uc0\u9474   3   \u9474  What is the probationary period for new...    \u9474    0.00    \u9474    0.00    \u9474    0.00    \u9474    0.00    \u9474 \
+\uc0\u9500 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9508 \
+\uc0\u9474   4   \u9474  Under what specific conditions can a sa...    \u9474    0.00    \u9474    0.00    \u9474    0.00    \u9474    0.00    \u9474 \
+\uc0\u9500 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9508 \
+\uc0\u9474   5   \u9474  What are the eligibility rules and limi...    \u9474    0.00    \u9474    0.00    \u9474    0.00    \u9474    0.00    \u9474 \
+\uc0\u9500 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9508 \
+\uc0\u9474   6   \u9474  What are the maternity leave entitlemen...    \u9474    0.00    \u9474    0.00    \u9474    0.00    \u9474    0.00    \u9474 \
+\uc0\u9500 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9508 \
+\uc0\u9474   7   \u9474  If a GESCI employee is found guilty of ...    \u9474    0.00    \u9474    0.00    \u9474    0.00    \u9474    0.00    \u9474 \
+\uc0\u9500 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9508 \
+\uc0\u9474   8   \u9474  An employee wants to take on a paid con...    \u9474    0.00    \u9474    0.00    \u9474    0.00    \u9474    0.00    \u9474 \
+\uc0\u9500 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9508 \
+\uc0\u9474   9   \u9474  Does GESCI offer a stock option or equi...    \u9474    0.00    \u9474    0.00    \u9474    0.00    \u9474    0.00    \u9474 \
+\uc0\u9500 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9532 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9508 \
+\uc0\u9474   10  \u9474  What is GESCI's policy on remote work o...    \u9474    0.00    \u9474    0.00    \u9474    0.00    \u9474    0.00    \u9474 \
+\uc0\u9584 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9524 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9524 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9524 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9524 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9524 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9583 \
+\uc0\u9556 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9559 \
+\uc0\u9553  INTERVIEW PREP \'97 KEY TOPICS COVERED IN THIS PROJECT                                                                \u9553 \
+\uc0\u9562 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9552 \u9565 \
+                                                                                                           \
+  Chunking Strategy              RecursiveCharacterTextSplitter vs alternatives; chunk_size & overlap      \
+                                 tuning                                                                    \
+  Embedding Choice               text-embedding-3-small vs large; dimensionality vs cost tradeoffs         \
+  Retrieval Tuning               K selection; 'lost in the middle' problem; query rewriting (HyDE)         \
+  Hallucination Control          System prompt constraints; the 'I don't know' escape hatch                \
+  The RAG Triad                  Faithfulness, Answer Relevance, Context Precision/Recall                  \
+  LLM-as-Judge                   Why lexical metrics (BLEU) fail; semantic evaluation via LLM              \
+  Eval Frameworks                RAGAS vs DeepEval vs TruLens \'97 when to use which                          \
+  Production Concerns            Idempotent ingestion; embedding drift; per-question monitoring            \
+  Token Management               Context window budgets; cost optimization; truncation strategies          \
+  Debugging Retrieval            Score logging; similarity thresholds; per-question score alerts           \
+                                                                                                           \
+\
+[pipeline] \uc0\u10003  Pipeline complete.\
+(.venv) Sri@iMac RAG_Eval_Training % }
