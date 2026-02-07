@@ -1,11 +1,8 @@
 streamlit>=1.28.0
 openai-whisper>=20231117
-torch>=2.0.0
-torchvision>=0.15.0
-torchaudio>=2.0.0
+--index-url https://download.pytorch.org/whl/cpu
+torch
+torchaudio
+torchvision
 ffmpeg-python>=0.2.0
 numpy>=1.24.0
-
-# Optional: For advanced speaker diarization
-# Uncomment the line below if you want true speaker diarization
-# pyannote.audio>=3.0.0
