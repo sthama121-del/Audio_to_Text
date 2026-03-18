@@ -1,0 +1,20 @@
+# Mac junk
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
+
+# Vector DB / artifacts
+chroma_db/
+
+# Logs
+*.log
+
