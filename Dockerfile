@@ -16,4 +16,4 @@ COPY . /app
 
 EXPOSE 8501
 
-CMD ["bash", "-lc", "streamlit run audio_transcriber_app.py --server.port=8501 --server.address=0.0.0.0 --server.headless=true"]
+CMD ["bash", "-lc", "streamlit run app.py --server.port=8501 --server.address=0.0.0.0 --server.headless=true"]

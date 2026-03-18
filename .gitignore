@@ -1,20 +1,46 @@
-# Mac junk
-.DS_Store
-
-# Python
+﻿# Python
 __pycache__/
+*.py[cod]
 *.pyc
 
 # Virtual environments
 .venv/
 venv/
+env/
 
-# Secrets
+# Environment variables
 .env
+.env.local
 
-# Vector DB / artifacts
-chroma_db/
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Whisper model files (too large for Git)
+*.pt
+*.bin
+whisper_models/
+
+# Audio/video files
+*.mp3
+*.mp4
+*.wav
+*.m4a
+
+# Generated outputs
+outputs/
+transcriptions/
 
 # Logs
 *.log
 
+# Vector DB
+chroma_db/
+
+# Jupyter
+.ipynb_checkpoints/

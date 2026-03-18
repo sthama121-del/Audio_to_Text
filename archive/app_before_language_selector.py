@@ -86,20 +86,20 @@ def validate_and_preprocess_audio(audio_path):
     except Exception as e:
         return None, f"Audio preprocessing error: {str(e)}"
 
-def transcribe_audio(audio_path, model, language=None):
+def transcribe_audio(audio_path, model):
     """Transcribe audio file using Whisper with robust error handling"""
     try:
         result = model.transcribe(
             audio_path,
             verbose=False,
-            language=language,  # None = auto-detect, or force e.g. "te", "hi", "ta"
+            language=None,  # Auto-detect language
             task="transcribe",
             fp16=False,  # Use FP32 for CPU/Mac compatibility
             condition_on_previous_text=False,
             compression_ratio_threshold=2.4,
             logprob_threshold=-1.0,
-            no_speech_threshold=0.3,  # More sensitive — catches speech under music
-            temperature=0.2           # Slight creativity reduces hallucination loops
+            no_speech_threshold=0.6,
+            temperature=0.0
         )
         return result
     except Exception as e:
@@ -147,7 +147,7 @@ def simple_speaker_detection(result, num_speakers=2):
 
     return formatted_text
 
-def run_transcription(audio_path, model_size, format_option, num_speakers=2, language=None):
+def run_transcription(audio_path, model_size, format_option, num_speakers=2):
     """Shared transcription logic used by both file upload and YouTube tabs"""
     clean_audio_path = None
     try:
@@ -160,9 +160,8 @@ def run_transcription(audio_path, model_size, format_option, num_speakers=2, lan
         with st.spinner(f"Loading Whisper '{model_size}' model..."):
             model = load_whisper_model(model_size)
 
-        lang_label = language if language else "auto-detect"
-        with st.spinner(f"Transcribing audio (language: {lang_label})... This may take a few minutes."):
-            result = transcribe_audio(clean_audio_path, model, language=language)
+        with st.spinner("Transcribing audio... This may take a few minutes."):
+            result = transcribe_audio(clean_audio_path, model)
 
         if result is None:
             st.error("❌ Transcription failed. Please try a different audio file.")
@@ -211,29 +210,6 @@ def main():
             index=1,
             help="Larger models are more accurate but slower. 'base' or 'small' recommended for most uses."
         )
-
-        st.markdown("---")
-
-        language_options = {
-            "Auto-detect": None,
-            "Telugu": "te",
-            "Hindi": "hi",
-            "Tamil": "ta",
-            "Kannada": "kn",
-            "English": "en",
-        }
-        selected_language = st.selectbox(
-            "Language",
-            options=list(language_options.keys()),
-            index=0,
-            help="Force a specific language for better accuracy. Strongly recommended for Telugu/Hindi."
-        )
-        language_code = language_options[selected_language]
-
-        if selected_language != "Auto-detect":
-            st.success(f"✅ Language forced: {selected_language}")
-        else:
-            st.warning("⚠️ Auto-detect may struggle with Telugu/Hindi. Force the language for better results.")
 
         st.markdown("---")
 
@@ -292,7 +268,7 @@ def main():
                             tmp_file.write(uploaded_file.getvalue())
                             tmp_file_path = tmp_file.name
 
-                        run_transcription(tmp_file_path, model_size, format_option, num_speakers, language=language_code)
+                        run_transcription(tmp_file_path, model_size, format_option, num_speakers)
 
                     finally:
                         if tmp_file_path and os.path.exists(tmp_file_path):
@@ -343,7 +319,7 @@ def main():
                             st.info("💡 Make sure the URL is a valid public YouTube video.")
                         else:
                             st.success(f"✅ Downloaded: {title}")
-                            run_transcription(yt_audio_path, model_size, format_option, num_speakers, language=language_code)
+                            run_transcription(yt_audio_path, model_size, format_option, num_speakers)
 
                     finally:
                         if yt_audio_path and os.path.exists(yt_audio_path):
